@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-soc/00 - Index.md",
-                "mode": "preview",
+                "file": "E-soc/Section 1 - Welcome/SOC Analyst Overview.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Index"
+              "title": "SOC Analyst Overview"
             }
           }
         ]
@@ -222,8 +222,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "debe232c86815349",
+  "active": "922e05a679b139af",
   "lastOpenFiles": [
+    "E-soc/01 - Course - Template.md",
+    "E-soc/Section 1 - Welcome/SOC Analyst Overview.md",
+    "E-soc/00 - Index.md",
     "E-soc/Section 4 - Goodbye/Summary.md",
     "E-soc/Section 6 - Attachment",
     "E-soc/Section 5 - Labs",
@@ -237,14 +240,11 @@
     "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology.md",
     "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC.md",
-    "E-soc/Section 1 - Welcome/SOC Analyst Overview.md",
     "E-soc/Section 4 - Goodbye",
     "E-soc/Section 3 - SOC Operations",
     "E-soc/Section 2 - Foundations",
-    "E-soc/00 - Index.md",
     "E-soc/Section 1 - Welcome",
     "Untitled",
-    "E-soc/Untitled.md",
     "E-soc",
     "Welcome.md"
   ]

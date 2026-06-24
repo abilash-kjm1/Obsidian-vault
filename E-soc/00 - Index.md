@@ -1,13 +1,13 @@
 # eSoc Study Tracker
 
 **Goal:** SOC Analyst Level 1  
-**Started:** 2025  
+**Started:** 23 - June - 2026 
 **Status:** 🔴 In Progress
 
 ---
 
 ## Section 1 - Welcome
-- [x] SOC Analyst Level 1 Overview
+- [ ] SOC Analyst Level 1 Overview
 
 ---
 
@@ -48,10 +48,3 @@ GROUP BY file.folder
 ```
 
 ---
-
-## ⏱️ Total Hours
-| Section                    | Hours         |
-| -------------------------- | ------------- |
-| Section 2 - Foundations    | ~28h          |
-| Section 3 - SOC Operations | ~58h          |
-| **Total**                  | **~86 hours** |
