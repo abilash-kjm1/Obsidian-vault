@@ -1,7 +1,4 @@
----
-tags:
-  - done
----
+
 
 # SOC Analyst Level 1 Overview
 
