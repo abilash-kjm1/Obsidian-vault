@@ -12,5 +12,6 @@
   "cmdr",
   "obsidian-importer",
   "tag-wrangler",
-  "slash-commander"
+  "slash-commander",
+  "dataview"
 ]
