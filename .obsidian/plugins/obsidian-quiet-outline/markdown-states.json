@@ -1,6 +1,6 @@
 {
   "E-soc/00 - Index.md": {
-    "scroll": 0,
+    "scroll": 22.323076923076922,
     "cursor": {
       "from": {
         "line": 0,
@@ -11,7 +11,9 @@
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0"
+    ]
   },
   "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md": {
     "scroll": 0,
