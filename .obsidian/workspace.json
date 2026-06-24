@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "E-soc/00 - Index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -113,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "E-soc/00 - Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 00 - Index"
             }
           },
           {
@@ -224,8 +225,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "add70759665de494",
@@ -267,10 +267,12 @@
   },
   "active": "196d2031b7309690",
   "lastOpenFiles": [
-    "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
-    "E-soc/00 - Index.md",
-    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
     "index.md",
+    "E-soc/00 - Index.md",
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/09 - SOC Maturity Levels.md",
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/04 - Cyber Kill Chain.md",
+    "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
     "_config.yml",
     "2026-02-05.md",
     "copilot/copilot-conversations/Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260624_005159.md",
@@ -295,8 +297,6 @@
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
-    "E-soc/01 - Course - Template.md",
-    "E-soc/Section 4 - Goodbye/Summary.md",
     "Untitled.canvas",
     "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/08 - High-Level View of Custom AI in SOCs",
     "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/07 - Limitations & Risks of AI in the SOC",

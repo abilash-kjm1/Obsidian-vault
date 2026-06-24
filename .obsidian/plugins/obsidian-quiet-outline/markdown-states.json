@@ -1,6 +1,6 @@
 {
   "E-soc/00 - Index.md": {
-    "scroll": 0.8120300751879699,
+    "scroll": 33.25,
     "cursor": {
       "from": {
         "line": 25,
@@ -30,6 +30,34 @@
     "expandedKeys": []
   },
   "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/04 - Cyber Kill Chain.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/09 - SOC Maturity Levels.md": {
     "scroll": 0,
     "cursor": {
       "from": {
