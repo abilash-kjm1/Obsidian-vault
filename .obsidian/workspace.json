@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-soc/01 - Course - Template.md",
-                "mode": "source",
+                "file": "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Course - Template"
+              "title": "SOC Analyst Level 1 Overview"
             }
           }
         ]
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Table of Contents.md",
+                "file": "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Table of Contents"
+              "title": "Backlinks for SOC Analyst Level 1 Overview"
             }
           },
           {
@@ -136,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Table of Contents.md",
+                "file": "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Table of Contents"
+              "title": "Outgoing links from SOC Analyst Level 1 Overview"
             }
           },
           {
@@ -226,13 +226,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "922e05a679b139af",
+  "active": "3389bf16275d19ec",
   "lastOpenFiles": [
-    "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
-    "E-soc/Section 3 - SOC Operations/01 - SOC Logging & Analysis/04 - SIEM Fundamentals/04 - Events Alerts & Incidents.md",
     "E-soc/00 - Index.md",
-    "E-soc/Section 3 - SOC Operations/02 - Incident Detection & Response/01 - IR Fundamentals/04 - Events Alerts & Incidents.md",
+    "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
     "E-soc/01 - Course - Template.md",
+    "E-soc/Section 3 - SOC Operations/01 - SOC Logging & Analysis/04 - SIEM Fundamentals/04 - Events Alerts & Incidents.md",
+    "E-soc/Section 3 - SOC Operations/02 - Incident Detection & Response/01 - IR Fundamentals/04 - Events Alerts & Incidents.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/02 - SOC Roles & Responsibilities.md",
     "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/08 - High-Level View of Custom AI in SOCs/01 - How Custom ML Models Are Used in SOCs.md",

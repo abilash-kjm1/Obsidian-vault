@@ -1,5 +1,6 @@
 {
   "cssTheme": "Obsidianite",
   "interfaceFontFamily": "Verdana",
-  "textFontFamily": "Franklin Gothic"
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Fira Code"
 }
