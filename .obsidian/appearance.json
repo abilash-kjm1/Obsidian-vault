@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Obsidianite"
+  "cssTheme": "Obsidianite",
+  "interfaceFontFamily": "Verdana",
+  "textFontFamily": "Franklin Gothic"
 }

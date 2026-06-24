@@ -224,8 +224,9 @@
   },
   "active": "22a402a0c2247eb9",
   "lastOpenFiles": [
-    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/02 - SOC Roles & Responsibilities.md",
     "E-soc/00 - Index.md",
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
     "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/08 - High-Level View of Custom AI in SOCs/01 - How Custom ML Models Are Used in SOCs.md",
     "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/07 - Limitations & Risks of AI in the SOC/01 - AI Bias False Positives & Analyst Oversight.md",
     "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/06 - Prompting for SOC Tasks/03 - Using GenAI for Reporting & Documentation.md",
@@ -258,7 +259,6 @@
     "E-soc/Section 3 - SOC Operations/06 - Phishing Mail Analysis/01 - Phishing Fundamentals/02 - Types of Phishing Attacks.md",
     "E-soc/Section 3 - SOC Operations/06 - Phishing Mail Analysis/01 - Phishing Fundamentals/01 - Phishing Fundamentals.md",
     "E-soc/Section 3 - SOC Operations/06 - Phishing Mail Analysis/03 - Response",
-    "E-soc/Section 3 - SOC Operations/05 - Malware Analysis/06 - Dynamic Analysis/03 - Dynamic Analysis Demo.md",
-    "E-soc/Section 3 - SOC Operations/05 - Malware Analysis/06 - Dynamic Analysis/02 - Dynamic Analysis Environment Safety.md"
+    "E-soc/Section 3 - SOC Operations/05 - Malware Analysis/06 - Dynamic Analysis/03 - Dynamic Analysis Demo.md"
   ]
 }

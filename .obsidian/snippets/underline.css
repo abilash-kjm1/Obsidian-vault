@@ -1,0 +1,26 @@
+/* Fix thick underline from Obsidianite theme */
+.markdown-preview-view a.internal-link,
+.markdown-preview-view a,
+a.internal-link,
+.internal-link {
+    text-decoration: none !important;
+    border-bottom: 1px solid currentColor !important;
+    box-shadow: none !important;
+    background-image: none !important;
+    background: none !important;
+    padding-bottom: 0px !important;
+}
+
+.markdown-preview-view a.internal-link:hover,
+a.internal-link:hover {
+    text-decoration: none !important;
+    border-bottom: 1px solid currentColor !important;
+    box-shadow: none !important;
+    background-image: none !important;
+}
+
+/* Fix strikethrough on completed tasks links */
+.task-list-item.is-checked a.internal-link {
+    text-decoration: line-through !important;
+    border-bottom: none !important;
+}
