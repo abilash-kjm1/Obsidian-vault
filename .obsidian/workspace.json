@@ -218,10 +218,11 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "debe232c86815349",
+  "active": "922e05a679b139af",
   "lastOpenFiles": [
     "E-soc/Table of Contents.md",
     "E-soc/Untitled.md",
