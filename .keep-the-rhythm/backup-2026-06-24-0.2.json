@@ -55,7 +55,9 @@
     "highestStreak": 0,
     "highestStreakStartDate": "",
     "highestStreakEndDate": "",
-    "daysWithCompletedGoal": [],
+    "daysWithCompletedGoal": [
+      "2026-06-24"
+    ],
     "dailyActivity": [
       {
         "date": "2026-06-24",
@@ -77,6 +79,16 @@
             "timeKey": "18:50",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "19:15",
+            "w": 1744,
+            "c": 7419
+          },
+          {
+            "timeKey": "19:30",
+            "w": -3421,
+            "c": -18663
           }
         ],
         "id": 1
@@ -128,6 +140,38 @@
         "charCountStart": 0,
         "changes": [],
         "id": 7
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/05 - NIST Cybersecurity Framework.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 8
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/02 - Networking Fundamentals for Analysts/01 - Network Models (OSI & TCP-IP).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 9
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/02 - Networking Fundamentals for Analysts/03 - IPv4 Addressing.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 10
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/03 - SOC Operations.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 11
       }
     ]
   }

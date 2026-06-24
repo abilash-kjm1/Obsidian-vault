@@ -1,14 +1,14 @@
 {
   "E-soc/00 - Index.md": {
-    "scroll": 220.85602678571428,
+    "scroll": 112.76339285714286,
     "cursor": {
       "from": {
-        "line": 25,
-        "ch": 79
+        "line": 120,
+        "ch": 0
       },
       "to": {
-        "line": 25,
-        "ch": 79
+        "line": 120,
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -116,6 +116,62 @@
     "expandedKeys": []
   },
   "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/02 - Networking Fundamentals for Analysts/03 - IPv4 Addressing.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/03 - SOC Operations.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Section 2 - Foundations/02 - Core Skills for SOC Analysts/05 - Linux Networking %26 Remote Access.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Section 2 - Foundations/02 - Core Skills for SOC Analysts/02 - Pattern Recognition.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Section 3 - SOC Operations/01 - SOC Logging %26 Analysis/04 - Events Alerts %26 Incidents.md": {
     "scroll": 0,
     "cursor": {
       "from": {

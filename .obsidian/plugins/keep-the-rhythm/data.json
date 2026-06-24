@@ -84,6 +84,16 @@
             "timeKey": "19:15",
             "w": 1744,
             "c": 7419
+          },
+          {
+            "timeKey": "19:30",
+            "w": -3421,
+            "c": -18663
+          },
+          {
+            "timeKey": "19:35",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 1
@@ -159,6 +169,56 @@
         "charCountStart": 0,
         "changes": [],
         "id": 10
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/03 - SOC Operations.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 11
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Section 2 - Foundations/02 - Core Skills for SOC Analysts/05 - Linux Networking %26 Remote Access.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 12
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Section 2 - Foundations/02 - Core Skills for SOC Analysts/02 - Pattern Recognition.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 13
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Section 3 - SOC Operations/01 - SOC Logging %26 Analysis/04 - Events Alerts %26 Incidents.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 14
       }
     ]
   }

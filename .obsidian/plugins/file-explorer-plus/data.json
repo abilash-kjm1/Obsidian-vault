@@ -31,13 +31,6 @@
         "type": "FILES",
         "pattern": "E-soc/01 - Course - Template.md",
         "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "E-soc/00 - Index.md",
-        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
