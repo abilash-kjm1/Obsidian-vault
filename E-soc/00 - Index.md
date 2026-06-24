@@ -7,7 +7,7 @@
 ---
 
 ## Section 1 - Welcome
-- [ ] SOC Analyst Level 1 Overview
+- [ ] [[SOC Analyst Level 1 Overview]]
 
 ---
 
