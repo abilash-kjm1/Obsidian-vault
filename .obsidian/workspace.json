@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-soc/00 - Index.md",
+                "file": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Index"
+              "title": "01 - What is a SOC"
             }
           }
         ]
@@ -80,7 +80,7 @@
       {
         "id": "60dcbd4bacde1734",
         "type": "tabs",
-        "dimension": 29.703703703703702,
+        "dimension": 29.703703703703706,
         "children": [
           {
             "id": "d627b8615bd5cd4f",
@@ -203,9 +203,19 @@
               "icon": "calendar-days",
               "title": "Keep the Rhythm"
             }
+          },
+          {
+            "id": "4eb2de7a45de1e0f",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       },
       {
         "id": "add70759665de494",
@@ -241,14 +251,15 @@
       "obsidian-importer:Open Importer": false,
       "graph:Open graph view": false,
       "copilot:Open Copilot Chat": false,
-      "keep-the-rhythm:Keep the Rhythm": false
+      "keep-the-rhythm:Keep the Rhythm": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8dc3b74cfdf1ca77",
+  "active": "922e05a679b139af",
   "lastOpenFiles": [
+    "E-soc/00 - Index.md",
     "2026-02-05.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
-    "E-soc/00 - Index.md",
     "copilot/copilot-conversations/Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260624_005159.md",
     "copilot/copilot-conversations/Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260624_004857.md",
     "copilot/copilot-conversations/Active_Note_Key_Questions@20260624_005620.md",
