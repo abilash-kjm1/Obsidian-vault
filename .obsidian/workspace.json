@@ -226,7 +226,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "add70759665de494",
@@ -266,7 +267,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f51dfc1d1e1b2cc7",
+  "active": "4eb2de7a45de1e0f",
   "lastOpenFiles": [
     "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/06 - Compliance Ethics & Legal Foundations/02 - Privacy.md",
     "E-soc/00 - Index.md",
