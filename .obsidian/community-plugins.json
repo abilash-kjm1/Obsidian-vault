@@ -22,5 +22,6 @@
   "obsidian-excalidraw-plugin",
   "url-into-selection",
   "obsidian-paste-image-rename",
-  "obsidian-quiet-outline"
+  "obsidian-quiet-outline",
+  "obsidian-link-converter"
 ]
