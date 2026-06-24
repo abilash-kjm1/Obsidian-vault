@@ -11,10 +11,14 @@
             "id": "22a402a0c2247eb9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "E-soc/00 - Index.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "00 - Index"
             }
           }
         ]
@@ -218,8 +222,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "922e05a679b139af",
+  "active": "22a402a0c2247eb9",
   "lastOpenFiles": [
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
+    "E-soc/00 - Index.md",
     "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/08 - High-Level View of Custom AI in SOCs/01 - How Custom ML Models Are Used in SOCs.md",
     "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/07 - Limitations & Risks of AI in the SOC/01 - AI Bias False Positives & Analyst Oversight.md",
     "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/06 - Prompting for SOC Tasks/03 - Using GenAI for Reporting & Documentation.md",
@@ -253,8 +259,6 @@
     "E-soc/Section 3 - SOC Operations/06 - Phishing Mail Analysis/01 - Phishing Fundamentals/01 - Phishing Fundamentals.md",
     "E-soc/Section 3 - SOC Operations/06 - Phishing Mail Analysis/03 - Response",
     "E-soc/Section 3 - SOC Operations/05 - Malware Analysis/06 - Dynamic Analysis/03 - Dynamic Analysis Demo.md",
-    "E-soc/Section 3 - SOC Operations/05 - Malware Analysis/06 - Dynamic Analysis/02 - Dynamic Analysis Environment Safety.md",
-    "E-soc/Section 3 - SOC Operations/05 - Malware Analysis/06 - Dynamic Analysis/01 - Dynamic Analysis Foundations.md",
-    "E-soc/Section 3 - SOC Operations/05 - Malware Analysis/05 - Extracting IOCs/02 - Extracting IOC Demo.md"
+    "E-soc/Section 3 - SOC Operations/05 - Malware Analysis/06 - Dynamic Analysis/02 - Dynamic Analysis Environment Safety.md"
   ]
 }
