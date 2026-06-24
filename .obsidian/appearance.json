@@ -2,5 +2,9 @@
   "cssTheme": "Obsidianite",
   "interfaceFontFamily": "Verdana",
   "textFontFamily": "Inter",
-  "monospaceFontFamily": "Fira Code"
+  "monospaceFontFamily": "Fira Code",
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "underline"
+  ]
 }
