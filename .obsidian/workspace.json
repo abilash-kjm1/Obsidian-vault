@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5f4398fb1b676053",
+        "id": "08074fdf3192f0a7",
         "type": "tabs",
         "children": [
           {
-            "id": "debe232c86815349",
+            "id": "a701b04f855757fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SOC Analyst Level 1 Overview"
+              "title": "New tab"
             }
           }
         ]
@@ -96,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 522.5
   },
   "right": {
     "id": "f16f3ed04e6fc110",
@@ -222,32 +218,43 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "debe232c86815349",
+  "active": "922e05a679b139af",
   "lastOpenFiles": [
-    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC.md",
-    "E-soc/Section 2 - Foundations/Untitled/Untitled",
-    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC",
-    "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
-    "E-soc/00 - Index.md",
-    "E-soc/01 - Course - Template.md",
-    "E-soc/Section 4 - Goodbye/Summary.md",
-    "E-soc/Section 6 - Attachment",
-    "E-soc/Section 5 - Labs",
-    "E-soc/Section 3 - SOC Operations/07 - AI in the SOC.md",
-    "E-soc/Section 3 - SOC Operations/06 - Phishing Mail Analysis.md",
-    "E-soc/Section 3 - SOC Operations/05 - Malware Analysis.md",
-    "E-soc/Section 3 - SOC Operations/04 - Intelligence in Threat Hunting.md",
-    "E-soc/Section 3 - SOC Operations/03 - SOC Ticketing & Reporting.md",
-    "E-soc/Section 3 - SOC Operations/02 - Incident Detection & Response.md",
-    "E-soc/Section 3 - SOC Operations/01 - SOC Logging & Analysis.md",
-    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology.md",
-    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts.md",
-    "E-soc/Section 4 - Goodbye",
-    "E-soc/Section 3 - SOC Operations",
-    "E-soc/Section 2 - Foundations",
-    "E-soc/Section 1 - Welcome",
-    "Untitled",
-    "E-soc",
-    "Welcome.md"
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/04 - SOC Workflows & Scenarios/05 - Build your SOC Analyst Toolkit.md",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/04 - SOC Workflows & Scenarios/04 - Ethical Use of SOC Tools.md",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/04 - SOC Workflows & Scenarios/03 - Scenario Ransomware.md",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/04 - SOC Workflows & Scenarios/02 - Scenario Suspicious Login.md",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/04 - SOC Workflows & Scenarios/01 - The Complete Toolkit Workflow.md",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/03 - Threat Intelligence & Analysis Capabilities/04 - Advanced Analysis Tools.md",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/03 - Threat Intelligence & Analysis Capabilities/03 - Threat Intelligence and Types of IoCs Demonstration.md",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/03 - Threat Intelligence & Analysis Capabilities/02 - Threat Intelligence and Types of IoCs Overview.md",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/03 - Threat Intelligence & Analysis Capabilities/01 - Threat Intelligence and IoC Enrichment.md",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/02 - Tool Architecture & Core SOC Platforms/06 - Playbooks.md",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/02 - Tool Architecture & Core SOC Platforms/05 - SOAR.md",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/02 - Tool Architecture & Core SOC Platforms/04 - SIEM Rules.md",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/02 - Tool Architecture & Core SOC Platforms/03 - SIEM Overview.md",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/02 - Tool Architecture & Core SOC Platforms/02 - Endpoint Detection and Response (EDR).md",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/02 - Tool Architecture & Core SOC Platforms/01 - Understanding Tool Integration and Data Flow.md",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/01 - SOC Foundations/04 - The SOC Analyst Role and Daily Tool Interactions.md",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/01 - SOC Foundations/03 - Tool Categories Detection Analysis Response Intelligence.md",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/01 - SOC Foundations/02 - Modern Threat Landscape and Tool Requirements.md",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/01 - SOC Foundations/01 - The Evolution of Security Operations Centers.md",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/04 - SOC Workflows & Scenarios",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/03 - Threat Intelligence & Analysis Capabilities",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/02 - Tool Architecture & Core SOC Platforms",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/01 - SOC Foundations",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology",
+    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/06 - Compliance Ethics & Legal Foundations/03 - Data Handling & Evidence Preservation.md",
+    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/06 - Compliance Ethics & Legal Foundations/02 - Privacy.md",
+    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/06 - Compliance Ethics & Legal Foundations/01 - Introduction to Compliance & Legal Responsibilities.md",
+    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/05 - The Analyst Mindset/04 - Staying Current in Cybersecurity.md",
+    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/05 - The Analyst Mindset/03 - Avoiding Analytical Bias.md",
+    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/05 - The Analyst Mindset/02 - Pattern Recognition.md",
+    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/05 - The Analyst Mindset/01 - Thinking Like an Analyst.md",
+    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/06 - Compliance Ethics & Legal Foundations",
+    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/05 - The Analyst Mindset",
+    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/04 - Linux Fundamentals for Analysts",
+    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/03 - Windows Fundamentals for Analysts",
+    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/02 - Networking Fundamentals for Analysts"
   ]
 }
