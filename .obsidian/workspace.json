@@ -11,14 +11,10 @@
             "id": "d627b8615bd5cd4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SOC Analyst Level 1 Overview"
+              "title": "New tab"
             }
           }
         ]
@@ -173,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
+                "file": "copilot/copilot-conversations/Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260624_005159.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SOC Analyst Level 1 Overview"
+              "title": "Outline of Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260624_005159"
             }
           },
           {
@@ -233,15 +229,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d627b8615bd5cd4f",
+  "active": "922e05a679b139af",
   "lastOpenFiles": [
-    "E-soc/Section 5 - Labs/test.md",
-    "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
-    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
-    "E-soc/00 - Index.md",
-    "copilot/copilot-conversations/Active_Note_Key_Questions@20260624_005620.md",
-    "copilot/copilot-conversations/Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260624_005159.md",
     "copilot/copilot-conversations/Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260624_004857.md",
+    "copilot/copilot-conversations/Active_Note_Key_Questions@20260624_005620.md",
+    "E-soc/00 - Index.md",
+    "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
+    "E-soc/Section 5 - Labs/test.md",
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
+    "copilot/copilot-conversations/Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260624_005159.md",
     "copilot/copilot-conversations",
     "copilot",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
