@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f49e44214d69587b",
+        "id": "5f4398fb1b676053",
         "type": "tabs",
         "children": [
           {
-            "id": "a23124d4b273f72a",
+            "id": "debe232c86815349",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -29,6 +29,7 @@
       {
         "id": "6a2d05f78d4cb009",
         "type": "tabs",
+        "dimension": 70.44444444444444,
         "children": [
           {
             "id": "922e05a679b139af",
@@ -71,6 +72,23 @@
             }
           }
         ]
+      },
+      {
+        "id": "18905251d5cf7475",
+        "type": "tabs",
+        "dimension": 29.555555555555557,
+        "children": [
+          {
+            "id": "a23124d4b273f72a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -83,6 +101,7 @@
       {
         "id": "e6fcf43c7ea3afe6",
         "type": "tabs",
+        "dimension": 72.48563218390804,
         "children": [
           {
             "id": "cdc030443039138b",
@@ -108,12 +127,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
@@ -151,15 +169,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "add70759665de494",
+        "type": "tabs",
+        "dimension": 27.514367816091955,
+        "children": [
           {
             "id": "166cbfad7f830bde",
             "type": "leaf",
@@ -188,7 +213,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "922e05a679b139af",
+  "active": "3389bf16275d19ec",
   "lastOpenFiles": [
     "Welcome.md"
   ]
