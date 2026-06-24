@@ -72,6 +72,11 @@
             "timeKey": "18:10",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "18:50",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 1
@@ -83,6 +88,46 @@
         "charCountStart": 0,
         "changes": [],
         "id": 2
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
+        "wordCountStart": 41,
+        "charCountStart": 359,
+        "changes": [],
+        "id": 3
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/04 - Cyber Kill Chain.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 4
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/09 - SOC Maturity Levels.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 5
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "index.md",
+        "wordCountStart": 12,
+        "charCountStart": 64,
+        "changes": [],
+        "id": 6
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/06 - Compliance Ethics & Legal Foundations/02 - Privacy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 7
       }
     ]
   }

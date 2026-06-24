@@ -55,7 +55,9 @@
     "highestStreak": 0,
     "highestStreakStartDate": "",
     "highestStreakEndDate": "",
-    "daysWithCompletedGoal": [],
+    "daysWithCompletedGoal": [
+      "2026-06-24"
+    ],
     "dailyActivity": [
       {
         "date": "2026-06-24",
@@ -77,6 +79,11 @@
             "timeKey": "18:50",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "19:15",
+            "w": 1744,
+            "c": 7419
           }
         ],
         "id": 1
@@ -128,6 +135,14 @@
         "charCountStart": 0,
         "changes": [],
         "id": 7
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/05 - NIST Cybersecurity Framework.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 8
       }
     ]
   }
