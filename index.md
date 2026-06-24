@@ -1,3 +1,3 @@
-# My Obsidian Vault
+# E-SOC Vault
 
-- [E-soc Notes](E-soc/Index.md)
+[Go to Course Index](E-soc/00%20-%20Index.md)
