@@ -24,6 +24,13 @@
         "type": "DIRECTORIES",
         "pattern": "E-soc",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "E-soc/00 - Index.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

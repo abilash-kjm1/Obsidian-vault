@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-soc/Table of Contents.md",
+                "file": "E-soc/Section 2 - Foundations/Core Skills for SOC Analysts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Table of Contents"
+              "title": "Core Skills for SOC Analysts"
             }
           }
         ]
@@ -224,7 +224,15 @@
   },
   "active": "debe232c86815349",
   "lastOpenFiles": [
-    "E-soc/Table of Contents.md",
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC.md",
+    "E-soc/Section 2 - Foundations/Core Skills for SOC Analysts.md",
+    "E-soc/Section 1 - Welcome/SOC Analyst Overview.md",
+    "E-soc/Section 4 - Goodbye",
+    "E-soc/Section 3 - SOC Operations",
+    "E-soc/Section 2 - Foundations",
+    "E-soc/00 - Index.md",
+    "E-soc/Section 1 - Welcome",
+    "Untitled",
     "E-soc/Untitled.md",
     "E-soc",
     "Welcome.md"
