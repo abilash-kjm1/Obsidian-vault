@@ -1,6 +1,6 @@
 {
   "E-soc/00 - Index.md": {
-    "scroll": 33.25,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 25,
@@ -58,6 +58,20 @@
     "expandedKeys": []
   },
   "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/09 - SOC Maturity Levels.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/06 - Compliance Ethics & Legal Foundations/02 - Privacy.md": {
     "scroll": 0,
     "cursor": {
       "from": {

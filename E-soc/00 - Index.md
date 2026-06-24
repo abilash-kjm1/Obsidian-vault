@@ -85,7 +85,7 @@ GROUP BY file.folder
 >
 > #### 🔹 Compliance Ethics & Legal
 > - [ ] [01 - Introduction to Compliance & Legal Responsibilities](01%20-%20Introduction%20to%20Compliance%20&%20Legal%20Responsibilities.md) *(11m)*
-> - [x] [02 - Privacy](02%20-%20Privacy.md) *(10m)*
+> - [ ] [02 - Privacy](02%20-%20Privacy.md) *(10m)*
 > - [ ] [03 - Data Handling & Evidence Preservation](03%20-%20Data%20Handling%20&%20Evidence%20Preservation.md) *(14m)*
 
 > ### 📂 03 — SOC Tools & Technology

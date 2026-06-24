@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#in-progress",
+                "query": "privacy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "60dcbd4bacde1734",
@@ -265,10 +266,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "196d2031b7309690",
+  "active": "f51dfc1d1e1b2cc7",
   "lastOpenFiles": [
-    "index.md",
+    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/06 - Compliance Ethics & Legal Foundations/02 - Privacy.md",
     "E-soc/00 - Index.md",
+    "index.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/09 - SOC Maturity Levels.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/04 - Cyber Kill Chain.md",
     "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
@@ -295,7 +297,6 @@
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "Untitled.canvas",
     "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/08 - High-Level View of Custom AI in SOCs",
