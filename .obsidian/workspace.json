@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f51edcbb275d9f75",
+        "id": "287df89014e9934b",
         "type": "tabs",
         "children": [
           {
-            "id": "d627b8615bd5cd4f",
+            "id": "196d2031b7309690",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -29,7 +29,7 @@
       {
         "id": "6a2d05f78d4cb009",
         "type": "tabs",
-        "dimension": 71.25925925925925,
+        "dimension": 70.2962962962963,
         "children": [
           {
             "id": "922e05a679b139af",
@@ -74,12 +74,12 @@
         ]
       },
       {
-        "id": "03e90cba34da0632",
+        "id": "60dcbd4bacde1734",
         "type": "tabs",
-        "dimension": 28.74074074074074,
+        "dimension": 29.703703703703706,
         "children": [
           {
-            "id": "fcd139d74afd74ef",
+            "id": "d627b8615bd5cd4f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -169,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "copilot/copilot-conversations/Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260624_005159.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260624_005159"
+              "title": "Outline"
             }
           },
           {
@@ -229,15 +228,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "922e05a679b139af",
+  "active": "196d2031b7309690",
   "lastOpenFiles": [
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
+    "E-soc/00 - Index.md",
+    "copilot/copilot-conversations/Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260624_005159.md",
     "copilot/copilot-conversations/Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260624_004857.md",
     "copilot/copilot-conversations/Active_Note_Key_Questions@20260624_005620.md",
-    "E-soc/00 - Index.md",
     "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
     "E-soc/Section 5 - Labs/test.md",
-    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
-    "copilot/copilot-conversations/Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260624_005159.md",
     "copilot/copilot-conversations",
     "copilot",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
