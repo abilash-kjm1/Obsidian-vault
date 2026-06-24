@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiAttachment2",
+      "🧪",
       "LiFolderRoot"
     ],
     "recentlyUsedIconsSize": 5,
@@ -30,5 +32,7 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "E-soc": "LiFolderRoot"
+  "E-soc": "LiFolderRoot",
+  "E-soc/Section 6 - Attachment": "RiAttachment2",
+  "E-soc/Section 5 - Labs": "🧪"
 }
