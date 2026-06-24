@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
-                "mode": "source",
+                "file": "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - What is a SOC"
+              "title": "SOC Analyst Level 1 Overview"
             }
           }
         ],
@@ -188,17 +188,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Table of Contents.md",
+                "file": "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Table of Contents"
+              "title": "Outline of SOC Analyst Level 1 Overview"
+            }
+          },
+          {
+            "id": "8ad31696e26710a5",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "add70759665de494",
@@ -219,7 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 599.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,47 +242,48 @@
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "75601120fd63eb22",
+  "active": "8ad31696e26710a5",
   "lastOpenFiles": [
-    "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
+    "copilot/copilot-conversations/Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260624_004857.md",
+    "copilot/copilot-conversations",
+    "copilot",
     "E-soc/00 - Index.md",
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
     "E-soc/01 - Course - Template.md",
     "E-soc/Section 4 - Goodbye/Summary.md",
     "Untitled.canvas",
     "E-soc/Section 3 - SOC Operations/01 - SOC Logging & Analysis/04 - SIEM Fundamentals/04 - Events Alerts & Incidents.md",
     "E-soc/Section 3 - SOC Operations/02 - Incident Detection & Response/01 - IR Fundamentals/04 - Events Alerts & Incidents.md",
-    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/02 - SOC Roles & Responsibilities.md",
     "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/08 - High-Level View of Custom AI in SOCs/01 - How Custom ML Models Are Used in SOCs.md",
     "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/07 - Limitations & Risks of AI in the SOC/01 - AI Bias False Positives & Analyst Oversight.md",
-    "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/06 - Prompting for SOC Tasks/03 - Using GenAI for Reporting & Documentation.md",
-    "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/06 - Prompting for SOC Tasks/02 - Using GenAI to Assist Investigations.md",
-    "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/06 - Prompting for SOC Tasks/01 - Writing Effective Prompts for Alert Triage.md",
-    "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/05 - Generative AI Basics for SOC Analysts/01 - What Generative AI Is & How SOCs Use It.md",
-    "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/04 - AI in EDR & Endpoint Tools/02 - Interpreting AI-Generated Alerts & Risk Scores.md",
-    "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/04 - AI in EDR & Endpoint Tools/01 - How EDR Uses AI to Detect Malicious Behavior.md",
-    "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/03 - AI in SIEM Platforms/01 - How SIEMs Use AI for Alerting & Correlation.md",
-    "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/02 - Key AI Terminology for SOC Analysts/02 - Understanding Anomaly Detection at a High Level.md",
-    "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/02 - Key AI Terminology for SOC Analysts/01 - Common AI & ML Terms You'll See in SOC Tools.md",
-    "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/01 - What is AI & Why it Matters in the SOC/03 - How AI Is Used in Modern SOCs.md",
-    "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/01 - What is AI & Why it Matters in the SOC/02 - AI vs Machine Learning vs Automation.md",
-    "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/01 - What is AI & Why it Matters in the SOC/01 - What Is Artificial Intelligence.md",
     "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/08 - High-Level View of Custom AI in SOCs",
     "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/07 - Limitations & Risks of AI in the SOC",
     "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/06 - Prompting for SOC Tasks",
     "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/05 - Generative AI Basics for SOC Analysts",
     "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/04 - AI in EDR & Endpoint Tools",
     "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/03 - AI in SIEM Platforms",
-    "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/02 - Key AI Terminology for SOC Analysts",
-    "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/01 - What is AI & Why it Matters in the SOC",
-    "E-soc/Section 3 - SOC Operations/07 - AI in the SOC",
-    "E-soc/Section 3 - SOC Operations/06 - Phishing Mail Analysis/03 - Response/01 - Phishing Response.md",
-    "E-soc/Section 3 - SOC Operations/06 - Phishing Mail Analysis/02 - Analysis/04 - URL Analysis.md",
-    "E-soc/Section 3 - SOC Operations/06 - Phishing Mail Analysis/02 - Analysis/03 - Mail Content Analysis.md",
-    "E-soc/Section 3 - SOC Operations/06 - Phishing Mail Analysis/02 - Analysis/02 - Header Analysis Demo.md",
-    "E-soc/Section 3 - SOC Operations/06 - Phishing Mail Analysis/03 - Response"
+    "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/02 - Key AI Terminology for SOC Analysts"
   ]
 }
