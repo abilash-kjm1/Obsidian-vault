@@ -1,0 +1,11 @@
+{
+	"id": "text-autocomplete",
+	"name": "Text Autocomplete",
+	"version": "1.2.2",
+	"minAppVersion": "1.8.10",
+	"description": "Autocomplete text to type more efficiently.",
+	"author": "Christ Degni",
+	"authorUrl": "https://github.com/c-degni",
+	"fundingUrl": "https://buymeacoffee.com/c.degni",
+	"isDesktopOnly": true
+}
