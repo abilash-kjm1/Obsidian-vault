@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "E-soc/00 - Index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -33,7 +33,6 @@
       {
         "id": "6a2d05f78d4cb009",
         "type": "tabs",
-        "dimension": 70.29629629629629,
         "children": [
           {
             "id": "922e05a679b139af",
@@ -73,23 +72,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          }
-        ]
-      },
-      {
-        "id": "60dcbd4bacde1734",
-        "type": "tabs",
-        "dimension": 29.703703703703706,
-        "children": [
-          {
-            "id": "d627b8615bd5cd4f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -226,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       },
       {
         "id": "add70759665de494",
@@ -260,23 +242,26 @@
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": false,
-      "graph:Open graph view": false,
       "copilot:Open Copilot Chat": false,
       "keep-the-rhythm:Keep the Rhythm": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "graph:Open graph view": false
     }
   },
   "active": "196d2031b7309690",
   "lastOpenFiles": [
-    "Section 3 - SOC Operations/01 - SOC Logging %26 Analysis/04 - Events Alerts %26 Incidents.md",
+    "E-soc/Section 1 - Welcome/test.md",
     "E-soc/00 - Index.md",
+    "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
+    "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/04 - SOC Workflows & Scenarios/02 - Scenario Suspicious Login.md",
+    "E-soc/Section 3 - SOC Operations/02 - Incident Detection & Response/01 - IR Fundamentals/04 - Events Alerts & Incidents.md",
+    "Section 3 - SOC Operations/01 - SOC Logging %26 Analysis/04 - Events Alerts %26 Incidents.md",
     "Section 3 - SOC Operations/01 - SOC Logging %26 Analysis",
     "Section 3 - SOC Operations",
     "Section 2 - Foundations/02 - Core Skills for SOC Analysts/02 - Pattern Recognition.md",
     "Section 2 - Foundations/02 - Core Skills for SOC Analysts/05 - Linux Networking %26 Remote Access.md",
     "Section 2 - Foundations/02 - Core Skills for SOC Analysts",
     "Section 2 - Foundations",
-    "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/03 - SOC Operations.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
     "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/02 - Networking Fundamentals for Analysts/03 - IPv4 Addressing.md",
@@ -298,9 +283,6 @@
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts",
     "Untitled.canvas",
     "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/08 - High-Level View of Custom AI in SOCs",

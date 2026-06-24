@@ -1,13 +1,13 @@
 {
   "E-soc/00 - Index.md": {
-    "scroll": 112.76339285714286,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 120,
+        "line": 26,
         "ch": 0
       },
       "to": {
-        "line": 120,
+        "line": 26,
         "ch": 0
       }
     },
@@ -181,6 +181,62 @@
       "to": {
         "line": 0,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "E-soc/Section 3 - SOC Operations/02 - Incident Detection & Response/01 - IR Fundamentals/04 - Events Alerts & Incidents.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/04 - SOC Workflows & Scenarios/02 - Scenario Suspicious Login.md": {
+    "scroll": 81.35714285714286,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "E-soc/Section 1 - Welcome/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "E-soc/Section 1 - Welcome/test.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 34
+      },
+      "to": {
+        "line": 1,
+        "ch": 34
       }
     },
     "expandedKeys": []

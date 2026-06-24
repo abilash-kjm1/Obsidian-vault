@@ -24,6 +24,7 @@ GROUP BY file.folder
 ## 🟦 Section 1 — Welcome
 
 > - [x] [SOC Analyst Level 1 Overview](SOC%20Analyst%20Level%201%20Overview.md)
+ 
 
 ---
 

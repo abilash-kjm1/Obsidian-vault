@@ -94,6 +94,16 @@
             "timeKey": "19:35",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "19:40",
+            "w": 3423,
+            "c": 18674
+          },
+          {
+            "timeKey": "19:45",
+            "w": -2,
+            "c": -9
           }
         ],
         "id": 1
@@ -219,6 +229,36 @@
           }
         ],
         "id": 14
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 3 - SOC Operations/02 - Incident Detection & Response/01 - IR Fundamentals/04 - Events Alerts & Incidents.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 15
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/04 - SOC Workflows & Scenarios/02 - Scenario Suspicious Login.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 16
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 1 - Welcome/test.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:40",
+            "w": 7,
+            "c": 35
+          }
+        ],
+        "id": 17
       }
     ]
   }
