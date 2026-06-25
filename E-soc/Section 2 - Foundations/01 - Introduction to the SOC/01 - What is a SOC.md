@@ -96,3 +96,15 @@ Examples:
 	**Example:**  
 	Ransomware detected on 1 PC → SOC isolates it before it spreads.
 --- 
+
+![](Attachments/Pasted%20image%2020260624212435.png)
+
+- **Cyber threats don't take breaks:** Cyberattacks and security incidents can happen at any time of the day or night. A SOC keeps an eye on everything by providing **24/7 monitoring**.
+
+- **Faster threat detection:** Having a team dedicated entirely to security means they can spot a problem much quicker. The faster a threat is detected, the faster it can be fixed (remediated).
+
+- **Organized response:** When a security breach happens, a SOC ensures there is a structured and highly efficient plan in place to handle the incident.
+
+- **Meeting legal rules (Compliance):** Certain industries have strict rules and legal regulations that force them to constantly monitor their networks. A SOC helps the company meet these official compliance and auditing requirements.
+
+- **Peace of mind:** Ultimately, having a SOC gives an organization total confidence that their systems, data, and networks are actively protected.
