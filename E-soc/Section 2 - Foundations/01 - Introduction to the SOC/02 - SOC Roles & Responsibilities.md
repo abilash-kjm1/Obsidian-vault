@@ -88,3 +88,11 @@ In a SOC, a Tier 1 analyst performs this initial triage:
 - **The Feedback Loop (Improving the SOC):**
     
     - This is what makes Tier 3 unique. Once the issue is resolved, they use their findings to make the entire SOC smarter. They create new **Use Cases** (rules to spot this attack automatically next time), **Tune Security Controls** to block it, and **Mentor** Tier 1 and Tier 2 analysts to raise the whole team's skill level.
+
+
+--- 
+
+![](Attachments/Pasted%20image%2020260624221540.png)
+
+## SOC Manager
+![](Attachments/Pasted%20image%2020260624221923.png)
