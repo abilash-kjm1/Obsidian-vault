@@ -44,12 +44,16 @@ Think of it as a domino effect: **Step 1 makes Step 2 possible, Step 2 leads to 
 
 ### **Step 5: Installation (The Digging In)**
 
+![](Attachments/04%20-%20Cyber%20Kill%20Chain.png)
+
 - **What happens:** The attacker plants a permanent backdoor. They install software that ensures they don't lose access, even if the system reboots.
     
 - 👇 _Now that they have a permanent foothold..._
     
 
 ### **Step 6: Command & Control (The Connecting)**
+
+![](Attachments/Pasted%20image%2020260625065759.png)
 
 - **What happens:** The planted backdoor opens a secret communication line. The infected system calls home to the attacker’s remote server, waiting for orders.
     
