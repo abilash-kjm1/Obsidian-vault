@@ -34,7 +34,7 @@ GROUP BY file.folder
 > #### 🔹 Security Operations Centers
 > - [x] [01 - What is a SOC](01%20-%20What%20is%20a%20SOC.md) *(14m)*
 > - [x] [02 - SOC Roles & Responsibilities](02%20-%20SOC%20Roles%20&%20Responsibilities.md) *(16m)*
-> - [ ] [03 - SOC Operations](03%20-%20SOC%20Operations.md) *(15m)*
+> - [x] [03 - SOC Operations](03%20-%20SOC%20Operations.md) *(15m)*
 >
 > #### 🔹 Guides & Frameworks
 > - [ ] [04 - Cyber Kill Chain](04%20-%20Cyber%20Kill%20Chain.md) *(13m)*
