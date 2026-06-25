@@ -266,7 +266,18 @@
         "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/03 - SOC Operations.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "22:25",
+            "w": 7,
+            "c": 55
+          },
+          {
+            "timeKey": "22:30",
+            "w": 2,
+            "c": 18
+          }
+        ],
         "id": 11
       },
       {
