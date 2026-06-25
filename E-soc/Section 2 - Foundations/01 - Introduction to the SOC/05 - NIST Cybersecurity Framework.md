@@ -51,3 +51,6 @@ It is a voluntary framework (a systematic playbook) designed to help organizatio
 
 > **Think like a defender:** When you review these notes before an interview, don't just memorize the definitions. Ask yourself: _"If an interviewer asks me how I handle pressure, how can I use these NIST steps to show them I have a structured, calm framework for handling chaos?"_
 
+
+Example :
+![](Attachments/Pasted%20image%2020260625083806.png)
