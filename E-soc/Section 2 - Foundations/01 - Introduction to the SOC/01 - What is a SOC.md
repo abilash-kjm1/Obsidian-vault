@@ -11,8 +11,6 @@ A **Security Operations Center (SOC)** is a team of cybersecurity professionals 
 
 > SOC = Security team + Security tools + Security processes working together to stop cyber attacks.
 
----
-
 # Purpose of a SOC
 
 The main goal of a SOC is to:
@@ -21,9 +19,7 @@ The main goal of a SOC is to:
 - Detect suspicious activities
 - Investigate security alerts
 - Respond to cyber incidents
-- Protect company assets and data
-
----
+- Protect company assets and data 
 
 # SOC Components
 
@@ -60,4 +56,43 @@ Examples:
 - EDR
 - IDS/IPS
 - Threat Intelligence Platforms
+--- 
 
+![](Attachments/Pasted%20image%2020260624211450.png)
+
+
+**1. Monitor Logs 👀**
+
+- SOC watches logs 24/7.
+- Looks for unusual activity.
+
+	**Example:**  
+	User logs in from Canada at 10 AM, then from Russia at 10:05 AM → Suspicious.
+
+
+**2. Tools Generate Alerts 🚨**
+
+- SIEM and IDS tools detect threats.
+- They create alerts for analysts.
+
+	**Example:**  
+	5 failed login attempts in 1 minute → Alert generated.
+	
+
+**3. Analysts Investigate 🔍**
+
+- Analysts check if the alert is real or false.
+- They gather evidence.
+
+	**Example:**  
+	Alert says malware detected → Analyst checks the file and user activity.
+
+
+**4. Early Detection = Faster Response ⚡**
+
+- Finding threats early reduces damage.
+- Faster containment = safer organization.
+
+	**Example:**  
+	Ransomware detected on 1 PC → SOC isolates it before it spreads.
+--- 
