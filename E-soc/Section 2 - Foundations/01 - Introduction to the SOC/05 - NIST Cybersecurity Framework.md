@@ -17,8 +17,6 @@
 
 ## NIST CSF 2.0 
 
-As promised, here are your concise, high-yield study notes written in simple English to help you absolute ace any interview questions on this topic!
-
 ### 1. What is the NIST CSF?
 
 It is a voluntary framework (a systematic playbook) designed to help organizations of any size manage, reduce, and communicate cybersecurity risks clearly.
