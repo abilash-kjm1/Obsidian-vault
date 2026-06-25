@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-soc/00 - Index.md",
-                "mode": "preview",
+                "file": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/05 - NIST Cybersecurity Framework.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Index"
+              "title": "05 - NIST Cybersecurity Framework"
             }
           }
         ]
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-soc/00 - Index.md",
+                "file": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/05 - NIST Cybersecurity Framework.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00 - Index"
+              "title": "Outline of 05 - NIST Cybersecurity Framework"
             }
           },
           {
@@ -266,6 +266,7 @@
   },
   "active": "8733de1e60b21b7a",
   "lastOpenFiles": [
+    "E-soc/00 - Index.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/05 - NIST Cybersecurity Framework.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/04 - Cyber Kill Chain.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260625072111.png",
@@ -285,7 +286,6 @@
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/07 - SOC Tools & Technology.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/06 - MITRE ATT&CK.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/02 - SOC Roles & Responsibilities.md",
-    "E-soc/00 - Index.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments",
     "E-soc/Section 4 - Goodbye/Summary.md",
     "E-soc/Section 3 - SOC Operations/02 - Incident Detection & Response/01 - IR Fundamentals/04 - Events Alerts & Incidentss.md",

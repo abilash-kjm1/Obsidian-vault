@@ -92,18 +92,20 @@
     "expandedKeys": []
   },
   "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/05 - NIST Cybersecurity Framework.md": {
-    "scroll": 0,
+    "scroll": 32.57940446650124,
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 53,
         "ch": 0
       },
       "to": {
-        "line": 0,
+        "line": 53,
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-0"
+    ]
   },
   "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/02 - Networking Fundamentals for Analysts/01 - Network Models (OSI & TCP-IP).md": {
     "scroll": 0,

@@ -620,7 +620,13 @@
         "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/05 - NIST Cybersecurity Framework.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "08:20",
+            "w": 302,
+            "c": 2057
+          }
+        ],
         "id": 31
       },
       {
