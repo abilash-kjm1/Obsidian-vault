@@ -48,18 +48,20 @@
     ]
   },
   "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/04 - Cyber Kill Chain.md": {
-    "scroll": 0,
+    "scroll": 44.16718362282879,
     "cursor": {
       "from": {
-        "line": 5,
+        "line": 72,
         "ch": 0
       },
       "to": {
-        "line": 5,
+        "line": 72,
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-0"
+    ]
   },
   "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/09 - SOC Maturity Levels.md": {
     "scroll": 0,
