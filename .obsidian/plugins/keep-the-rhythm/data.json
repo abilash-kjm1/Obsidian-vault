@@ -545,6 +545,84 @@
           }
         ],
         "id": 26
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
+        "wordCountStart": 412,
+        "charCountStart": 2951,
+        "changes": [],
+        "id": 27
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/02 - SOC Roles & Responsibilities.md",
+        "wordCountStart": 831,
+        "charCountStart": 5626,
+        "changes": [],
+        "id": 28
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/03 - SOC Operations.md",
+        "wordCountStart": 691,
+        "charCountStart": 4919,
+        "changes": [],
+        "id": 29
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/04 - Cyber Kill Chain.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "06:30",
+            "w": 10,
+            "c": 76
+          }
+        ],
+        "id": 30
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/05 - NIST Cybersecurity Framework.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 31
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/06 - MITRE ATT&CK.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 32
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/07 - SOC Tools & Technology.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 33
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/08 - Introduction to DFIR.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 34
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/09 - SOC Maturity Levels.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 35
       }
     ]
   }

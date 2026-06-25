@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/03 - SOC Operations.md",
-                "mode": "preview",
+                "file": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/04 - Cyber Kill Chain.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - SOC Operations"
+              "title": "04 - Cyber Kill Chain"
             }
           }
         ]
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/03 - SOC Operations.md",
+                "file": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/04 - Cyber Kill Chain.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03 - SOC Operations"
+              "title": "Outline of 04 - Cyber Kill Chain"
             }
           },
           {
@@ -264,17 +264,24 @@
       "graph:Open graph view": false
     }
   },
-  "active": "4eb2de7a45de1e0f",
+  "active": "8733de1e60b21b7a",
   "lastOpenFiles": [
-    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
-    "E-soc/00 - Index.md",
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260625063408.png",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/03 - SOC Operations.md",
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/09 - SOC Maturity Levels.md",
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/08 - Introduction to DFIR.md",
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/07 - SOC Tools & Technology.md",
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/06 - MITRE ATT&CK.md",
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/05 - NIST Cybersecurity Framework.md",
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/04 - Cyber Kill Chain.md",
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/02 - SOC Roles & Responsibilities.md",
+    "E-soc/00 - Index.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260624225006.png",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260624224615.png",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260624224324.png",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260624223328.png",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260624222912.png",
-    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/02 - SOC Roles & Responsibilities.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260624221923.png",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260624221540.png",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260624220609.png",
@@ -303,12 +310,6 @@
     "Section 2 - Foundations/02 - Core Skills for SOC Analysts/05 - Linux Networking %26 Remote Access.md",
     "Section 2 - Foundations/02 - Core Skills for SOC Analysts",
     "Section 2 - Foundations",
-    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/02 - Networking Fundamentals for Analysts/03 - IPv4 Addressing.md",
-    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/02 - Networking Fundamentals for Analysts/01 - Network Models (OSI & TCP-IP).md",
-    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/05 - NIST Cybersecurity Framework.md",
-    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/06 - Compliance Ethics & Legal Foundations/02 - Privacy.md",
-    "index.md",
-    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/09 - SOC Maturity Levels.md",
     "_config.yml",
     "copilot/copilot-conversations",
     "Untitled.canvas"
