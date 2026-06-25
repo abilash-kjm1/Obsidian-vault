@@ -62,6 +62,9 @@ Think of it as a domino effect: **Step 1 makes Step 2 possible, Step 2 leads to 
 
 ### **Step 7: Actions on Objectives (The Stealing)**
 
+![](Attachments/Pasted%20image%2020260625072111.png)
+
+
 - **What happens:** The attacker finally completes their mission. They steal the data, encrypt the files for ransom, or destroy the systems.
     
 
