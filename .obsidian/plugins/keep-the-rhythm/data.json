@@ -450,6 +450,25 @@
         "charCountStart": 0,
         "changes": [],
         "id": 25
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/02 - SOC Roles & Responsibilities.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 7,
+            "c": 54
+          },
+          {
+            "timeKey": "21:35",
+            "w": 165,
+            "c": 1062
+          }
+        ],
+        "id": 26
       }
     ]
   }
