@@ -1,6 +1,6 @@
 {
   "E-soc/00 - Index.md": {
-    "scroll": 142.86206896551724,
+    "scroll": 30,
     "cursor": {
       "from": {
         "line": 30,
@@ -48,14 +48,14 @@
     ]
   },
   "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/04 - Cyber Kill Chain.md": {
-    "scroll": 18.599001162440263,
+    "scroll": 64.9935950503246,
     "cursor": {
       "from": {
-        "line": 65,
+        "line": 88,
         "ch": 0
       },
       "to": {
-        "line": 65,
+        "line": 88,
         "ch": 0
       }
     },
