@@ -1,14 +1,14 @@
 {
   "E-soc/00 - Index.md": {
-    "scroll": 0,
+    "scroll": 133.640625,
     "cursor": {
       "from": {
-        "line": 26,
-        "ch": 0
+        "line": 154,
+        "ch": 9
       },
       "to": {
-        "line": 26,
-        "ch": 0
+        "line": 154,
+        "ch": 9
       }
     },
     "expandedKeys": [
@@ -218,11 +218,11 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 0
+        "ch": 34
       },
       "to": {
         "line": 0,
-        "ch": 0
+        "ch": 34
       }
     },
     "expandedKeys": []
@@ -237,6 +237,20 @@
       "to": {
         "line": 1,
         "ch": 34
+      }
+    },
+    "expandedKeys": []
+  },
+  "E-soc/Section 3 - SOC Operations/01 - SOC Logging & Analysis/04 - SIEM Fundamentals/04 - Events Alerts & Incidents.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []

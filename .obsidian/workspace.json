@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "287df89014e9934b",
+        "id": "81941633c04e02c1",
         "type": "tabs",
         "children": [
           {
-            "id": "196d2031b7309690",
+            "id": "e747c0ac17497ed2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "E-soc/00 - Index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -248,13 +248,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "196d2031b7309690",
+  "active": "e747c0ac17497ed2",
   "lastOpenFiles": [
-    "E-soc/Section 1 - Welcome/test.md",
+    "E-soc/Section 3 - SOC Operations/01 - SOC Logging & Analysis/04 - SIEM Fundamentals/04 - Events Alerts & Incidents.md",
     "E-soc/00 - Index.md",
+    "E-soc/Section 3 - SOC Operations/02 - Incident Detection & Response/01 - IR Fundamentals/04 - Events Alerts & Incidentss.md",
+    "E-soc/Section 1 - Welcome/Untitled.md",
+    "Excalidraw/Drawing 2026-06-24 19.52.22.excalidraw.md",
+    "Excalidraw",
     "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
+    "E-soc/Section 1 - Welcome/test.md",
     "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/04 - SOC Workflows & Scenarios/02 - Scenario Suspicious Login.md",
-    "E-soc/Section 3 - SOC Operations/02 - Incident Detection & Response/01 - IR Fundamentals/04 - Events Alerts & Incidents.md",
     "Section 3 - SOC Operations/01 - SOC Logging %26 Analysis/04 - Events Alerts %26 Incidents.md",
     "Section 3 - SOC Operations/01 - SOC Logging %26 Analysis",
     "Section 3 - SOC Operations",
@@ -280,12 +284,8 @@
     "copilot/copilot-conversations",
     "copilot",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts",
     "Untitled.canvas",
-    "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/08 - High-Level View of Custom AI in SOCs",
-    "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/07 - Limitations & Risks of AI in the SOC"
+    "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/08 - High-Level View of Custom AI in SOCs"
   ]
 }

@@ -104,6 +104,21 @@
             "timeKey": "19:45",
             "w": -2,
             "c": -9
+          },
+          {
+            "timeKey": "19:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "19:55",
+            "w": 44,
+            "c": 204
+          },
+          {
+            "timeKey": "20:00",
+            "w": -35,
+            "c": -180
           }
         ],
         "id": 1
@@ -232,7 +247,7 @@
       },
       {
         "date": "2026-06-24",
-        "filePath": "E-soc/Section 3 - SOC Operations/02 - Incident Detection & Response/01 - IR Fundamentals/04 - Events Alerts & Incidents.md",
+        "filePath": "E-soc/Section 3 - SOC Operations/02 - Incident Detection & Response/01 - IR Fundamentals/04 - Events Alerts & Incidentss.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [],
@@ -264,6 +279,47 @@
           }
         ],
         "id": 17
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 1 - Welcome/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:50",
+            "w": 7,
+            "c": 34
+          },
+          {
+            "timeKey": "19:55",
+            "w": -7,
+            "c": -34
+          }
+        ],
+        "id": 18
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Excalidraw/Drawing 2026-06-24 19.52.22.excalidraw.md",
+        "wordCountStart": 44,
+        "charCountStart": 566,
+        "changes": [
+          {
+            "timeKey": "19:50",
+            "w": -44,
+            "c": -566
+          }
+        ],
+        "id": 19
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 3 - SOC Operations/01 - SOC Logging & Analysis/04 - SIEM Fundamentals/04 - Events Alerts & Incidents.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 20
       }
     ]
   }

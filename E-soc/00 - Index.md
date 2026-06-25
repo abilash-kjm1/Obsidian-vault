@@ -143,7 +143,7 @@ GROUP BY file.folder
 > - [ ] [01 - Introduction to SIEM](01%20-%20Introduction%20to%20SIEM.md) *(18m)*
 > - [ ] [02 - Dashboards & Visualizations](02%20-%20Dashboards%20&%20Visualizations.md) *(6m)*
 > - [ ] [03 - Effectively Using ELK](03%20-%20Effectively%20Using%20ELK.md) *(25m)*
-> - [ ] [04 - Events Alerts & Incidents](04%20-%20Events%20Alerts%20&%20Incidents.md) *(10m)*
+> - [ ] [04 - Events Alerts & Incidents](Section%203%20-%20SOC%20Operations/01%20-%20SOC%20Logging%20&%20Analysis/04%20-%20SIEM%20Fundamentals/04%20-%20Events%20Alerts%20&%20Incidents.md) *(10m)*
 > - [ ] [05 - Alert Fatigue](05%20-%20Alert%20Fatigue.md) *(7m)*
 > - [ ] [06 - Logging & Analysis Challenges](06%20-%20Logging%20&%20Analysis%20Challenges.md) *(12m)*
 
@@ -152,7 +152,7 @@ GROUP BY file.folder
 > - [ ] [01 - What is Incident Response](01%20-%20What%20is%20Incident%20Response.md) *(5m)*
 > - [ ] [02 - Incident Response Teams](02%20-%20Incident%20Response%20Teams.md) *(11m)*
 > - [ ] [03 - Incident Response Process](03%20-%20Incident%20Response%20Process.md) *(14m)*
-> - [ ] [04 - Events Alerts & Incidents](04%20-%20Events%20Alerts%20&%20Incidents.md) *(12m)*
+> - [ ] [(12m)*
 >
 > #### 🔹 Detecting Incidents
 > - [ ] [01 - Detecting Suspicious Activity](01%20-%20Detecting%20Suspicious%20Activity.md) *(12m)*

@@ -89,6 +89,21 @@
             "timeKey": "19:30",
             "w": -3421,
             "c": -18663
+          },
+          {
+            "timeKey": "19:35",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "19:40",
+            "w": 3423,
+            "c": 18674
+          },
+          {
+            "timeKey": "19:45",
+            "w": -2,
+            "c": -9
           }
         ],
         "id": 1
@@ -172,6 +187,111 @@
         "charCountStart": 0,
         "changes": [],
         "id": 11
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Section 2 - Foundations/02 - Core Skills for SOC Analysts/05 - Linux Networking %26 Remote Access.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 12
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Section 2 - Foundations/02 - Core Skills for SOC Analysts/02 - Pattern Recognition.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 13
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Section 3 - SOC Operations/01 - SOC Logging %26 Analysis/04 - Events Alerts %26 Incidents.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 14
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 3 - SOC Operations/02 - Incident Detection & Response/01 - IR Fundamentals/04 - Events Alerts & Incidents.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 15
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/04 - SOC Workflows & Scenarios/02 - Scenario Suspicious Login.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 16
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 1 - Welcome/test.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:40",
+            "w": 7,
+            "c": 35
+          },
+          {
+            "timeKey": "19:45",
+            "w": -7,
+            "c": -35
+          }
+        ],
+        "id": 17
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 1 - Welcome/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:50",
+            "w": 7,
+            "c": 34
+          }
+        ],
+        "id": 18
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Excalidraw/Drawing 2026-06-24 19.52.22.excalidraw.md",
+        "wordCountStart": 44,
+        "charCountStart": 566,
+        "changes": [
+          {
+            "timeKey": "19:50",
+            "w": -44,
+            "c": -566
+          }
+        ],
+        "id": 19
       }
     ]
   }
