@@ -1,18 +1,9 @@
 
+![](Attachments/Pasted%20image%2020260625193223.png)
 
+![](Attachments/Pasted%20image%2020260625193325.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
+![](Attachments/Pasted%20image%2020260625193535.png)
 
 
 ## NIST CSF 2.0 

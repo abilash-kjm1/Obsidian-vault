@@ -75,24 +75,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "87c5d659fbfa9da2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e747c0ac17497ed2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260625065024.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260625065024"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -268,6 +250,9 @@
   },
   "active": "8733de1e60b21b7a",
   "lastOpenFiles": [
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260625193535.png",
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260625193325.png",
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260625193223.png",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/04 - Cyber Kill Chain.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/02 - SOC Roles & Responsibilities.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
@@ -281,8 +266,6 @@
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260625065437.png",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260625065221.png",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260625065029.png",
-    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260625064917.png",
-    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260625064907.png",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/03 - SOC Operations.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/09 - SOC Maturity Levels.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/08 - Introduction to DFIR.md",
