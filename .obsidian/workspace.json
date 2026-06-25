@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
-                "mode": "source",
+                "file": "E-soc/00 - Index.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - What is a SOC"
+              "title": "00 - Index"
             }
           }
         ]
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
+                "file": "E-soc/00 - Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01 - What is a SOC"
+              "title": "Outline of 00 - Index"
             }
           },
           {
@@ -266,6 +266,7 @@
   },
   "active": "8733de1e60b21b7a",
   "lastOpenFiles": [
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260624212435.png",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260624211450.png",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260624210143.png",
@@ -295,7 +296,6 @@
     "Section 2 - Foundations/02 - Core Skills for SOC Analysts",
     "Section 2 - Foundations",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/03 - SOC Operations.md",
-    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
     "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/02 - Networking Fundamentals for Analysts/03 - IPv4 Addressing.md",
     "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/02 - Networking Fundamentals for Analysts/01 - Network Models (OSI & TCP-IP).md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/05 - NIST Cybersecurity Framework.md",
