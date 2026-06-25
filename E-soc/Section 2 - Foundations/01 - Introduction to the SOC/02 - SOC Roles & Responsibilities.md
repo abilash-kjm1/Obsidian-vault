@@ -50,3 +50,41 @@ In a SOC, a Tier 1 analyst performs this initial triage:
 
 ---
 
+![](Attachments/Pasted%20image%2020260624220219.png)
+
+ 
+ Their responsibilities include:
+
+- **Handling the Hardest Attacks:** They are the senior security experts called upon to manage the most advanced or confusing security incidents.
+
+- **Hunting for Hidden Threats:** As Threat Hunters, they proactively search for potential attacks that have already bypassed existing security tools and _did not_ trigger any initial alerts.
+
+- **Digging Deep to Find the "Why":** They perform complete forensic analysis to investigate an incident's "root cause"—basically, they determine _exactly_ how the attacker got in and what they did.
+
+- **Making the SOC Stronger:** Their expertise is used to improve the entire SOC's capabilities. They do this by:
+
+    - Developing new "use cases" (new methods to find attackers).
+    
+    - "Tuning" security controls (making firewalls and alerts more precise).
+    
+    - Mentoring and training junior analysts.
+
+![](Attachments/Pasted%20image%2020260624220553.png)
+
+- **The Entry Points:** Tier 3 workflow begins in one of two ways:
+    
+    - **Proactive Path (Threat Hunting):** Instead of waiting for an alert, they create a hypothesis (a theory on where a sneaky attacker might hide) and search the network for hidden dangers.
+    
+    - **Reactive Path (Forensics):** A highly complex, advanced incident is escalated to them from Tier 2.
+    
+- **The Investigation Phase:**
+    
+    - They pull deep data logs and perform **deep digital forensics** to uncover the **Root Cause** (figuring out _exactly_ how the attacker slipped in).
+    
+- **The Advanced Response:**
+    
+    - They take precise actions to neutralize sophisticated threats that standard automated tools cannot handle.
+    
+- **The Feedback Loop (Improving the SOC):**
+    
+    - This is what makes Tier 3 unique. Once the issue is resolved, they use their findings to make the entire SOC smarter. They create new **Use Cases** (rules to spot this attack automatically next time), **Tune Security Controls** to block it, and **Mentor** Tier 1 and Tier 2 analysts to raise the whole team's skill level.
