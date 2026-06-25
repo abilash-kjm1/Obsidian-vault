@@ -250,9 +250,16 @@
   },
   "active": "e747c0ac17497ed2",
   "lastOpenFiles": [
-    "E-soc/Section 3 - SOC Operations/01 - SOC Logging & Analysis/04 - SIEM Fundamentals/04 - Events Alerts & Incidents.md",
+    "Section 3 - SOC Operations/02 - Incident Detection  Response/04 - Events Alerts %26 Incidents.md",
     "E-soc/00 - Index.md",
+    "Section 3 - SOC Operations/02 - Incident Detection  Response",
+    "Section 3 - SOC Operations",
+    "Section 3 - SOC Operations/02 - Incident Detection %26 Response/04 - Events Alerts %26 Incidents.md",
+    "Section 3 - SOC Operations/02 - Incident Detection %26 Response",
+    "E-soc/Section 3 - SOC Operations/02 - Incident Detection & Response/01 - IR Fundamentals/03 - Incident Response Process.md",
     "E-soc/Section 3 - SOC Operations/02 - Incident Detection & Response/01 - IR Fundamentals/04 - Events Alerts & Incidentss.md",
+    "E-soc/Section.md",
+    "E-soc/Section 3 - SOC Operations/01 - SOC Logging & Analysis/04 - SIEM Fundamentals/04 - Events Alerts & Incidents.md",
     "E-soc/Section 1 - Welcome/Untitled.md",
     "Excalidraw/Drawing 2026-06-24 19.52.22.excalidraw.md",
     "Excalidraw",
@@ -261,7 +268,6 @@
     "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/04 - SOC Workflows & Scenarios/02 - Scenario Suspicious Login.md",
     "Section 3 - SOC Operations/01 - SOC Logging %26 Analysis/04 - Events Alerts %26 Incidents.md",
     "Section 3 - SOC Operations/01 - SOC Logging %26 Analysis",
-    "Section 3 - SOC Operations",
     "Section 2 - Foundations/02 - Core Skills for SOC Analysts/02 - Pattern Recognition.md",
     "Section 2 - Foundations/02 - Core Skills for SOC Analysts/05 - Linux Networking %26 Remote Access.md",
     "Section 2 - Foundations/02 - Core Skills for SOC Analysts",
@@ -277,15 +283,8 @@
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/04 - Cyber Kill Chain.md",
     "_config.yml",
     "2026-02-05.md",
-    "copilot/copilot-conversations/Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260624_005159.md",
-    "copilot/copilot-conversations/Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260624_004857.md",
-    "copilot/copilot-conversations/Active_Note_Key_Questions@20260624_005620.md",
-    "E-soc/Section 5 - Labs/test.md",
     "copilot/copilot-conversations",
     "copilot",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts",
-    "Untitled.canvas",
-    "E-soc/Section 3 - SOC Operations/07 - AI in the SOC/08 - High-Level View of Custom AI in SOCs"
+    "Untitled.canvas"
   ]
 }

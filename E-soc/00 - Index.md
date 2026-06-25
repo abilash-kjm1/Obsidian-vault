@@ -152,7 +152,7 @@ GROUP BY file.folder
 > - [ ] [01 - What is Incident Response](01%20-%20What%20is%20Incident%20Response.md) *(5m)*
 > - [ ] [02 - Incident Response Teams](02%20-%20Incident%20Response%20Teams.md) *(11m)*
 > - [ ] [03 - Incident Response Process](03%20-%20Incident%20Response%20Process.md) *(14m)*
-> - [ ] [(12m)*
+> - [ ] [04 - Events Alerts & Incidentss](Section%203%20-%20SOC%20Operations/02%20-%20Incident%20Detection%20&%20Response/01%20-%20IR%20Fundamentals/04%20-%20Events%20Alerts%20&%20Incidentss.md)
 >
 > #### 🔹 Detecting Incidents
 > - [ ] [01 - Detecting Suspicious Activity](01%20-%20Detecting%20Suspicious%20Activity.md) *(12m)*
