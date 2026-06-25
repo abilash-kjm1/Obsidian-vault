@@ -129,6 +129,11 @@
             "timeKey": "20:10",
             "w": 36,
             "c": 187
+          },
+          {
+            "timeKey": "20:20",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 1
@@ -138,7 +143,13 @@
         "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "20:25",
+            "w": 0,
+            "c": 1
+          }
+        ],
         "id": 2
       },
       {

@@ -104,6 +104,36 @@
             "timeKey": "19:45",
             "w": -2,
             "c": -9
+          },
+          {
+            "timeKey": "19:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "19:55",
+            "w": 44,
+            "c": 204
+          },
+          {
+            "timeKey": "20:00",
+            "w": -4,
+            "c": -4
+          },
+          {
+            "timeKey": "20:05",
+            "w": -34,
+            "c": -184
+          },
+          {
+            "timeKey": "20:10",
+            "w": 36,
+            "c": 187
+          },
+          {
+            "timeKey": "20:20",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 1
@@ -232,10 +262,16 @@
       },
       {
         "date": "2026-06-24",
-        "filePath": "E-soc/Section 3 - SOC Operations/02 - Incident Detection & Response/01 - IR Fundamentals/04 - Events Alerts & Incidents.md",
+        "filePath": "E-soc/Section 3 - SOC Operations/02 - Incident Detection & Response/01 - IR Fundamentals/04 - Events Alerts & Incidentss.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "20:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 15
       },
       {
@@ -275,6 +311,11 @@
             "timeKey": "19:50",
             "w": 7,
             "c": 34
+          },
+          {
+            "timeKey": "19:55",
+            "w": -7,
+            "c": -34
           }
         ],
         "id": 18
@@ -292,6 +333,72 @@
           }
         ],
         "id": 19
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 3 - SOC Operations/01 - SOC Logging & Analysis/04 - SIEM Fundamentals/04 - Events Alerts & Incidents.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 20
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 21
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 3 - SOC Operations/02 - Incident Detection & Response/01 - IR Fundamentals/03 - Incident Response Process.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 22
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Section 3 - SOC Operations/02 - Incident Detection %26 Response/04 - Events Alerts %26 Incidents.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 23
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Section 3 - SOC Operations/02 - Incident Detection  Response/04 - Events Alerts %26 Incidents.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 24
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 4 - Goodbye/Summary.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 25
       }
     ]
   }
