@@ -56,7 +56,8 @@
     "highestStreakStartDate": "",
     "highestStreakEndDate": "",
     "daysWithCompletedGoal": [
-      "2026-06-24"
+      "2026-06-24",
+      "2026-06-25"
     ],
     "dailyActivity": [
       {
@@ -590,6 +591,16 @@
             "timeKey": "06:40",
             "w": 9,
             "c": 53
+          },
+          {
+            "timeKey": "06:45",
+            "w": 200,
+            "c": 1289
+          },
+          {
+            "timeKey": "06:50",
+            "w": 21,
+            "c": 161
           }
         ],
         "id": 30
