@@ -6,6 +6,7 @@
 
 - **Tier 3 (Hunter/Expert):** The advanced pros who proactively hunt for hidden, sneaky threats and handle the most complex, high-level security emergencies.
 
+## Tier 1 [ Triage]
 
 ![](Attachments/Pasted%20image%2020260624214623.png)
 
@@ -36,6 +37,8 @@ In a SOC, a Tier 1 analyst performs this initial triage:
 3. **Escalates:** If it's a serious, real attack, they pass it up to Tier 2 investigators to handle.
 
 --- 
+## Tier 2 [Responders]
+
 
 ![](Attachments/Pasted%20image%2020260624215130.png)
 ![](Attachments/Pasted%20image%2020260624215546.png)
@@ -49,6 +52,7 @@ In a SOC, a Tier 1 analyst performs this initial triage:
 - **Coordination with IT Staff:** They collaborate closely with the broader IT team to completely resolve the incident and collect extra information about what happened.
 
 ---
+## Tier 3 [Experts / forensic]
 
 ![](Attachments/Pasted%20image%2020260624220219.png)
 
@@ -91,8 +95,17 @@ In a SOC, a Tier 1 analyst performs this initial triage:
 
 
 --- 
+## Additional Roles
 
 ![](Attachments/Pasted%20image%2020260624221540.png)
 
 ## SOC Manager
 ![](Attachments/Pasted%20image%2020260624221923.png)
+
+- **Team Leadership & Coverage:** They lead the entire SOC team, making sure there is always 24/7 shift coverage and that all security procedures are followed correctly.
+    
+- **Incident Oversight:** They supervise how security incidents are handled and give the final guidance or official approval for major, high-stakes response actions.
+    
+- **Performance Tracking:** They track key security metrics and create reports to show how well the SOC is performing.
+    
+- **Operations & Growth:** They are responsible for hiring staff, managing training, and constantly improving the SOC's operations, tools, and technologies.
