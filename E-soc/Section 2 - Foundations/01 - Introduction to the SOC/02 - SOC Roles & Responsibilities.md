@@ -18,6 +18,9 @@
 
 - **Step 3: Resolve & Document (Close Simple Issues)** They close out the simple stuff—like known safe events or false alarms—and write down their findings so there is a clear record.
 
+![](Attachments/Pasted%20image%2020260624215735.png)
+
+
 
 > [!NOTE] What is Triage
 > **triage** means **sorting and prioritizing incoming security alerts** to figure out which ones are real threats and which ones are false alarms.
@@ -33,4 +36,17 @@ In a SOC, a Tier 1 analyst performs this initial triage:
 3. **Escalates:** If it's a serious, real attack, they pass it up to Tier 2 investigators to handle.
 
 --- 
+
+![](Attachments/Pasted%20image%2020260624215130.png)
+![](Attachments/Pasted%20image%2020260624215546.png)
+
+- **Investigates Escalated Alerts:** They look at the alerts sent up by Tier 1 to confirm if a real security incident is actually happening.
+
+- **In-Depth Analysis:** They dig deep into the data to figure out the full scope of the attack and exactly what systems or data are impacted.
+
+- **Response Actions:** They take immediate, necessary actions to stop the attack and begin the remediation (fixing/healing) process.
+
+- **Coordination with IT Staff:** They collaborate closely with the broader IT team to completely resolve the incident and collect extra information about what happened.
+
+---
 
