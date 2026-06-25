@@ -19,12 +19,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 1,
-        "ch": 0
+        "line": 11,
+        "ch": 82
       },
       "to": {
-        "line": 1,
-        "ch": 0
+        "line": 11,
+        "ch": 82
       }
     },
     "expandedKeys": []
