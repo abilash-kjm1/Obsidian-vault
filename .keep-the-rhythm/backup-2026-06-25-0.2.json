@@ -1,0 +1,713 @@
+{
+  "schema": "0.2",
+  "settings": {
+    "enabledLanguages": [
+      "LATIN"
+    ],
+    "dailyWritingGoal": 500,
+    "startOfTheWeek": "SUNDAY",
+    "heatmapNavigation": true,
+    "heatmapConfig": {
+      "roundCells": true,
+      "hideMonthLabels": false,
+      "hideWeekdayLabels": false,
+      "alignLeft": false,
+      "numberOfWeeks": 52,
+      "intensityMode": "gradual",
+      "intensityStops": {
+        "low": 100,
+        "medium": 500,
+        "high": 1000
+      },
+      "colors": {
+        "light": {
+          "0": "#e0e0e0",
+          "1": "#9be9a8",
+          "2": "#6ad286",
+          "3": "#2ebd54",
+          "4": "#12a53e"
+        },
+        "dark": {
+          "0": "#ebedf015",
+          "1": "#0e4429",
+          "2": "#006d32",
+          "3": "#26a641",
+          "4": "#39d353"
+        }
+      }
+    },
+    "sidebarConfig": {
+      "visibility": {
+        "showSlots": true,
+        "showEntries": true,
+        "showHeatmap": true
+      },
+      "slots": []
+    },
+    "backupConfig": {
+      "enabled": true,
+      "folderPath": ".keep-the-rhythm",
+      "maxNumberOfBackups": 3
+    }
+  },
+  "stats": {
+    "currentStreak": 0,
+    "highestStreak": 0,
+    "highestStreakStartDate": "",
+    "highestStreakEndDate": "",
+    "daysWithCompletedGoal": [
+      "2026-06-24",
+      "2026-06-25"
+    ],
+    "dailyActivity": [
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/00 - Index.md",
+        "wordCountStart": 1677,
+        "charCountStart": 11244,
+        "changes": [
+          {
+            "timeKey": "08:20",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "18:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "18:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "19:15",
+            "w": 1744,
+            "c": 7419
+          },
+          {
+            "timeKey": "19:30",
+            "w": -3421,
+            "c": -18663
+          },
+          {
+            "timeKey": "19:35",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "19:40",
+            "w": 3423,
+            "c": 18674
+          },
+          {
+            "timeKey": "19:45",
+            "w": -2,
+            "c": -9
+          },
+          {
+            "timeKey": "19:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "19:55",
+            "w": 44,
+            "c": 204
+          },
+          {
+            "timeKey": "20:00",
+            "w": -4,
+            "c": -4
+          },
+          {
+            "timeKey": "20:05",
+            "w": -34,
+            "c": -184
+          },
+          {
+            "timeKey": "20:10",
+            "w": 36,
+            "c": 187
+          },
+          {
+            "timeKey": "20:20",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "21:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:25",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "20:50",
+            "w": 8,
+            "c": 60
+          },
+          {
+            "timeKey": "20:55",
+            "w": 47,
+            "c": 325
+          },
+          {
+            "timeKey": "21:00",
+            "w": 91,
+            "c": 714
+          },
+          {
+            "timeKey": "21:05",
+            "w": 5,
+            "c": 56
+          },
+          {
+            "timeKey": "21:10",
+            "w": 7,
+            "c": 52
+          },
+          {
+            "timeKey": "21:15",
+            "w": 107,
+            "c": 768
+          },
+          {
+            "timeKey": "21:20",
+            "w": 7,
+            "c": 56
+          },
+          {
+            "timeKey": "21:25",
+            "w": 140,
+            "c": 919
+          }
+        ],
+        "id": 2
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
+        "wordCountStart": 41,
+        "charCountStart": 359,
+        "changes": [],
+        "id": 3
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/04 - Cyber Kill Chain.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 4
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/09 - SOC Maturity Levels.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 5
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "index.md",
+        "wordCountStart": 12,
+        "charCountStart": 64,
+        "changes": [],
+        "id": 6
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/06 - Compliance Ethics & Legal Foundations/02 - Privacy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 7
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/05 - NIST Cybersecurity Framework.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 8
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/02 - Networking Fundamentals for Analysts/01 - Network Models (OSI & TCP-IP).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 9
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/02 - Networking Fundamentals for Analysts/03 - IPv4 Addressing.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 10
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/03 - SOC Operations.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:25",
+            "w": 7,
+            "c": 55
+          },
+          {
+            "timeKey": "22:30",
+            "w": 255,
+            "c": 1790
+          },
+          {
+            "timeKey": "22:35",
+            "w": 8,
+            "c": 66
+          },
+          {
+            "timeKey": "22:40",
+            "w": 201,
+            "c": 1421
+          },
+          {
+            "timeKey": "22:45",
+            "w": 13,
+            "c": 94
+          },
+          {
+            "timeKey": "22:50",
+            "w": 207,
+            "c": 1493
+          }
+        ],
+        "id": 11
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Section 2 - Foundations/02 - Core Skills for SOC Analysts/05 - Linux Networking %26 Remote Access.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 12
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Section 2 - Foundations/02 - Core Skills for SOC Analysts/02 - Pattern Recognition.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 13
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Section 3 - SOC Operations/01 - SOC Logging %26 Analysis/04 - Events Alerts %26 Incidents.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 14
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 3 - SOC Operations/02 - Incident Detection & Response/01 - IR Fundamentals/04 - Events Alerts & Incidentss.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 15
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/04 - SOC Workflows & Scenarios/02 - Scenario Suspicious Login.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 16
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 1 - Welcome/test.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:40",
+            "w": 7,
+            "c": 35
+          },
+          {
+            "timeKey": "19:45",
+            "w": -7,
+            "c": -35
+          }
+        ],
+        "id": 17
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 1 - Welcome/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:50",
+            "w": 7,
+            "c": 34
+          },
+          {
+            "timeKey": "19:55",
+            "w": -7,
+            "c": -34
+          }
+        ],
+        "id": 18
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Excalidraw/Drawing 2026-06-24 19.52.22.excalidraw.md",
+        "wordCountStart": 44,
+        "charCountStart": 566,
+        "changes": [
+          {
+            "timeKey": "19:50",
+            "w": -44,
+            "c": -566
+          }
+        ],
+        "id": 19
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 3 - SOC Operations/01 - SOC Logging & Analysis/04 - SIEM Fundamentals/04 - Events Alerts & Incidents.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 20
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 21
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 3 - SOC Operations/02 - Incident Detection & Response/01 - IR Fundamentals/03 - Incident Response Process.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 22
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Section 3 - SOC Operations/02 - Incident Detection %26 Response/04 - Events Alerts %26 Incidents.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 23
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Section 3 - SOC Operations/02 - Incident Detection  Response/04 - Events Alerts %26 Incidents.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 24
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 4 - Goodbye/Summary.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 25
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/02 - SOC Roles & Responsibilities.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 7,
+            "c": 54
+          },
+          {
+            "timeKey": "21:35",
+            "w": 165,
+            "c": 1062
+          },
+          {
+            "timeKey": "21:40",
+            "w": 132,
+            "c": 784
+          },
+          {
+            "timeKey": "21:45",
+            "w": 0,
+            "c": 9
+          },
+          {
+            "timeKey": "21:50",
+            "w": 97,
+            "c": 646
+          },
+          {
+            "timeKey": "21:55",
+            "w": 14,
+            "c": 113
+          },
+          {
+            "timeKey": "22:00",
+            "w": 131,
+            "c": 943
+          },
+          {
+            "timeKey": "22:05",
+            "w": 170,
+            "c": 1162
+          },
+          {
+            "timeKey": "22:10",
+            "w": 0,
+            "c": 9
+          },
+          {
+            "timeKey": "22:15",
+            "w": 16,
+            "c": 122
+          },
+          {
+            "timeKey": "22:20",
+            "w": 99,
+            "c": 722
+          }
+        ],
+        "id": 26
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
+        "wordCountStart": 412,
+        "charCountStart": 2951,
+        "changes": [],
+        "id": 27
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/02 - SOC Roles & Responsibilities.md",
+        "wordCountStart": 831,
+        "charCountStart": 5626,
+        "changes": [],
+        "id": 28
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/03 - SOC Operations.md",
+        "wordCountStart": 691,
+        "charCountStart": 4919,
+        "changes": [],
+        "id": 29
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/04 - Cyber Kill Chain.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "06:30",
+            "w": 10,
+            "c": 76
+          },
+          {
+            "timeKey": "06:35",
+            "w": 308,
+            "c": 2132
+          },
+          {
+            "timeKey": "06:40",
+            "w": 9,
+            "c": 53
+          },
+          {
+            "timeKey": "06:45",
+            "w": 200,
+            "c": 1289
+          },
+          {
+            "timeKey": "06:50",
+            "w": 21,
+            "c": 161
+          },
+          {
+            "timeKey": "06:55",
+            "w": 18,
+            "c": 106
+          },
+          {
+            "timeKey": "07:20",
+            "w": 7,
+            "c": 55
+          }
+        ],
+        "id": 30
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/05 - NIST Cybersecurity Framework.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "08:20",
+            "w": 302,
+            "c": 2057
+          },
+          {
+            "timeKey": "08:35",
+            "w": 8,
+            "c": 63
+          },
+          {
+            "timeKey": "08:45",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "15:10",
+            "w": -24,
+            "c": -150
+          },
+          {
+            "timeKey": "19:30",
+            "w": 14,
+            "c": 105
+          },
+          {
+            "timeKey": "19:35",
+            "w": 7,
+            "c": 42
+          }
+        ],
+        "id": 31
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/06 - MITRE ATT&CK.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 32
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/07 - SOC Tools & Technology.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 33
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/08 - Introduction to DFIR.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 34
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/09 - SOC Maturity Levels.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 35
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "E-soc/00 - Index.md",
+        "wordCountStart": 3460,
+        "charCountStart": 18868,
+        "changes": [],
+        "id": 36
+      },
+      {
+        "date": "2026-06-25",
+        "filePath": "Prompts.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": 769,
+            "c": 4636
+          }
+        ],
+        "id": 37
+      }
+    ]
+  }
+}
