@@ -390,5 +390,33 @@
       }
     },
     "expandedKeys": []
+  },
+  "Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Prompts.md": {
+    "scroll": 3.1666666666666665,
+    "cursor": {
+      "from": {
+        "line": 144,
+        "ch": 197
+      },
+      "to": {
+        "line": 144,
+        "ch": 197
+      }
+    },
+    "expandedKeys": []
   }
 }
