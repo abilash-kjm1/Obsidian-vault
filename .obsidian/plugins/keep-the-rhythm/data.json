@@ -794,6 +794,14 @@
           }
         ],
         "id": 40
+      },
+      {
+        "date": "2026-06-27",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/08 - Introduction to DFIR.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 41
       }
     ]
   }
