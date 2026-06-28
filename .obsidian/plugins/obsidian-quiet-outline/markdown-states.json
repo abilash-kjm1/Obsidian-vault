@@ -350,20 +350,21 @@
     "expandedKeys": []
   },
   "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/06 - MITRE ATT&CK.md": {
-    "scroll": 33.1172268907563,
+    "scroll": 53.63862344260312,
     "cursor": {
       "from": {
-        "line": 53,
-        "ch": 55
+        "line": 119,
+        "ch": 154
       },
       "to": {
-        "line": 53,
-        "ch": 0
+        "line": 119,
+        "ch": 154
       }
     },
     "expandedKeys": [
       "item-1-0",
-      "item-2-3"
+      "item-2-3",
+      "item-1-8"
     ]
   },
   "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/07 - SOC Tools & Technology.md": {

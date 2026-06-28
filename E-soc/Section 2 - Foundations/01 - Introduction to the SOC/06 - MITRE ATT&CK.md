@@ -52,3 +52,69 @@ Don't write sloppy notes when passing a ticket to Tier 2. Use MITRE names to sou
 - **NIST CSF:** _The Rules._ The company's guide on **how to build** the security team and policies.
 
 ![697](Attachments/Pasted%20image%2020260627202908.png)
+
+# 🛡️ THE PROFESSIONAL SOC ANALYST CHEAT SHEET: MITRE ATT&CK
+
+## ⚡ Core Concepts
+
+- **MITRE ATT&CK Matrix:** A globally standardized encyclopedia mapping real-world adversary behavior.
+    
+- **The Blueprint ID (e.g., `T1059.001`):** A universal barcode. Every SIEM, EDR, and security team globally uses these identical IDs to eliminate language barriers.
+    
+
+```
+TACTIC (The Goal) ──> TECHNIQUE (The Action) ──> SUB-TECHNIQUE (The Specific Tool)
+[Execution]            [Command Interpreter]      [.001: PowerShell]
+```
+
+## 📊 Anatomy of a Technique Page
+
+|**Component**|**Professional Definition**|**Quick Translation**|**Practical SOC Use Case**|
+|---|---|---|---|
+|**Tactic**|Adversarial tactical objective.|**The "Why"**|Determines triage priority and phase of breach.|
+|**Technique**|The method executed to achieve an objective.|**The "How"**|Identifies the general nature of the malicious alert.|
+|**Sub-Technique**|Granular sub-category of a technique.|**The Exact Tool**|Directs you to the exact software/language used.|
+|**Procedure**|Historical, real-world implementation by threat actors.|**The History**|Provides context on known threat group behaviors (TTPs).|
+|**Mitigation**|Hardening steps to prevent the technique from succeeding.|**The Shield**|Used to verify if defensive configurations failed.|
+|**Detection**|Specific data sources and telemetry required to observe behavior.|**The Clues**|**Your Holy Grail:** Names the exact log IDs needed to query.|
+
+## 💻 Shift Execution Workflow (3-Step Blueprint)
+
+### 1. Alert Enrichment (Triage)
+
+- **Action:** SIEM triggers an abstract alert (`lsass.exe memory read`).
+    
+- **Execution:** Query `lsass` on the ATT&CK framework. Map it to **T1003 (Credential Dumping)**.
+    
+- **Outcome:** You instantly identify the intent: _The adversary is attempting to harvest plain-text passwords from memory._
+    
+
+### 2. Analytical Pivoting (Scoping)
+
+- **Action:** You confirm a malicious script ran via PowerShell (**T1059.001**).
+    
+- **Execution:** Navigate to the **Detection** section of the T1059.001 page. It dictates analyzing process creation logs.
+    
+- **Outcome:** You target your SIEM query to **Windows Event ID 4688** or **Sysmon Event ID 1** to extract the raw command line string executed by the attacker.
+    
+
+### 3. Professional Escalation (Handoff)
+
+- **Action:** Documenting findings to escalate to Tier 2/Incident Response.
+    
+- **Execution:** Replace descriptive prose with framework terminology.
+    
+- **Outcome:**
+    
+    - ❌ _Incorrect:_ "The user ran a bad script and it looks like a hacker tried to steal passwords."
+        
+    - ✅ _Professional:_ "Alert validated. Observed execution of **T1059.001 (PowerShell)** leading to **T1003.001 (LSASS Memory)** on Host-01. Escalating for immediate containment."
+        
+
+## 🧠 Framework Matrix Correlation
+
+- **NIST CSF:** _Strategic Governance._ Controls **how to build** and evaluate the security architecture.
+    
+- **Cyber Kill Chain:** _Chronological Timeline._ Tracks **how close** the adversary is to their final objective. Dictates **Severity/Priority**.
+    
+- **MITRE ATT&CK:** _Technical Telemetry._ Explains **exactly what** actions occurred and **which logs** hold the evidence. Dictates **Analysis/Hunting**.
