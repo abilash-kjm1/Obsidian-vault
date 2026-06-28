@@ -50,3 +50,5 @@ Don't write sloppy notes when passing a ticket to Tier 2. Use MITRE names to sou
 - **MITRE ATT&CK:** _The Clues._ Tells you **exactly what they did** and what logs to check next.
 
 - **NIST CSF:** _The Rules._ The company's guide on **how to build** the security team and policies.
+
+![697](Attachments/Pasted%20image%2020260627202908.png)

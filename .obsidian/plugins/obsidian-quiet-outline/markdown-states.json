@@ -350,14 +350,14 @@
     "expandedKeys": []
   },
   "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/06 - MITRE ATT&CK.md": {
-    "scroll": 9.030805687203792,
+    "scroll": 33.1172268907563,
     "cursor": {
       "from": {
-        "line": 50,
-        "ch": 0
+        "line": 53,
+        "ch": 55
       },
       "to": {
-        "line": 50,
+        "line": 53,
         "ch": 0
       }
     },
