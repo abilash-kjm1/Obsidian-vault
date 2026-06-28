@@ -712,6 +712,25 @@
           }
         ],
         "id": 37
+      },
+      {
+        "date": "2026-06-27",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/06 - MITRE ATT&CK.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:20",
+            "w": 400,
+            "c": 2314
+          },
+          {
+            "timeKey": "20:25",
+            "w": 0,
+            "c": -36
+          }
+        ],
+        "id": 38
       }
     ]
   }
