@@ -366,18 +366,20 @@
     ]
   },
   "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/07 - SOC Tools & Technology.md": {
-    "scroll": 0,
+    "scroll": 24.453863845446183,
     "cursor": {
       "from": {
-        "line": 9,
-        "ch": 52
+        "line": 25,
+        "ch": 0
       },
       "to": {
-        "line": 9,
-        "ch": 52
+        "line": 25,
+        "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-0"
+    ]
   },
   "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/08 - Introduction to DFIR.md": {
     "scroll": 0,
