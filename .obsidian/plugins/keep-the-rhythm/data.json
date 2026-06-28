@@ -802,6 +802,22 @@
         "charCountStart": 0,
         "changes": [],
         "id": 41
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
+        "wordCountStart": 412,
+        "charCountStart": 2951,
+        "changes": [],
+        "id": 42
+      },
+      {
+        "date": "2026-06-28",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/07 - SOC Tools & Technology.md",
+        "wordCountStart": 376,
+        "charCountStart": 2865,
+        "changes": [],
+        "id": 43
       }
     ]
   }
