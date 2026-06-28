@@ -734,9 +734,32 @@
             "timeKey": "20:35",
             "w": 415,
             "c": 3267
+          },
+          {
+            "timeKey": "20:55",
+            "w": -155,
+            "c": -1134
+          },
+          {
+            "timeKey": "21:00",
+            "w": -108,
+            "c": -931
+          },
+          {
+            "timeKey": "21:05",
+            "w": 13,
+            "c": 103
           }
         ],
         "id": 38
+      },
+      {
+        "date": "2026-06-27",
+        "filePath": "E-soc/00 - Index.md",
+        "wordCountStart": 3458,
+        "charCountStart": 18868,
+        "changes": [],
+        "id": 39
       }
     ]
   }

@@ -1,9 +1,17 @@
+🌐 https://attack.mitre.org/
 
-# 📝 My Cheat Sheet: MITRE ATT&CK for a SOC L1
+<iframe
+  src="https://attack.mitre.org/"
+  width="100%"
+  height="800"
+  frameborder="0">
+</iframe>
+
+
 
 ## 🎯 What is it?
 
-It is a giant encyclopedia of **every trick hackers use**. You use it every day to figure out what a weird alert means and what the hacker is going to do next.
+MITRE ATT&CK is a free, publicly maintained encyclopedia of every known technique real-world attackers use — organized by _what they're trying to accomplish_. It exists because defenders needed a shared language: when your SIEM fires an alert, ATT&CK tells you exactly where in the attack chain you are. SOC analysts use it every day to triage alerts, hunt for threats, and report to management in terms everyone understands.
 
 ## 🧩 The 2 Words You MUST Know
 
@@ -53,19 +61,6 @@ Don't write sloppy notes when passing a ticket to Tier 2. Use MITRE names to sou
 
 ![697](Attachments/Pasted%20image%2020260627202908.png)
 
-# 🛡️ THE PROFESSIONAL SOC ANALYST CHEAT SHEET: MITRE ATT&CK
-
-## ⚡ Core Concepts
-
-- **MITRE ATT&CK Matrix:** A globally standardized encyclopedia mapping real-world adversary behavior.
-    
-- **The Blueprint ID (e.g., `T1059.001`):** A universal barcode. Every SIEM, EDR, and security team globally uses these identical IDs to eliminate language barriers.
-    
-
-```
-TACTIC (The Goal) ──> TECHNIQUE (The Action) ──> SUB-TECHNIQUE (The Specific Tool)
-[Execution]            [Command Interpreter]      [.001: PowerShell]
-```
 
 ## 📊 Anatomy of a Technique Page
 
@@ -77,44 +72,3 @@ TACTIC (The Goal) ──> TECHNIQUE (The Action) ──> SUB-TECHNIQUE (The Spec
 |**Procedure**|Historical, real-world implementation by threat actors.|**The History**|Provides context on known threat group behaviors (TTPs).|
 |**Mitigation**|Hardening steps to prevent the technique from succeeding.|**The Shield**|Used to verify if defensive configurations failed.|
 |**Detection**|Specific data sources and telemetry required to observe behavior.|**The Clues**|**Your Holy Grail:** Names the exact log IDs needed to query.|
-
-## 💻 Shift Execution Workflow (3-Step Blueprint)
-
-### 1. Alert Enrichment (Triage)
-
-- **Action:** SIEM triggers an abstract alert (`lsass.exe memory read`).
-    
-- **Execution:** Query `lsass` on the ATT&CK framework. Map it to **T1003 (Credential Dumping)**.
-    
-- **Outcome:** You instantly identify the intent: _The adversary is attempting to harvest plain-text passwords from memory._
-    
-
-### 2. Analytical Pivoting (Scoping)
-
-- **Action:** You confirm a malicious script ran via PowerShell (**T1059.001**).
-    
-- **Execution:** Navigate to the **Detection** section of the T1059.001 page. It dictates analyzing process creation logs.
-    
-- **Outcome:** You target your SIEM query to **Windows Event ID 4688** or **Sysmon Event ID 1** to extract the raw command line string executed by the attacker.
-    
-
-### 3. Professional Escalation (Handoff)
-
-- **Action:** Documenting findings to escalate to Tier 2/Incident Response.
-    
-- **Execution:** Replace descriptive prose with framework terminology.
-    
-- **Outcome:**
-    
-    - ❌ _Incorrect:_ "The user ran a bad script and it looks like a hacker tried to steal passwords."
-        
-    - ✅ _Professional:_ "Alert validated. Observed execution of **T1059.001 (PowerShell)** leading to **T1003.001 (LSASS Memory)** on Host-01. Escalating for immediate containment."
-        
-
-## 🧠 Framework Matrix Correlation
-
-- **NIST CSF:** _Strategic Governance._ Controls **how to build** and evaluate the security architecture.
-    
-- **Cyber Kill Chain:** _Chronological Timeline._ Tracks **how close** the adversary is to their final objective. Dictates **Severity/Priority**.
-    
-- **MITRE ATT&CK:** _Technical Telemetry._ Explains **exactly what** actions occurred and **which logs** hold the evidence. Dictates **Analysis/Hunting**.

@@ -1,13 +1,13 @@
 {
   "E-soc/00 - Index.md": {
-    "scroll": 1.5037593984962405,
+    "scroll": 17.1055900621118,
     "cursor": {
       "from": {
-        "line": 8,
+        "line": 0,
         "ch": 0
       },
       "to": {
-        "line": 8,
+        "line": 0,
         "ch": 0
       }
     },
@@ -350,21 +350,19 @@
     "expandedKeys": []
   },
   "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/06 - MITRE ATT&CK.md": {
-    "scroll": 53.63862344260312,
+    "scroll": 16.744791666666668,
     "cursor": {
       "from": {
-        "line": 119,
-        "ch": 154
+        "line": 8,
+        "ch": 0
       },
       "to": {
-        "line": 119,
-        "ch": 154
+        "line": 8,
+        "ch": 0
       }
     },
     "expandedKeys": [
-      "item-1-0",
-      "item-2-3",
-      "item-1-8"
+      "item-2-2"
     ]
   },
   "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/07 - SOC Tools & Technology.md": {

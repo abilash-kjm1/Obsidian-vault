@@ -39,7 +39,7 @@ GROUP BY file.folder
 > #### 🔹 Guides & Frameworks
 > - [x] [04 - Cyber Kill Chain](04%20-%20Cyber%20Kill%20Chain.md) *(13m)*
 > - [x] [05 - NIST Cybersecurity Framework](05%20-%20NIST%20Cybersecurity%20Framework.md) *(8m)*
-> - [ ] [06 - MITRE ATT&CK](06%20-%20MITRE%20ATT&CK.md) *(6m)*
+> - [x] [06 - MITRE ATT&CK](06%20-%20MITRE%20ATT&CK.md) *(6m)*
 >
 > #### 🔹 Working in a SOC
 > - [ ] [07 - SOC Tools & Technology](07%20-%20SOC%20Tools%20&%20Technology.md) *(19m)*
