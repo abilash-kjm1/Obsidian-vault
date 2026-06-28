@@ -34,7 +34,10 @@
 - **Cloud Service Logs (e.g., AWS CloudTrail / Azure Activity):** Specialized data streams that audit cloud infrastructure environments for identity access management modifications, unauthorized access, or configuration changes.
     
 - **Threat Intelligence Feeds:** Global "Most Wanted" databases that continuously stream known Indicators of Compromise (IoCs)—like malicious file hashes and bad IP addresses—directly into SOC tools to flag active threats.
-    
+    ![](Attachments/Pasted%20image%2020260627222456.png)
+
+![](Attachments/Pasted%20image%2020260627222631.png)
+
 
 ### 🧠 Quick Metacognitive Tip for Interviews
 
