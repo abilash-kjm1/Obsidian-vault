@@ -1,6 +1,6 @@
 {
   "E-soc/00 - Index.md": {
-    "scroll": 17.1055900621118,
+    "scroll": 41.725806451612904,
     "cursor": {
       "from": {
         "line": 0,
@@ -382,15 +382,15 @@
     ]
   },
   "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/08 - Introduction to DFIR.md": {
-    "scroll": 0,
+    "scroll": 7.8842289209261684,
     "cursor": {
       "from": {
-        "line": 7,
-        "ch": 52
+        "line": 9,
+        "ch": 0
       },
       "to": {
-        "line": 7,
-        "ch": 52
+        "line": 9,
+        "ch": 0
       }
     },
     "expandedKeys": []
