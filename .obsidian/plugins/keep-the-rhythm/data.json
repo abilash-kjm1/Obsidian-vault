@@ -826,6 +826,25 @@
         "charCountStart": 2865,
         "changes": [],
         "id": 44
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/08 - Introduction to DFIR.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": 13,
+            "c": 107
+          },
+          {
+            "timeKey": "17:10",
+            "w": 29,
+            "c": 188
+          }
+        ],
+        "id": 45
       }
     ]
   }
