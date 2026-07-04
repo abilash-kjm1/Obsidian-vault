@@ -896,8 +896,22 @@
         "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
         "wordCountStart": 412,
         "charCountStart": 2951,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "13:20",
+            "w": 5,
+            "c": 22
+          }
+        ],
         "id": 49
+      },
+      {
+        "date": "2026-07-04",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/02 - SOC Roles & Responsibilities.md",
+        "wordCountStart": 831,
+        "charCountStart": 5626,
+        "changes": [],
+        "id": 50
       }
     ]
   }

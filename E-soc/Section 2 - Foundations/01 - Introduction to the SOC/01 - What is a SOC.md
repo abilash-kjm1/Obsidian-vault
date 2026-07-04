@@ -96,6 +96,8 @@ Examples:
 	**Example:**  
 	Ransomware detected on 1 PC → SOC isolates it before it spreads.
 --- 
+## Why we need a SOC
+
 
 ![](Attachments/Pasted%20image%2020260624212435.png)
 
