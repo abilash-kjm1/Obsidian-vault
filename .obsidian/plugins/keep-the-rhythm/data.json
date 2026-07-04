@@ -950,6 +950,22 @@
         "charCountStart": 401,
         "changes": [],
         "id": 54
+      },
+      {
+        "date": "2026-07-04",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/06 - MITRE ATT&CK.md",
+        "wordCountStart": 572,
+        "charCountStart": 3641,
+        "changes": [],
+        "id": 55
+      },
+      {
+        "date": "2026-07-04",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/07 - SOC Tools & Technology.md",
+        "wordCountStart": 376,
+        "charCountStart": 2865,
+        "changes": [],
+        "id": 56
       }
     ]
   }

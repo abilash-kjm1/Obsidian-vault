@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/03 - SOC Operations.md",
-                "mode": "source",
+                "file": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/06 - MITRE ATT&CK.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - SOC Operations"
+              "title": "06 - MITRE ATT&CK"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/03 - SOC Operations.md",
+                "file": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/06 - MITRE ATT&CK.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03 - SOC Operations"
+              "title": "Outline of 06 - MITRE ATT&CK"
             }
           },
           {
@@ -265,11 +265,13 @@
   },
   "active": "c55922cacffbd997",
   "lastOpenFiles": [
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/07 - SOC Tools & Technology.md",
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/06 - MITRE ATT&CK.md",
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/05 - NIST Cybersecurity Framework.md",
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/04 - Cyber Kill Chain.md",
+    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/03 - SOC Operations.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/09 - SOC Maturity Levels.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/08 - Introduction to DFIR.md",
-    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/04 - Cyber Kill Chain.md",
-    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/05 - NIST Cybersecurity Framework.md",
-    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/03 - SOC Operations.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/02 - SOC Roles & Responsibilities.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/01 - What is a SOC.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260704130855.png",
@@ -279,8 +281,6 @@
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260702173220.png",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260702171746.png",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260702171257.png",
-    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/07 - SOC Tools & Technology.md",
-    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/06 - MITRE ATT&CK.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260627222631.png",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260627222456.png",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260627222315.png",
