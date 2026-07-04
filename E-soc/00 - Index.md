@@ -44,7 +44,7 @@ GROUP BY file.folder
 > #### 🔹 Working in a SOC
 > - [x] [07 - SOC Tools & Technology](07%20-%20SOC%20Tools%20&%20Technology.md) *(19m)*
 > - [x] [08 - Introduction to DFIR](08%20-%20Introduction%20to%20DFIR.md) *(11m)*
-> - [ ] [09 - SOC Maturity Levels](09%20-%20SOC%20Maturity%20Levels.md) *(9m)*
+> - [x] [09 - SOC Maturity Levels](09%20-%20SOC%20Maturity%20Levels.md) *(9m)*
 
 > ### 📂 02 — Core Skills for SOC Analysts
 > #### 🔹 Cybersecurity Foundations

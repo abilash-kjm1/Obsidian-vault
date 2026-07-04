@@ -871,6 +871,25 @@
         "charCountStart": 18868,
         "changes": [],
         "id": 47
+      },
+      {
+        "date": "2026-07-04",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/09 - SOC Maturity Levels.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:00",
+            "w": 71,
+            "c": 408
+          },
+          {
+            "timeKey": "13:05",
+            "w": 45,
+            "c": 308
+          }
+        ],
+        "id": 48
       }
     ]
   }
