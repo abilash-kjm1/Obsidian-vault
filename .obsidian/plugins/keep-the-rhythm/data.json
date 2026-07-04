@@ -912,6 +912,44 @@
         "charCountStart": 5626,
         "changes": [],
         "id": 50
+      },
+      {
+        "date": "2026-07-04",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/03 - SOC Operations.md",
+        "wordCountStart": 691,
+        "charCountStart": 4919,
+        "changes": [
+          {
+            "timeKey": "14:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 51
+      },
+      {
+        "date": "2026-07-04",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/04 - Cyber Kill Chain.md",
+        "wordCountStart": 573,
+        "charCountStart": 3872,
+        "changes": [],
+        "id": 52
+      },
+      {
+        "date": "2026-07-04",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/05 - NIST Cybersecurity Framework.md",
+        "wordCountStart": 307,
+        "charCountStart": 2118,
+        "changes": [],
+        "id": 53
+      },
+      {
+        "date": "2026-07-04",
+        "filePath": "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/08 - Introduction to DFIR.md",
+        "wordCountStart": 56,
+        "charCountStart": 401,
+        "changes": [],
+        "id": 54
       }
     ]
   }
