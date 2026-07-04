@@ -65,7 +65,7 @@
     ]
   },
   "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/09 - SOC Maturity Levels.md": {
-    "scroll": 18.841269841269842,
+    "scroll": 14.695364238410596,
     "cursor": {
       "from": {
         "line": 23,
@@ -420,6 +420,20 @@
       "to": {
         "line": 144,
         "ch": 197
+      }
+    },
+    "expandedKeys": []
+  },
+  "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/01 - What is Information Security.md": {
+    "scroll": 14.695364238410596,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
