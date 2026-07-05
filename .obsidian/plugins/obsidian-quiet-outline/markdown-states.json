@@ -439,17 +439,19 @@
     "expandedKeys": []
   },
   "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/02 - Defense in Depth.md": {
-    "scroll": 0.5700461842973389,
+    "scroll": 44.59208722334661,
     "cursor": {
       "from": {
-        "line": 17,
-        "ch": 0
+        "line": 68,
+        "ch": 124
       },
       "to": {
-        "line": 17,
-        "ch": 0
+        "line": 68,
+        "ch": 124
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0"
+    ]
   }
 }
