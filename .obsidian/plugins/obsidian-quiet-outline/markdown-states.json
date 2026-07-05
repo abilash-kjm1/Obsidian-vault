@@ -455,17 +455,20 @@
     ]
   },
   "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/03 - Common Threats & Attacks.md": {
-    "scroll": 0,
+    "scroll": 71.33482142857143,
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 185,
         "ch": 0
       },
       "to": {
-        "line": 0,
+        "line": 185,
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-1",
+      "item-1-8"
+    ]
   }
 }

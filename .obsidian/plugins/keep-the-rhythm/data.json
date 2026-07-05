@@ -1051,7 +1051,18 @@
         "filePath": "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/03 - Common Threats & Attacks.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "22:35",
+            "w": 36,
+            "c": 191
+          },
+          {
+            "timeKey": "22:40",
+            "w": 402,
+            "c": 3507
+          }
+        ],
         "id": 59
       }
     ]
