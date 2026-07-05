@@ -439,19 +439,33 @@
     "expandedKeys": []
   },
   "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/02 - Defense in Depth.md": {
-    "scroll": 44.59208722334661,
+    "scroll": 53.53125,
     "cursor": {
       "from": {
-        "line": 68,
-        "ch": 124
+        "line": 73,
+        "ch": 52
       },
       "to": {
-        "line": 68,
-        "ch": 124
+        "line": 73,
+        "ch": 52
       }
     },
     "expandedKeys": [
       "item-1-0"
     ]
+  },
+  "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/03 - Common Threats & Attacks.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }

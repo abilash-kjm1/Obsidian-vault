@@ -1032,9 +1032,27 @@
             "timeKey": "20:50",
             "w": 179,
             "c": 2277
+          },
+          {
+            "timeKey": "22:25",
+            "w": 7,
+            "c": 56
+          },
+          {
+            "timeKey": "22:30",
+            "w": 11,
+            "c": 52
           }
         ],
         "id": 58
+      },
+      {
+        "date": "2026-07-04",
+        "filePath": "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/03 - Common Threats & Attacks.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 59
       }
     ]
   }

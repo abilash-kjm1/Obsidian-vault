@@ -68,3 +68,7 @@ SIEM & SOC ✅ (Investigates and responds)
 | **Endpoint Security**                  | Antivirus/EDR detects suspicious activity and raises an alert.                                                                 | A **third layer** detects the attack after execution begins.                                      |
 | **Identity System**                    | The attacker attempts to log in, but abnormal login behavior is detected and **MFA** or other identity controls are triggered. | The **Identity layer** prevents or limits unauthorized access.                                    |
 | **SIEM & SOC (Monitoring & Response)** | Alerts from different systems are correlated, and the Security Operations Center investigates and responds.                    | The **Monitoring & Response layer** contains the attack and reduces its impact.                   |
+![](Attachments/Pasted%20image%2020260704222858.png)
+
+
+![](Attachments/02%20-%20Defense%20in%20Depth-4.png)
