@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/01 - What is Information Security.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -265,6 +265,8 @@
   },
   "active": "c55922cacffbd997",
   "lastOpenFiles": [
+    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/Attachments/Pasted image 20260704200034.png",
+    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/Attachments",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/09 - SOC Maturity Levels.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/08 - Introduction to DFIR.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/07 - SOC Tools & Technology.md",
@@ -309,7 +311,6 @@
     "Section 2 - Foundations/02 - Core Skills for SOC Analysts",
     "Section 2 - Foundations",
     "_config.yml",
-    "copilot/copilot-conversations",
     "Untitled.canvas"
   ]
 }

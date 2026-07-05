@@ -972,7 +972,13 @@
         "filePath": "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/01 - What is Information Security.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "20:00",
+            "w": 128,
+            "c": 1010
+          }
+        ],
         "id": 57
       }
     ]
