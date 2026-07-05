@@ -995,6 +995,20 @@
           }
         ],
         "id": 57
+      },
+      {
+        "date": "2026-07-04",
+        "filePath": "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/02 - Defense in Depth.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:25",
+            "w": 11,
+            "c": 52
+          }
+        ],
+        "id": 58
       }
     ]
   }

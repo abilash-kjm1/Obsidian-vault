@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/01 - What is Information Security.md",
+                "file": "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/02 - Defense in Depth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - What is Information Security"
+              "title": "02 - Defense in Depth"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/01 - What is Information Security.md",
+                "file": "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/02 - Defense in Depth.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01 - What is Information Security"
+              "title": "Outline of 02 - Defense in Depth"
             }
           },
           {
@@ -265,6 +265,9 @@
   },
   "active": "c55922cacffbd997",
   "lastOpenFiles": [
+    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/Attachments/02 - Defense in Depth.png",
+    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/01 - What is Information Security.md",
+    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/02 - Defense in Depth.md",
     "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/Attachments/Pasted image 20260704202018.png",
     "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/Attachments/Pasted image 20260704201917.png",
     "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/Attachments/Pasted image 20260704201521.png",
@@ -286,7 +289,6 @@
     "E-soc/00 - Index.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260702173220.png",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260702171746.png",
-    "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments/Pasted image 20260702171257.png",
     "Prompts.md",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/Attachments",
     "E-soc/Section 4 - Goodbye/Summary.md",
@@ -305,9 +307,7 @@
     "E-soc/Section 1 - Welcome/SOC Analyst Level 1 Overview.md",
     "E-soc/Section 1 - Welcome/test.md",
     "E-soc/Section 2 - Foundations/03 - SOC Tools & Technology/04 - SOC Workflows & Scenarios/02 - Scenario Suspicious Login.md",
-    "Section 3 - SOC Operations/01 - SOC Logging %26 Analysis/04 - Events Alerts %26 Incidents.md",
     "Section 3 - SOC Operations/01 - SOC Logging %26 Analysis",
-    "Section 2 - Foundations/02 - Core Skills for SOC Analysts/02 - Pattern Recognition.md",
     "Section 2 - Foundations/02 - Core Skills for SOC Analysts",
     "Section 2 - Foundations",
     "_config.yml",
