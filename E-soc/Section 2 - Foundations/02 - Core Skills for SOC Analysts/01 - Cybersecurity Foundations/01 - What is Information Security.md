@@ -4,9 +4,10 @@
 
 The three core principles of information security are known as the **CIA Triad**:
 
-1. **Confidentiality** – Ensures that information is accessible only to authorized individuals.
-    - Example: Using passwords, encryption, and access controls to protect sensitive data.
-2. **Integrity** – Ensures that information is accurate, complete, and has not been altered without authorization.
-    - Example: Using digital signatures, checksums, and version control.
-3. **Availability** – Ensures that information and systems are accessible when needed by authorized users.
-    - Example: Using backups, redundant systems, and protection against cyberattacks such as denial-of-service attacks.
+- **Confidentiality**: "**Confidentiality prevents the unauthorized disclosure of information.
+   It keeps secret information secret.**"  "**data is only viewable by authorized users.**"
+  
+- **Integrity**: "**Integrity prevents the unauthorized alteration of information or systems. 
+  It keeps our information safe from intentional or accidental changes.**" "**provides assurances that data has not been modified, tampered with, or corrupted through unauthorized or unintended changes.**"
+  
+- **Availability**: "**Availability ensures authorized users are able to access information and systems when they need them.**" It is also defined as ensuring "**that data and services are available when needed**" and that "**systems are up and operational when needed.**"
