@@ -183,3 +183,6 @@ Focus = Systems, networks, web apps
 > **Threat is danger, vulnerability is weakness, attack is exploitation, and risk is the chance of damage.**
 
 ---
+
+
+![](Attachments/03%20-%20Common%20Threats%20&%20Attacks-3.png)
