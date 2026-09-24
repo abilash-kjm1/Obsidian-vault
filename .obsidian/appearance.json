@@ -6,5 +6,6 @@
   "showRibbon": true,
   "enabledCssSnippets": [
     "underline"
-  ]
+  ],
+  "theme": "obsidian"
 }
