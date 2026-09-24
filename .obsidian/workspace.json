@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/03 - Common Threats & Attacks.md",
-                "mode": "source",
+                "file": "E-soc/00 - Index.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - Common Threats & Attacks"
+              "title": "00 - Index"
             }
           }
         ],
@@ -267,6 +267,7 @@
   },
   "active": "c55922cacffbd997",
   "lastOpenFiles": [
+    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/03 - Common Threats & Attacks.md",
     "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/Attachments/03 - Common Threats & Attacks-3.png",
     "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/Attachments/03 - Common Threats & Attacks-2.png",
     "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/Attachments/03 - Common Threats & Attacks-1.png",
@@ -278,7 +279,6 @@
     "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/Attachments/02 - Defense in Depth-2.png",
     "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/Attachments/02 - Defense in Depth-1.png",
     "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/Attachments/02 - Defense in Depth-1.png",
-    "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/Attachments/02 - Defense in Depth.png",
     "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/01 - What is Information Security.md",
     "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/Attachments",
     "E-soc/Section 2 - Foundations/01 - Introduction to the SOC/09 - SOC Maturity Levels.md",
