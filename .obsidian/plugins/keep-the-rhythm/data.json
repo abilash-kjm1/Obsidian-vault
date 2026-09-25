@@ -1097,7 +1097,13 @@
         "filePath": "E-soc/00 - Index.md",
         "wordCountStart": 3454,
         "charCountStart": 18868,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 63
       }
     ]
