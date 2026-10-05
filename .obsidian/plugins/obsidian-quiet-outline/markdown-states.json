@@ -411,7 +411,7 @@
     "expandedKeys": []
   },
   "Prompts.md": {
-    "scroll": 3.1666666666666665,
+    "scroll": 125.45,
     "cursor": {
       "from": {
         "line": 144,
@@ -469,6 +469,36 @@
     "expandedKeys": [
       "item-1-1",
       "item-1-8"
+    ]
+  },
+  "index.md": {
+    "scroll": 36.16539050535988,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "[NOTES TEMPLATEE] Notes-Structure-Obsidian - NOTES.md": {
+    "scroll": 179.8846153846154,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
     ]
   }
 }
