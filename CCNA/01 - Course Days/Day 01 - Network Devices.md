@@ -83,4 +83,12 @@ Example :
 
 ## Firewalls
 
-> 
+> A **firewall** is a network security device that monitors and controls incoming and outgoing network traffic based on predefined security rules. It helps protect a network by allowing legitimate traffic and blocking unauthorized or unwanted traffic.
+
+- Firewalls can be placed outside the network and also it can be placed inside the Network
+
+	![](Attachments/Day%2001%20-%20Network%20Devices-12.png)
+
+
+- Needs to be configure with the **security rules**  to determine which traffic should be allowed and denied
+	
