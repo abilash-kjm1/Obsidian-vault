@@ -91,4 +91,21 @@ Example :
 
 
 - Needs to be configure with the **security rules**  to determine which traffic should be allowed and denied
-	
+![](Attachments/Day%2001%20-%20Network%20Devices-13.png)
+
+Example : 
+1. ASA5500 - X  => Cisco classic Firewall
+2. Firepower 2100 => Next Gen Firewall
+
+ ### Characteristics of Firewall : 
+ - Monitors and controls the traffic based on the configured rules
+ - placed inside or outside the network
+ - Also Known as the Next-Generation Firewalls  => Includes modern and advanced filtering capabilities
+
+
+  > Network Firewalls :
+  > The above discussed are the network firewalls  : which is a hardware devices that filters the traffic between the networks
+
+> Host Based Firewalls : 
+>  Software applications that filters the traffic entering and exiting a host machine like pc 
+
