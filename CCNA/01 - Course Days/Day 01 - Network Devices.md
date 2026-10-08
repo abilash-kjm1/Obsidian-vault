@@ -59,4 +59,28 @@ Example : Catalyst 9200 and Catalyst 3650
 ### Characteristics of Switches : 
 
 - Has Many Ports to connect  [ Usually 24+ ] 
-- Coonects the hosts within the [LAN
+- Connects the hosts within the LAN
+- Does Provide the connectivity between the LANs / Over  the Internet
+
+## Routers : 
+
+> A **router** is a networking device that connects different networks and forwards IP packets between them using IP addresses.
+
+![](Attachments/Day%2001%20-%20Network%20Devices-10.png)
+
+Example : 
+1. ISR 1000
+2. ISR 900
+3. ISR 4000
+
+![](Attachments/Day%2001%20-%20Network%20Devices-11.png)
+
+### Characteristics of Router
+
+- Less Ports Compared to Switches
+-  Provide Connectivity between the LANs
+-  So Its sends data over the Internet
+
+## Firewalls
+
+> 
