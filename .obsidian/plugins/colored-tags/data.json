@@ -10,8 +10,25 @@
     "highTextContrast": false
   },
   "knownTags": {
+    "ccna": 3,
     "in-progress": 1,
-    "soc": 2
+    "soc": 2,
+    "ccna/command": 1,
+    "ccna/commands": 2,
+    "ccna/concept": 3,
+    "ccna/course-day": 4,
+    "ccna/dashboard": 5,
+    "ccna/guide": 6,
+    "ccna/lab": 7,
+    "ccna/lab-index": 8,
+    "ccna/mega-lab": 9,
+    "ccna/practice-question": 10,
+    "ccna/practice-questions": 11,
+    "ccna/question": 12,
+    "ccna/questions": 13,
+    "ccna/revision": 14,
+    "ccna/roadmap": 15,
+    "ccna/subnetting": 16
   },
   "tagColors": {},
   "_version": 4

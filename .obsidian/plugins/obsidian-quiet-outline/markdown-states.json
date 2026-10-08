@@ -530,5 +530,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "CCNA/00 - Start Here/CCNA Dashboard.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }
