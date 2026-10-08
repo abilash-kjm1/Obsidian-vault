@@ -15,4 +15,19 @@ tags:
 
 - Computer Network is a digital telecommunication  network  which allow the **nodes** to ==🟠share their resources==
 
-> Nodes :  
+
+## Nodes : 
+
+
+![154](Attachments/Day%2001%20-%20Network%20Devices.png)  ![123](Attachments/Day%2001%20-%20Network%20Devices-1.png)  ![136](Attachments/Day%2001%20-%20Network%20Devices-2.png)  ![112](Attachments/Day%2001%20-%20Network%20Devices-3.png) ![103](Attachments/Day%2001%20-%20Network%20Devices-4.png)
+
+
+> Client and Servers  => Sometimes called End Hosts or End points
+
+
+## Clients 
+
+- Its a device that ==access==  the ==service== made available by the **==🔴server==**
+- Example : PC, laptop, mac , phone, imac etc..
+
+
