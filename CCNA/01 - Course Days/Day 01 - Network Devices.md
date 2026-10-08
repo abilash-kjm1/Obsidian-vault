@@ -47,3 +47,16 @@ PC2 = server [ It provides the resources]
 
 
 ## Switch
+
+![](Attachments/Day%2001%20-%20Network%20Devices-8.png)
+
+> A **switch** is a network hardware device that connects multiple hosts within a LAN and allows them to communicate with each other using **MAC addresses**.
+
+![](Attachments/Day%2001%20-%20Network%20Devices-9.png)
+
+Example : Catalyst 9200 and Catalyst 3650
+
+### Characteristics of Switches : 
+
+- Has Many Ports to connect  [ Usually 24+ ] 
+- Coonects the hosts within the [LAN
