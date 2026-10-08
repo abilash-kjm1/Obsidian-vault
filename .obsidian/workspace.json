@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/Untitled.md",
+                "file": "CCNA/01 - Course Days/Day 01 - Network Devices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Day 01 - Network Devices"
             }
           }
         ]
@@ -252,6 +252,10 @@
   },
   "active": "8733de1e60b21b7a",
   "lastOpenFiles": [
+    "CCNA/00 - Start Here/How to Take Notes.md",
+    "CCNA/00 - Start Here/Course Roadmap.md",
+    "CCNA/00 - Start Here/CCNA Dashboard.md",
+    "CCNA/Untitled.md",
     "CCNA/99 - Templates/Lab Note.md",
     "CCNA/99 - Templates/Daily Course Note.md",
     "CCNA/99 - Templates/Concept Note.md",
@@ -273,9 +277,6 @@
     "CCNA/02 - Labs/Lab Template.md",
     "CCNA/02 - Labs/Lab Index.md",
     "CCNA/02 - Labs",
-    "CCNA/00 - Start Here/Course Roadmap.md",
-    "CCNA/00 - Start Here/How to Take Notes.md",
-    "CCNA/00 - Start Here/CCNA Dashboard.md",
     "CCNA/00 - Start Here",
     "CCNA/01 - Course Days/Mega Lab - Complete Network Configuration.md",
     "CCNA/01 - Course Days/Day 63 - Ansible, Puppet, Chef and Terraform.md",
@@ -284,7 +285,6 @@
     "CCNA/01 - Course Days/Day 60 - JSON, XML, and YAML.md",
     "CCNA/01 - Course Days/Day 59 - Intro to Network Automation, AI and Machine Learning.md",
     "CCNA/01 - Course Days/Day 58 - Wireless Configuration.md",
-    "CCNA/01 - Course Days/Day 57 - Wireless Security.md",
     "CCNA/01 - Course Days",
     "CCNA",
     "E-soc/Section 2 - Foundations/02 - Core Skills for SOC Analysts/01 - Cybersecurity Foundations/Attachments/03 - Common Threats & Attacks-3.png",

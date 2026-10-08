@@ -1225,6 +1225,54 @@
         "charCountStart": 0,
         "changes": [],
         "id": 75
+      },
+      {
+        "date": "2026-10-08",
+        "filePath": "CCNA/00 - Start Here/CCNA Dashboard.md",
+        "wordCountStart": 2118,
+        "charCountStart": 9610,
+        "changes": [],
+        "id": 76
+      },
+      {
+        "date": "2026-10-08",
+        "filePath": "CCNA/00 - Start Here/Course Roadmap.md",
+        "wordCountStart": 5064,
+        "charCountStart": 26120,
+        "changes": [],
+        "id": 77
+      },
+      {
+        "date": "2026-10-08",
+        "filePath": "CCNA/00 - Start Here/How to Take Notes.md",
+        "wordCountStart": 544,
+        "charCountStart": 3338,
+        "changes": [],
+        "id": 78
+      },
+      {
+        "date": "2026-10-08",
+        "filePath": "CCNA/01 - Course Days/Day 01 - Network Devices.md",
+        "wordCountStart": 310,
+        "charCountStart": 2040,
+        "changes": [
+          {
+            "timeKey": "18:20",
+            "w": -288,
+            "c": -1874
+          },
+          {
+            "timeKey": "18:25",
+            "w": 20,
+            "c": 156
+          },
+          {
+            "timeKey": "18:30",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 79
       }
     ]
   }

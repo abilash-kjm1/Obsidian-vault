@@ -532,7 +532,7 @@
     "expandedKeys": []
   },
   "CCNA/00 - Start Here/CCNA Dashboard.md": {
-    "scroll": 0,
+    "scroll": 20.837239583333332,
     "cursor": {
       "from": {
         "line": 4,
@@ -543,6 +543,56 @@
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "CCNA/00 - Start Here/Course Roadmap.md": {
+    "scroll": 56.92944369063772,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "CCNA/00 - Start Here/How to Take Notes.md": {
+    "scroll": 51.734375,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "CCNA/01 - Course Days/Day 01 - Network Devices.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 11
+      },
+      "to": {
+        "line": 17,
+        "ch": 11
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
   }
 }
