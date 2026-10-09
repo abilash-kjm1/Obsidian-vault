@@ -103,4 +103,16 @@ not all ethernet standards uses all eight wires
 ![](Attachments/Day%2002%20-%20Interfaces%20and%20Cables-13.png)
 
 2 different devices uses straight through cables 
- when we try to connect same device like pc - pc or  router - router uses cross over c
+ when we try to connect same device like pc - pc or  router - router uses cross over cable because  as we studied pc 1 and 2 pins to transmit so there will be collision thats why we use cross over cables
+
+#### Example 
+
+- connecting switch to switch
+-  we know switch uses 1 and 2 => receive and 3 and 6  => transmit 
+- so cables are crossed over 
+	![](Attachments/Day%2002%20-%20Interfaces%20and%20Cables-14.png)
+
+
+Another Example Router - PC
+
+![](Attachments/Day%2002%20-%20Interfaces%20and%20Cables-15.png)
