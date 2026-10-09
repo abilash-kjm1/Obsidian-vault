@@ -599,22 +599,23 @@
     ]
   },
   "CCNA/01 - Course Days/Day 02 - Interfaces and Cables.md": {
-    "scroll": 23.810358255451714,
+    "scroll": 49.891191360107996,
     "cursor": {
       "from": {
-        "line": 41,
-        "ch": 0
+        "line": 57,
+        "ch": 63
       },
       "to": {
-        "line": 41,
-        "ch": 0
+        "line": 57,
+        "ch": 63
       }
     },
     "expandedKeys": [
       "item-1-0",
       "item-2-1",
       "item-2-3",
-      "item-2-5"
+      "item-2-5",
+      "item-2-8"
     ]
   }
 }

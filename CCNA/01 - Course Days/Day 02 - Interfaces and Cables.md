@@ -35,7 +35,27 @@ RJ => Registered Jack
  -
  - O's and 1's
 - when we communicate using a copper cable and there will be a variation in electrical signals and that variation in electrical signals will be interpreted by the devices as 0's and 1's
-- 
+
+### Bytes :
+
+-  8 bits = 1 Byte
+  
+
+	![](Attachments/Day%2002%20-%20Interfaces%20and%20Cables-3.png)
+
+
+> Speed is measured in ==bits== per second
+![](Attachments/Day%2002%20-%20Interfaces%20and%20Cables-4.png)
+
+![](Attachments/Day%2002%20-%20Interfaces%20and%20Cables-5.png)
+
+## Ethernet Standards
+
+
+![](Attachments/Day%2002%20-%20Interfaces%20and%20Cables-6.png)
+
+
+![](Attachments/Day%2002%20-%20Interfaces%20and%20Cables-7.png)
 
 ### Types of Cables determined by Ethernet Standards
 
