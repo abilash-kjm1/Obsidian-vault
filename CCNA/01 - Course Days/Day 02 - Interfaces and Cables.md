@@ -59,3 +59,23 @@ RJ => Registered Jack
 
 ### Types of Cables determined by Ethernet Standards
 
+Cooper cables used in Ethernet standards are the UTP Cables
+
+## UTP Cables :
+
+> UTP => Unshielded Twisted pair 
+
+Unshielded  =>  no metallic shield  means its vulnerable to the electrical interference
+
+Twisted pair => cables twisted to each other in order to protect from EMI
+
+4 PAIRS of wires twisted => total 8 wires
+
+
+![](Attachments/Day%2002%20-%20Interfaces%20and%20Cables-8.png)
+
+RJ 45 cables uses UTP cables and has 8 pins because it uses UTP cables 
+
+![](Attachments/Day%2002%20-%20Interfaces%20and%20Cables-9.png)
+
+not all ethernet standards uses all eight wires 
