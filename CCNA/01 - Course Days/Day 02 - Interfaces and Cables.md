@@ -79,3 +79,15 @@ RJ 45 cables uses UTP cables and has 8 pins because it uses UTP cables
 ![](Attachments/Day%2002%20-%20Interfaces%20and%20Cables-9.png)
 
 not all ethernet standards uses all eight wires 
+
+![](Attachments/Pasted%20image%2020261009074857.png)![](Attachments/Day%2002%20-%20Interfaces%20and%20Cables-10.png)
+
+
+
+## Example : 
+
+- If i want to connect the PC and switch  using a Ethernet or Fast Ethernet cable  ( 10Base-T, 100Base-T)
+
+- Remember We are using RJ 45 connector and it uses UTP cables so 8 wires inside
+- As we mentioned before not all standards uses the 8 wires 
+- Here we use **10 Base- T and 100Base-T** which u
