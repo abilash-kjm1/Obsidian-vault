@@ -116,3 +116,5 @@ not all ethernet standards uses all eight wires
 Another Example Router - PC
 
 ![](Attachments/Day%2002%20-%20Interfaces%20and%20Cables-15.png)
+
+
