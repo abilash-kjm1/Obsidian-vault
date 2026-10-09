@@ -90,4 +90,17 @@ not all ethernet standards uses all eight wires
 
 - Remember We are using RJ 45 connector and it uses UTP cables so 8 wires inside
 - As we mentioned before not all standards uses the 8 wires 
-- Here we use **10 Base- T and 100Base-T** which u
+- Here we use **10 Base- T and 100Base-T** which uses only 4 wires
+
+	![](Attachments/Day%2002%20-%20Interfaces%20and%20Cables-11.png)
+
+- Here  PC is using 1 and 2 to transmit the data (Tx) so switch using those to receive the data (Rx)
+- Switch  using 3 and 6 to transmit data (Tx) and Pc uses that to receive the data (Rx)
+- Here both devices receive and send data at the same time called **Full Duplex**
+	
+	![](Attachments/Day%2002%20-%20Interfaces%20and%20Cables-12.png)
+
+![](Attachments/Day%2002%20-%20Interfaces%20and%20Cables-13.png)
+
+2 different devices uses straight through cables 
+ when we try to connect same device like pc - pc or  router - router uses cross over c
