@@ -12,7 +12,10 @@
   "knownTags": {
     "ccna": 3,
     "in-progress": 1,
+    "networking": 4,
+    "osi-model": 5,
     "soc": 2,
+    "tcp-ip": 6,
     "ccna/command": 1,
     "ccna/commands": 2,
     "ccna/concept": 3,

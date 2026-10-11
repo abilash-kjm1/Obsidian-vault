@@ -620,17 +620,22 @@
     ]
   },
   "CCNA/01 - Course Days/Day 03 - How the TCP-IP Model Actually Works.md": {
-    "scroll": 0,
+    "scroll": 33.33895059364228,
     "cursor": {
       "from": {
-        "line": 18,
-        "ch": 0
+        "line": 222,
+        "ch": 21
       },
       "to": {
-        "line": 18,
-        "ch": 0
+        "line": 222,
+        "ch": 21
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-1",
+      "item-2-3",
+      "item-2-9"
+    ]
   }
 }
