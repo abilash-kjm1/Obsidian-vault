@@ -11,14 +11,10 @@
             "id": "8733de1e60b21b7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CCNA/01 - Course Days/Day 03 - How the TCP-IP Model Actually Works.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 03 - How the TCP-IP Model Actually Works"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -252,6 +248,7 @@
   },
   "active": "8733de1e60b21b7a",
   "lastOpenFiles": [
+    "CCNA/01 - Course Days/Day 03 - How the TCP-IP Model Actually Works.md",
     "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works.png",
     "CCNA/01 - Course Days/Day 02 - Interfaces and Cables.md",
     "CCNA/01 - Course Days/Attachments/Day 02 - Interfaces and Cables-15.png",
@@ -263,7 +260,6 @@
     "CCNA/01 - Course Days/Attachments/Pasted image 20261009074857.png",
     "CCNA/01 - Course Days/Attachments/Day 02 - Interfaces and Cables-9.png",
     "CCNA/01 - Course Days/Attachments/Day 02 - Interfaces and Cables-8.png",
-    "CCNA/01 - Course Days/Attachments/Day 02 - Interfaces and Cables-7.png",
     "CCNA/01 - Course Days/Day 01 - Network Devices.md",
     "CCNA/01 - Course Days/Attachments",
     "CCNA/00 - Start Here/How to Take Notes.md",
