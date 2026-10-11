@@ -1425,6 +1425,30 @@
         "charCountStart": 3598,
         "changes": [],
         "id": 81
+      },
+      {
+        "date": "2026-10-11",
+        "filePath": "CCNA/01 - Course Days/Day 03 - How the TCP-IP Model Actually Works.md",
+        "wordCountStart": 286,
+        "charCountStart": 1762,
+        "changes": [
+          {
+            "timeKey": "12:05",
+            "w": -276,
+            "c": -1701
+          },
+          {
+            "timeKey": "12:10",
+            "w": 69,
+            "c": 435
+          },
+          {
+            "timeKey": "12:15",
+            "w": 24,
+            "c": 144
+          }
+        ],
+        "id": 82
       }
     ]
   }
