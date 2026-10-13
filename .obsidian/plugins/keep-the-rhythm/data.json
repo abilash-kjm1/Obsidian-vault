@@ -1460,6 +1460,20 @@
           }
         ],
         "id": 82
+      },
+      {
+        "date": "2026-10-12",
+        "filePath": "CCNA/01 - Course Days/Day 04 - Intro to the CLI.md",
+        "wordCountStart": 292,
+        "charCountStart": 1802,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": -292,
+            "c": -1801
+          }
+        ],
+        "id": 83
       }
     ]
   }
