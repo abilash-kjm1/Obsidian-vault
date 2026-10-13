@@ -639,17 +639,26 @@
     ]
   },
   "CCNA/01 - Course Days/Day 04 - Intro to the CLI.md": {
-    "scroll": 0,
+    "scroll": 254.99705882352941,
     "cursor": {
       "from": {
-        "line": 1,
-        "ch": 0
+        "line": 68,
+        "ch": 60
       },
       "to": {
-        "line": 1,
-        "ch": 0
+        "line": 68,
+        "ch": 60
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-1",
+      "item-2-4",
+      "item-2-7",
+      "item-2-12",
+      "item-2-16",
+      "item-2-18",
+      "item-2-24"
+    ]
   }
 }
