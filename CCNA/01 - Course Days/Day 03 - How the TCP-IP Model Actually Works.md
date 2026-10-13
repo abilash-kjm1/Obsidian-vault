@@ -1,18 +1,3 @@
----
-
-title: TCP/IP Model and Network Communication  
-tags:
-
-- ccna
-    
-- networking
-    
-- tcp-ip
-    
-- osi-model
-    
-
----
 
 # TCP/IP Model and Network Communication
 
