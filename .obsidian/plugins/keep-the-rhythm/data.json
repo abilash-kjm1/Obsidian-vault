@@ -1498,6 +1498,20 @@
         "charCountStart": 12529,
         "changes": [],
         "id": 84
+      },
+      {
+        "date": "2026-10-13",
+        "filePath": "CCNA/01 - Course Days/Day 05 - Ethernet LAN Switching Part 1.md",
+        "wordCountStart": 236,
+        "charCountStart": 1426,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": -236,
+            "c": -1425
+          }
+        ],
+        "id": 85
       }
     ]
   }
