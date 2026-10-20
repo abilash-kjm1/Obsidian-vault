@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/01 - Course Days/Day 05 - Ethernet LAN Switching Part 1.md",
+                "file": "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 05 - Ethernet LAN Switching Part 1"
+              "title": "Day 06 - Ethernet LAN Switching Part 2"
             }
           }
         ]
@@ -252,25 +252,29 @@
   },
   "active": "8733de1e60b21b7a",
   "lastOpenFiles": [
-    "CCNA/Concepts/Hexadecimal.md",
+    "CCNA/01 - Course Days/Day 07 - IPv4 Addressing Part 1.md",
+    "CCNA/01 - Course Days/Day 08 - IPv4 Addressing Part 2.md",
+    "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md",
+    "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md.tmp.21960.65772bb721ca",
     "CCNA/01 - Course Days/Day 05 - Ethernet LAN Switching Part 1.md",
+    "CCNA/Concepts/Unicast and Broadcast.md",
+    "CCNA/01 - Course Days/Attachments/Day 06 - Ethernet LAN Switching Part 2-16.png",
+    "CCNA/01 - Course Days/Attachments/Day 06 - Ethernet LAN Switching Part 2-15.png",
+    "CCNA/01 - Course Days/Attachments/Day 06 - Ethernet LAN Switching Part 2-14.png",
+    "CCNA/01 - Course Days/Attachments/Day 06 - Ethernet LAN Switching Part 2-13.png",
+    "CCNA/01 - Course Days/Attachments/Day 06 - Ethernet LAN Switching Part 2-12.png",
+    "CCNA/01 - Course Days/Attachments/Day 06 - Ethernet LAN Switching Part 2-11.png",
+    "CCNA/01 - Course Days/Attachments/Day 06 - Ethernet LAN Switching Part 2-10.png",
+    "CCNA/01 - Course Days/Attachments/Day 06 - Ethernet LAN Switching Part 2-9.png",
+    "CCNA/01 - Course Days/Attachments/Day 06 - Ethernet LAN Switching Part 2-8.png",
+    "CCNA/01 - Course Days/Attachments/Day 06 - Ethernet LAN Switching Part 2-7.png",
+    "CCNA/Concepts/Hexadecimal.md",
     "CCNA/Concepts/Bits and Bytes.md",
     "CCNA/Concepts",
-    "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md",
     "CCNA/01 - Course Days/Day 04 - Intro to the CLI.md",
     "CCNA/01 - Course Days/Day 02 - Interfaces and Cables.md",
     "CCNA/01 - Course Days/Day 01 - Network Devices.md",
-    "CCNA/01 - Course Days/Attachments/Day 05 - Ethernet LAN Switching Part 1.png",
-    "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-3.png",
-    "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-2.png",
-    "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-1.png",
-    "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI.png",
     "CCNA/01 - Course Days/Day 03 - How the TCP-IP Model Actually Works.md",
-    "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works.png",
-    "CCNA/01 - Course Days/Attachments/Day 02 - Interfaces and Cables-15.png",
-    "CCNA/01 - Course Days/Attachments/Day 02 - Interfaces and Cables-14.png",
-    "CCNA/01 - Course Days/Attachments/Day 02 - Interfaces and Cables-13.png",
-    "CCNA/01 - Course Days/Attachments/Day 02 - Interfaces and Cables-12.png",
     "CCNA/01 - Course Days/Attachments",
     "CCNA/00 - Start Here/How to Take Notes.md",
     "CCNA/00 - Start Here/Course Roadmap.md",
@@ -291,13 +295,9 @@
     "CCNA/04 - Questions and Doubts/Unresolved Questions.md",
     "CCNA/04 - Questions and Doubts/Question Template.md",
     "CCNA/04 - Questions and Doubts",
-    "CCNA/03 - Cisco Commands/Command Template.md",
-    "CCNA/03 - Cisco Commands/Command Reference.md",
     "CCNA/03 - Cisco Commands",
-    "CCNA/02 - Labs/Lab Template.md",
     "CCNA/02 - Labs",
     "CCNA/00 - Start Here",
-    "CCNA/01 - Course Days",
     "Untitled.canvas"
   ]
 }

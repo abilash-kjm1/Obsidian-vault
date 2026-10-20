@@ -1587,6 +1587,22 @@
         "charCountStart": 2722,
         "changes": [],
         "id": 94
+      },
+      {
+        "date": "2026-10-19",
+        "filePath": "CCNA/01 - Course Days/Day 07 - IPv4 Addressing Part 1.md",
+        "wordCountStart": 233,
+        "charCountStart": 1411,
+        "changes": [],
+        "id": 95
+      },
+      {
+        "date": "2026-10-19",
+        "filePath": "CCNA/01 - Course Days/Day 08 - IPv4 Addressing Part 2.md",
+        "wordCountStart": 282,
+        "charCountStart": 1795,
+        "changes": [],
+        "id": 96
       }
     ]
   }

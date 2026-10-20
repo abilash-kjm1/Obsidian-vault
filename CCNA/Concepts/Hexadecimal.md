@@ -3,6 +3,7 @@ tags:
   - ccna/concept
 course_days:
   - 5
+  - 6
 ---
 
 # Concept: Hexadecimal
@@ -55,6 +56,28 @@ So **`0x0800` = 2048**, the EtherType value for **IPv4**.
 
 So **`0x86DD` = 34525**, the EtherType value for **IPv6**.
 
+## Reading 0x0806
+
+```
+  0      8      0      6
+× 4096 × 256  × 16   × 1
+= 0   + 2048 + 0    + 6   = 2054
+```
+
+So **`0x0806` = 2054**, the EtherType value for **ARP**.
+
+|EtherType|Protocol inside the frame|
+|---|---|
+|`0x0800`|IPv4|
+|`0x0806`|ARP|
+|`0x86DD`|IPv6|
+
+## Counting Bytes in Hex
+
+**2 hex digits = 1 byte**, because each digit is 4 bits. That's why Wireshark shows bytes as pairs (`00`, `9d`, `ff`).
+
+Example: padding shown as `00000000000000000000` is 20 hex digits = **10 bytes**.
+
 ## Hex and Binary
 
 Each hex digit maps to exactly **4 bits** (a *nibble*), so you can convert digit by digit:
@@ -79,7 +102,8 @@ A 48-bit MAC address would take 48 ones and zeros. In hex it's just **12 charact
 ## Where You'll See Hex in CCNA
 
 - **MAC addresses**: `E8BA.7011.2874`
-- **EtherType**: `0x0800` (IPv4), `0x86DD` (IPv6)
+- **EtherType**: `0x0800` (IPv4), `0x0806` (ARP), `0x86DD` (IPv6)
+- **Broadcast MAC**: `FFFF.FFFF.FFFF` (F = 1111, so every bit is 1)
 - **IPv6 addresses**: `2001:db8::1`
 
 ## Exam Points

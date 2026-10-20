@@ -665,7 +665,7 @@
     ]
   },
   "CCNA/01 - Course Days/Day 05 - Ethernet LAN Switching Part 1.md": {
-    "scroll": 167.34375,
+    "scroll": 189.72581778327338,
     "cursor": {
       "from": {
         "line": 240,
@@ -682,7 +682,7 @@
     ]
   },
   "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md": {
-    "scroll": 75.56666666666666,
+    "scroll": 24.100719424460433,
     "cursor": {
       "from": {
         "line": 0,
@@ -694,11 +694,7 @@
       }
     },
     "expandedKeys": [
-      "item-3-2",
-      "item-2-1",
-      "item-1-0",
-      "item-3-7",
-      "item-2-13"
+      "item-1-0"
     ]
   },
   "CCNA/Concepts/Hexadecimal.md": {
@@ -716,5 +712,33 @@
     "expandedKeys": [
       "item-1-0"
     ]
+  },
+  "CCNA/01 - Course Days/Day 07 - IPv4 Addressing Part 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "CCNA/01 - Course Days/Day 08 - IPv4 Addressing Part 2.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }
