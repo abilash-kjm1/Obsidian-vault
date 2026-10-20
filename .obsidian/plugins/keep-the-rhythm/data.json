@@ -1639,6 +1639,33 @@
           }
         ],
         "id": 99
+      },
+      {
+        "date": "2026-10-20",
+        "filePath": "CCNA/01 - Course Days/Day 03 - How the TCP-IP Model Actually Works.md",
+        "wordCountStart": 1028,
+        "charCountStart": 7279,
+        "changes": [],
+        "id": 100
+      },
+      {
+        "date": "2026-10-20",
+        "filePath": "CCNA/01 - Course Days/Day 04 - Intro to the CLI.md",
+        "wordCountStart": 1694,
+        "charCountStart": 12529,
+        "changes": [
+          {
+            "timeKey": "00:50",
+            "w": -1694,
+            "c": -12529
+          },
+          {
+            "timeKey": "00:55",
+            "w": 2009,
+            "c": 12322
+          }
+        ],
+        "id": 101
       }
     ]
   }

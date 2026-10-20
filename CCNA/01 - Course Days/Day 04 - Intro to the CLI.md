@@ -1,530 +1,284 @@
-
-
+---
+course: Jeremy's IT Lab CCNA 200-301
+course_day: 4
+status: Not Started
+date_started:
+date_completed:
+tags:
+  - ccna/course-day
 ---
 
-# Cisco IOS CLI — Complete Study Notes
+# Intro to the CLI
 
-> [!abstract] The Big Picture  
-> Cisco IOS is the operating system used on Cisco routers and switches. The Command-Line Interface (CLI) allows network engineers to view, configure, and manage these devices using text commands.
+[⬅️ Day 03](Day%2003%20-%20How%20the%20TCP-IP%20Model%20Actually%20Works.md) · [🏠 Dashboard](../00%20-%20Start%20Here/CCNA%20Dashboard.md) · [🗺️ Roadmap](../00%20-%20Start%20Here/Course%20Roadmap.md) · [Day 05 ➡️](Day%2005%20-%20Ethernet%20LAN%20Switching%20Part%201.md)
 
-## 1. Introduction to Cisco IOS and CLI
+**Video:** [Intro to the CLI | Day 4](https://www.youtube.com/watch?v=IYbtai7Nu2g) · 31:06 · ▶ links jump to that moment
+**Basics used here:** [Cisco Password Types](../Concepts/Cisco%20Password%20Types.md)
 
-### What is Cisco IOS?
+> [!abstract] The whole lesson in 3 lines  
+> 1. Connect a laptop to the device's **console port** with a **rollover cable**, then open **PuTTY** (9600 baud, 8-N-1).  
+> 2. The CLI has floors you climb: **`Router>`** (look) → `enable` → **`Router#`** (inspect and save) → `conf t` → **`Router(config)#`** (change).  
+> 3. Protect it with **`enable secret`**, check your work with **`show running-config`**, and **save** it, or it's lost on reboot.
 
-Cisco IOS is the operating system used on many Cisco routers and switches.
+## 1. IOS, CLI and GUI ▶ [0:29](https://www.youtube.com/watch?v=IYbtai7Nu2g&t=29s)
 
-### What is CLI?
+![700](Attachments/Day%2004%20-%20Intro%20to%20the%20CLI-4.png)
 
-CLI stands for **Command-Line Interface**. It allows you to interact with a network device by typing commands.
+- **Cisco IOS** = the operating system on Cisco routers and switches (like Windows on a PC). It has nothing to do with Apple's iOS.
+- **CLI** (Command-Line Interface) = you type commands. This is what network engineers use, and what the CCNA tests.
+- **GUI** (Graphical User Interface) = click-based tools. These exist (e.g. ASDM for firewalls) but aren't covered.
 
-Network engineers often prefer the CLI because it provides direct access to device configuration and management features.
+## 2. Connecting: the Console Port ▶ [1:42](https://www.youtube.com/watch?v=IYbtai7Nu2g&t=102s)
 
-**Remember:**
+A brand-new device has no network settings, so the **first** configuration is always done **in person**, through the **console port**.
 
-- IOS = Operating system.
-    
-- CLI = Text-based way to control the device.
-    
-- Router and switch = Network devices that can be managed through the CLI.
-    
+![700](Attachments/Day%2004%20-%20Intro%20to%20the%20CLI-5.png)
 
-## 2. Connecting to a Cisco Device
+A Cisco switch has two console ports: **RJ-45** (looks like a network port, but it isn't one) and **USB mini-B**.
 
-To configure a Cisco device locally for the first time, you may connect through its console port.
+![700](Attachments/Day%2004%20-%20Intro%20to%20the%20CLI-6.png)
 
-![](Attachments/Day%2004%20-%20Intro%20to%20the%20CLI.png)
+For the RJ-45 console port, use a **rollover cable**: RJ-45 on one end, **DB9** serial on the other. Laptops rarely have serial ports now, so add a **DB9-to-USB adapter**.
 
-### Common connection components
+![700](Attachments/Day%2004%20-%20Intro%20to%20the%20CLI-7.png)
 
-- **Console port:** A physical management connection on the device.
-    
-- **Rollover cable:** Used with compatible RJ-45 console connections.
-  ![361](Attachments/Day%2004%20-%20Intro%20to%20the%20CLI-2.png)
-    
-- **USB-to-serial adapter:** May be required when using serial console hardware with a computer that lacks a serial port.
-    
-- **USB console cable:** Used with compatible USB console ports.
-    ![](Attachments/Pasted%20image%2020261012213618.png)
+> [!info]- Rollover vs crossover: don't mix them up (click)  
+> **Rollover** = the pin order is completely **reversed**: 1 → 8, 2 → 7, 3 → 6, 4 → 5, … 8 → 1. Think of it as the cable "rolled over". It's used **only for console** access.  
+> **Crossover** = only the transmit and receive pairs swap: 1 → 3, 2 → 6. It's used for **Ethernet** between same-group devices. → [Day 02](Day%2002%20-%20Interfaces%20and%20Cables.md)
 
-### Using PuTTY
+## 3. PuTTY and the Console Settings ▶ [3:50](https://www.youtube.com/watch?v=IYbtai7Nu2g&t=230s)
 
-PuTTY is a terminal emulator that can provide access to the Cisco CLI.
+A **terminal emulator** (e.g. **PuTTY**, putty.org) gives you the text window. Choose **Serial** → **Open**.
 
-Typical serial settings described in the lesson:
+![700](Attachments/Day%2004%20-%20Intro%20to%20the%20CLI-8.png)
 
-|Setting|Value|
+Cisco's console defaults. **Memorize them for the exam:**
+
+|Setting|Default|
 |---|---|
-|Connection type|Serial|
-|Speed|9600 baud|
-|Data bits|8|
-|Stop bits|1|
-|Parity|None|
-|Flow control|None|
+|Speed (baud rate)|**9600** bits per second|
+|Data bits|**8**|
+|Stop bits|**1**|
+|Parity|**None**|
+|Flow control|**None**|
 
 > [!tip] Memory trick  
-> The console connection is like a direct communication cable between your computer and the network device.
+> **"9600, 8-N-1, no flow."** (8 data bits, No parity, 1 stop bit)
 
-Note: Console connectors and connection settings can vary by device model.
+On first boot, answer **`no`** to the "initial configuration dialog" and press **Enter**:
 
-![](Attachments/Day%2004%20-%20Intro%20to%20the%20CLI-3.png)
+![700](Attachments/Day%2004%20-%20Intro%20to%20the%20CLI-9.png)
 
-## 3. The Three Important CLI Modes
+## 4. The Three CLI Modes ▶ [5:40](https://www.youtube.com/watch?v=IYbtai7Nu2g&t=340s)
 
-Understanding these modes is essential.
+> [!tip] Analogy: a building with locked floors  
+> **Ground floor** (`>`): you can look around but touch nothing.  
+> **Office** (`#`): you can view everything, save, and restart.  
+> **Control room** (`(config)#`): you can actually change how the device works.
 
-|Mode|Example prompt|Purpose|
-|---|---|---|
-|User EXEC|`Router>`|Limited access and basic inspection|
-|Privileged EXEC|`Router#`|Administrative and operational commands|
-|Global Configuration|`Router(config)#`|Change device configuration|
+|Prompt|Mode|You can…|Get here with|
+|---|---|---|---|
+|`Router>`|**User EXEC**|Look at a few things; no changes|(where you start)|
+|`Router#`|**Privileged EXEC**|View the full config, save, reload, set the clock|`enable`|
+|`Router(config)#`|**Global configuration**|**Change** the configuration|`configure terminal`|
 
-### Mode 1: User EXEC
+![700](Attachments/Day%2004%20-%20Intro%20to%20the%20CLI-10.png)
 
-**Prompt:** `Router>`
+The word before the symbol is the **hostname** (default `Router` on a router).
 
-This is the initial command mode after accessing the CLI.
-
-You can perform limited inspection, but you cannot make general configuration changes.
-
-Command to leave this mode for privileged access:
-
-```
-enable
-```
-
-### Mode 2: Privileged EXEC
-
-**Prompt:** `Router#`
-
-Enter this mode by typing:
+![700](Attachments/Day%2004%20-%20Intro%20to%20the%20CLI-11.png)
 
 ```
-enable
+Router> enable
+Router# configure terminal
+Router(config)# exit
+Router# exit            ← logs you out
 ```
 
-This mode provides broader administrative access.
+## 5. Shortcuts: `?`, Tab and Abbreviations ▶ [7:52](https://www.youtube.com/watch?v=IYbtai7Nu2g&t=472s)
 
-You can use commands to:
-
-- View configurations.
-    
-- Inspect device information.
-    
-- Save configuration changes.
-    
-- Perform supported operational tasks.
-    
-
-However, general configuration changes require entering a configuration mode.
-
-### Mode 3: Global Configuration
-
-**Prompt:** `Router(config)#`
-
-Enter this mode from Privileged EXEC:
-
-```
-configure terminal
-```
-
-The abbreviated command commonly used is:
-
-```
-conf t
-```
-
-This mode allows you to change device-wide settings.
-
-### Remember the mode sequence
-
-```
-Router>
-   |
-   | enable
-   v
-Router#
-   |
-   | configure terminal
-   v
-Router(config)#
-```
-
-> [!important] Exam tip  
-> `>` means User EXEC.
-> 
-> `#` means Privileged EXEC.
-> 
-> `(config)#` means Global Configuration.
-
-## 4. CLI Shortcuts and Help
-
-Cisco IOS provides shortcuts that reduce typing.
-
-### Tab completion
-
-Press `Tab` to complete a command when the entered text is unambiguous.
-
-### Question mark
-
-Type:
-
-```
-?
-```
-
-The CLI displays available commands or valid options at that point.
-
-### Ambiguous commands
-
-If an abbreviation matches multiple commands, IOS may report an ambiguous command error.
-
-**Remember:**
-
-- `Tab` = command completion.
-    
-- `?` = command help.
-    
-- Ambiguous abbreviation = more than one possible match.
-    
-
-## 5. Essential Cisco IOS Commands
-
-|Command|Purpose|
+|Key/trick|What it does|
 |---|---|
-|`enable`|Enter Privileged EXEC mode|
-|`configure terminal`|Enter Global Configuration mode|
-|`show running-config`|Display the active configuration|
-|`show startup-config`|Display the saved configuration|
-|`copy running-config startup-config`|Save the active configuration|
-|`write`|Save the active configuration|
-|`write memory`|Save the active configuration|
-|`enable password <password>`|Configure a legacy enable password|
-|`enable secret <password>`|Configure the enable secret|
-|`service password-encryption`|Obscure eligible plaintext passwords|
-|`no <command>`|Negate a supported configuration command|
+|`?`|Lists the commands available right now|
+|`e?` (no space)|Lists commands **starting with** "e" → `enable exit`|
+|`enable password ?` (space)|Lists **what can come next**|
+|**Tab**|Completes the word|
+|Abbreviation|Any unique prefix works: `en` = enable, `conf t` = configure terminal|
 
-### Viewing configurations
+![700](Attachments/Day%2004%20-%20Intro%20to%20the%20CLI-12.png)
 
-Display the current active configuration:
+`e` alone gives **"% Ambiguous command"** because both `enable` and `exit` start with "e". So the shortest forms are **`en`** and **`ex`**.
 
-```
-show running-config
-```
+![700](Attachments/Day%2004%20-%20Intro%20to%20the%20CLI-13.png)
 
-Display the saved configuration:
+`con?` shows `configure connect`, so you need `conf`. Only `terminal` starts with "t", so **`conf t`** works.
+
+> [!warning] Exam  
+> Shortcuts are fine to type, but you must know the **full commands**: `conf t` = **`configure terminal`** (not "configuration terminal").
+
+## 6. Protecting Privileged EXEC with a Password ▶ [10:29](https://www.youtube.com/watch?v=IYbtai7Nu2g&t=629s)
 
 ```
-show startup-config
+Router(config)# enable password CCNA
 ```
 
-From Global Configuration mode, the lesson also describes using `do` before show commands:
+![700](Attachments/Day%2004%20-%20Intro%20to%20the%20CLI-14.png)
 
-```
-do show running-config
-```
+Reading the `?` help:
+- **`LINE`** in capitals = *you* type something there (here, the password).
+- **`<cr>`** = carriage return: nothing more to add, just press Enter.
+- Passwords are **case-sensitive**: `CCNA` ≠ `ccna`.
 
-## 6. Running-config vs Startup-config
+![700](Attachments/Day%2004%20-%20Intro%20to%20the%20CLI-15.png)
 
-This is one of the most important concepts in the lesson.
+When you type the password **nothing appears on screen**. That's intentional. After **3 wrong attempts**: `% Bad secrets`.
 
-### Running-config
+## 7. Running-config vs Startup-config ▶ [14:26](https://www.youtube.com/watch?v=IYbtai7Nu2g&t=866s)
 
-- The active configuration currently used by the device.
-    
-- Stored in RAM, as described in the lesson.
-    
-- Changes made during configuration affect the running configuration.
-    
-- Unsaved changes may be lost when the device reboots.
-    
+![700](Attachments/Day%2004%20-%20Intro%20to%20the%20CLI-16.png)
 
-### Startup-config
-
-- The saved configuration.
-    
-- Stored in NVRAM, as described in the lesson.
-    
-- Loaded when the device starts.
-    
-
-### Comparison
-
-|Feature|Running-config|Startup-config|
+|File|What it is|When it's used|
 |---|---|---|
-|Meaning|Current active configuration|Saved configuration|
-|Storage in lesson|RAM|NVRAM|
-|Changes during configuration|Updated as you make changes|Not automatically updated by ordinary changes|
-|Role during reboot|Unsaved changes can be lost|Loaded during startup|
+|**running-config**|The **live** config. Every command edits it immediately.|Right now|
+|**startup-config**|The **saved** config|Loaded when the device **restarts**|
 
-### Easy memory trick
+> [!tip] Analogy  
+> **running-config** = a document open in Word with unsaved changes.  
+> **startup-config** = the file on disk.  
+> Reboot without saving = close Word without saving: your changes are gone.
 
-**Running = what is running now.**
+> [!info]- Where are they stored? (click)  
+> running-config lives in **RAM** (wiped on power-off). startup-config lives in **NVRAM** (non-volatile RAM, which survives power-off). That's exactly why unsaved changes disappear on reboot.
 
-**Startup = what loads when starting.**
-
-### Example
-
-You configure a setting on a router but forget to save it.
-
-If the router reboots before you save, the change may disappear.
-
-That is why saving the configuration is important.
-
-## 7. Saving Configuration Changes
-
-To save the running configuration into the startup configuration, use:
-
-```
-copy running-config startup-config
-```
-
-The lesson also lists these commands:
-
-```
-write
-```
-
-```
-write memory
-```
-
-These are entered from Privileged EXEC mode.
-
-### Recommended workflow
-
-```
-1. Make configuration changes.
-2. Verify the active configuration.
-3. Save the configuration.
-4. Check the saved configuration if needed.
-```
-
-Example:
+![700](Attachments/Day%2004%20-%20Intro%20to%20the%20CLI-17.png)
 
 ```
 Router# show running-config
+Router# show startup-config     → "startup-config is not present" until you save
+```
+
+### Saving: three commands that do the same thing ▶ [15:51](https://www.youtube.com/watch?v=IYbtai7Nu2g&t=951s)
+
+![700](Attachments/Day%2004%20-%20Intro%20to%20the%20CLI-18.png)
+
+```
+Router# write
+Router# write memory
 Router# copy running-config startup-config
-Router# show startup-config
 ```
 
-> [!warning] Common mistake  
-> Changing a configuration does not automatically mean it has been saved. Remember to save important changes.
+All run from **privileged EXEC** (`#`). Afterwards, `show startup-config` matches the running-config.
 
-## 8. Password Protection
+## 8. Encrypting Passwords ▶ [16:58](https://www.youtube.com/watch?v=IYbtai7Nu2g&t=1018s)
 
-Cisco IOS provides commands for protecting Privileged EXEC access.
-
-### Enable password
-
-```
-enable password <password>
-```
-
-This configures a legacy password for entering Privileged EXEC mode.
-
-Passwords are case-sensitive. Password characters may not be displayed while you type them.
-
-### Service password-encryption
-
-```
-service password-encryption
-```
-
-This command obscures eligible plaintext passwords in configuration output.
-
-The lesson describes its use of **Type 7**, a weak and reversible form of obfuscation.
-
-It should not be treated as strong password protection.
-
-### Enable secret
-
-```
-enable secret <password>
-```
-
-This configures the enable secret to protect Privileged EXEC access.
-
-The lesson describes the older Type 5 / MD5 representation. Newer Cisco software may support different hashing algorithms, so security details depend on the platform and version.
-
-### Comparison
-
-|Feature|Enable password|Service password-encryption|Enable secret|
-|---|---|---|---|
-|Purpose|Configure a legacy enable password|Obscure eligible plaintext passwords|Configure the enable secret|
-|Lesson's security description|Clear text unless otherwise protected|Weak Type 7|Type 5 / MD5 in the lesson|
-|Important point|Legacy method|Easily reversed|Takes precedence over enable password according to the lesson|
-
-> [!important] Remember  
-> If both `enable password` and `enable secret` are configured, the lesson says that `enable secret` takes precedence.
-> 
-> For real devices, use the strongest supported configuration recommended for the exact IOS/IOS XE version.
-
-## 9. The `no` Command
-
-The `no` keyword is used to negate or remove a previously configured setting when the command supports it.
-
-Example:
-
-Enable the feature:
+`enable password CCNA` sits in the config in **plain text**, so anyone glancing at the screen sees it.
 
 ```
 Router(config)# service password-encryption
 ```
 
-Disable the feature:
+![700](Attachments/Day%2004%20-%20Intro%20to%20the%20CLI-19.png)
+
+It now shows as `enable password 7 08026F6028`. The **7** = [type 7](../Concepts/Cisco%20Password%20Types.md) (Cisco's simple scramble). The password itself is still `CCNA`. Only how it's displayed changed.
+
+![700](Attachments/Day%2004%20-%20Intro%20to%20the%20CLI-20.png)
+
+But type 7 is **weak**: a free website reverses it in seconds.
+
+## 9. `enable secret`: the Right Way ▶ [18:51](https://www.youtube.com/watch?v=IYbtai7Nu2g&t=1131s)
+
+```
+Router(config)# enable secret Cisco
+Router(config)# do show running-config
+```
+
+![700](Attachments/Day%2004%20-%20Intro%20to%20the%20CLI-21.png)
+
+- Stored as **type 5** = an **MD5 hash**. That's far stronger, though no password is unbreakable. → [Password types](../Concepts/Cisco%20Password%20Types.md#The%20Types)
+- **Always** hashed, with or without `service password-encryption`.
+- If both are configured, **`enable secret` wins** and `enable password` is ignored (it stays in the config, unused).
+
+> [!important] Rule  
+> **Always use `enable secret`**, never `enable password`.
+
+> [!info]- What does `do` do? (click)  
+> `show` commands belong to privileged EXEC (`#`). In config mode they're normally rejected. Putting **`do`** in front runs them without leaving config mode: `do show running-config`, or shortened, `do sh run`.  
+> ⚠️ The video's review slide says `run`. That's a mistake (the video notes the erratum). The command is **`do`**.
+
+## 10. Undoing a Command with `no` ▶ [20:47](https://www.youtube.com/watch?v=IYbtai7Nu2g&t=1247s)
+
+Put **`no`** in front of a command to remove it:
 
 ```
 Router(config)# no service password-encryption
 ```
 
-**Remember:** `no` is not a universal undo button. Its effect depends on the command.
+![700](Attachments/Day%2004%20-%20Intro%20to%20the%20CLI-22.png)
 
-## 10. Quick Revision Sheet
+Existing type-7 passwords **stay encrypted**. They are **not** decrypted.
 
-Review this section before an exam or practice session.
+![700](Attachments/Day%2004%20-%20Intro%20to%20the%20CLI-23.png)
 
-- Cisco IOS = operating system for Cisco network devices.
-    
-- CLI = Command-Line Interface.
-    
-- Console port = local management connection.
-    
-- PuTTY = terminal emulator.
-    
-- User EXEC = `>`.
-    
-- Privileged EXEC = `#`.
-    
-- Global Configuration = `(config)#`.
-    
-- `enable` = enter Privileged EXEC.
-    
-- `configure terminal` = enter Global Configuration.
-    
-- `Tab` = autocomplete.
-    
-- `?` = help.
-    
-- Running-config = active configuration in RAM, according to the lesson.
-    
-- Startup-config = saved configuration in NVRAM, according to the lesson.
-    
-- `show running-config` = view active configuration.
-    
-- `show startup-config` = view saved configuration.
-    
-- `copy running-config startup-config` = save the configuration.
-    
-- `service password-encryption` = weak Type 7 obfuscation in the lesson.
-    
-- `enable secret` = preferred over `enable password` in the lesson.
-    
-- `no <command>` = negate a supported configuration command.
-    
+|`service password-encryption`|Current passwords|Future passwords|`enable secret`|
+|---|---|---|---|
+|**Turned on**|Encrypted (type 7)|Encrypted|Not affected (always hashed)|
+|**Turned off** (`no …`)|**Stay encrypted**|Plain text|Not affected (always hashed)|
 
-## 11. Active Recall Flashcards
+## 11. Command Sheet
 
-Try to answer before revealing each answer.
+|Command|Mode|Does|
+|---|---|---|
+|`enable`|`>`|Enter privileged EXEC|
+|`configure terminal` (`conf t`)|`#`|Enter global config|
+|`exit`|any|Go up one level / log out|
+|`enable password <pw>`|config|Plain-text enable password (avoid)|
+|`enable secret <pw>`|config|Hashed enable password (**use this**)|
+|`service password-encryption`|config|Type-7-encrypt plain passwords|
+|`no <command>`|config|Remove a command|
+|`do <exec command>`|config|Run a `#` command from config mode|
+|`show running-config` (`sh run`)|`#`|Show the live config|
+|`show startup-config`|`#`|Show the saved config|
+|`write` / `write memory` / `copy running-config startup-config`|`#`|Save|
 
-### Q1. What does CLI stand for?
+## 12. Test Yourself
 
-Answer: Command-Line Interface.
+Answer first, then click to check.
 
-### Q2. What symbol identifies User EXEC mode?
+> [!question]- Which cable connects to a Cisco RJ-45 console port?  
+> A **rollover cable**. Crossover is for Ethernet. USB uses the separate USB console port.
 
-Answer: `>`
+> [!question]- What are Cisco's default console settings?  
+> **9600 baud, 8 data bits, no parity, 1 stop bit, no flow control.**
 
-### Q3. Which command enters Privileged EXEC mode?
+> [!question]- Your enable password is rejected, though you're sure it's right. Likely cause?  
+> **Caps Lock is on.** Passwords are case-sensitive. (`service password-encryption` doesn't change the password itself.)
 
-Answer: `enable`
+> [!question]- What's the most secure way to protect privileged EXEC mode?  
+> **`enable secret`**: it's always hashed (type 5 / MD5).
 
-### Q4. Which command enters Global Configuration mode?
+> [!question]- Both `enable password` and `enable secret` are set. What must you type?  
+> **Only the enable secret.** It takes precedence.
 
-Answer: `configure terminal`
+> [!question]- What is the full version of `conf t`?  
+> **`configure terminal`**
 
-### Q5. What is the difference between running-config and startup-config?
+> [!question]- You configured a device all morning and then the power failed. All your work is gone. Why?  
+> You never **saved**. Changes live in the running-config (RAM), and reboot loads the startup-config (NVRAM).
 
-Answer: Running-config is the active configuration; startup-config is the saved configuration loaded during startup.
+> [!question]- You're at `Router(config)#` and want to view the config without leaving. What do you type?  
+> **`do show running-config`**
 
-### Q6. Which command saves the running configuration?
+> [!question]- You run `no service password-encryption`. What happens to an existing `enable password 7 …`?  
+> Nothing. It **stays encrypted**. Only passwords configured from now on stay in plain text.
 
-Answer: `copy running-config startup-config`
+> [!question]- What does `Router#` tell you?  
+> Hostname = **Router**, mode = **privileged EXEC** (`#`).
 
-### Q7. What does the question mark do?
+---
 
-Answer: It displays available commands or valid syntax options.
+## 🧪 Lab Video (notes not made yet)
 
-### Q8. Why is Type 7 weak?
+**Basic Device Security - Day 4 Lab** · 10:26 · [Watch on YouTube](https://www.youtube.com/watch?v=SDocmq1c05s)
 
-Answer: It is reversible and should not be treated as strong encryption.
-
-### Q9. What happens when both enable password and enable secret are configured?
-
-Answer: According to the lesson, enable secret takes precedence.
-
-### Q10. What does the `no` keyword do?
-
-Answer: It negates or removes a supported configuration command.
-
-## 12. Practice Quiz
-
-Answer these questions without looking at your notes.
-
-1. You see `Switch#`. Which mode are you in?
-    
-2. Which command takes you from `Router>` to `Router#`?
-    
-3. Which command takes you from `Router#` to `Router(config)#`?
-    
-4. What can happen if you reboot before saving configuration changes?
-    
-5. Which command displays the active configuration?
-    
-6. Which command displays the saved configuration?
-    
-7. What does pressing Tab do?
-    
-8. What does `service password-encryption` do?
-    
-9. Which password command takes precedence according to the lesson?
-    
-10. What is the purpose of the `no` keyword?
-    
-
-### Quiz Answers
-
-1. Privileged EXEC mode.
-    
-2. `enable`
-    
-3. `configure terminal`
-    
-4. Unsaved changes may be lost.
-    
-5. `show running-config`
-    
-6. `show startup-config`
-    
-7. Completes a command or abbreviation.
-    
-8. Obscures eligible plaintext passwords using the method described in the lesson.
-    
-9. `enable secret`
-    
-10. Negates a supported configuration command.
-    
-
-## 13. Common Mistakes
-
-- Confusing `>` and `#`.
-    
-- Trying to make general configuration changes without entering a configuration mode.
-    
-- Forgetting to save the running configuration.
-    
-- Treating Type 7 as secure encryption.
-    
-- Assuming every Cisco device has identical console ports or software features.
-    
-- Assuming the `no` keyword works identically with every command.
-    
+- [ ] Watched
+- [ ] Lab completed

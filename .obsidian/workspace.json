@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/01 - Course Days/Day 02 - Interfaces and Cables.md",
+                "file": "CCNA/01 - Course Days/Day 04 - Intro to the CLI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 02 - Interfaces and Cables"
+              "title": "Day 04 - Intro to the CLI"
             }
           }
         ]
@@ -252,17 +252,19 @@
   },
   "active": "8733de1e60b21b7a",
   "lastOpenFiles": [
-    "CCNA/01 - Course Days/Attachments/Day 02 - Interfaces and Cables-35.png",
-    "CCNA/01 - Course Days/Attachments/Day 02 - Interfaces and Cables-34.png",
-    "CCNA/01 - Course Days/Attachments/Day 02 - Interfaces and Cables-33.png",
-    "CCNA/01 - Course Days/Attachments/Day 02 - Interfaces and Cables-32.png",
-    "CCNA/01 - Course Days/Attachments/Day 02 - Interfaces and Cables-31.png",
-    "CCNA/01 - Course Days/Attachments/Day 02 - Interfaces and Cables-30.png",
-    "CCNA/01 - Course Days/Attachments/Day 02 - Interfaces and Cables-29.png",
-    "CCNA/01 - Course Days/Attachments/Day 02 - Interfaces and Cables-28.png",
-    "CCNA/01 - Course Days/Attachments/Day 02 - Interfaces and Cables-27.png",
-    "CCNA/01 - Course Days/Attachments/Day 02 - Interfaces and Cables-26.png",
-    "CCNA/01 - Course Days/Attachments/Day 02 - Interfaces and Cables-25.png",
+    "CCNA/Concepts/Cisco Password Types.md",
+    "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-23.png",
+    "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-22.png",
+    "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-21.png",
+    "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-20.png",
+    "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-19.png",
+    "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-18.png",
+    "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-17.png",
+    "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-16.png",
+    "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-15.png",
+    "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-14.png",
+    "CCNA/01 - Course Days/Day 03 - How the TCP-IP Model Actually Works.md",
+    "CCNA/01 - Course Days/Day 02 - Interfaces and Cables.md",
     "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md",
     "CCNA/Concepts/Unicast and Broadcast.md",
     "CCNA/01 - Course Days/Day 07 - IPv4 Addressing Part 1.md",
@@ -273,9 +275,7 @@
     "CCNA/Concepts/Bits and Bytes.md",
     "CCNA/Concepts",
     "CCNA/01 - Course Days/Day 04 - Intro to the CLI.md",
-    "CCNA/01 - Course Days/Day 02 - Interfaces and Cables.md",
     "CCNA/01 - Course Days/Day 01 - Network Devices.md",
-    "CCNA/01 - Course Days/Day 03 - How the TCP-IP Model Actually Works.md",
     "CCNA/01 - Course Days/Attachments",
     "CCNA/00 - Start Here/How to Take Notes.md",
     "CCNA/00 - Start Here/Course Roadmap.md",
