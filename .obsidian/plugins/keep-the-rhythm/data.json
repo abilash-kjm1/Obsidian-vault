@@ -1571,7 +1571,13 @@
         "filePath": "CCNA/01 - Course Days/Day 05 - Ethernet LAN Switching Part 1.md",
         "wordCountStart": 2796,
         "charCountStart": 16466,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "23:40",
+            "w": -743,
+            "c": -4800
+          }
+        ],
         "id": 93
       },
       {

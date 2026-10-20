@@ -238,21 +238,3 @@ Answer first, then click to check.
 
 ---
 
-## 🧠 Day Summary
-
-### Explain the Main Concepts in My Own Words
-
-Write without looking at the video.
-
-### What I Still Do Not Understand
-
-- 
-
-_Still unclear after reviewing? Copy it to [Unresolved Questions](../04%20-%20Questions%20and%20Doubts/Unresolved%20Questions.md)._
-
-### Review Checklist
-
-- [ ] Watched
-- [ ] Reviewed today's notes
-- [ ] Answered "Test Yourself" from memory
-- [ ] Revisited confusing concepts
