@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/01 - Course Days/Day 02 - Interfaces and Cables.md",
-                "mode": "source",
+                "file": "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 02 - Interfaces and Cables"
+              "title": "Day 06 - Ethernet LAN Switching Part 2"
             }
           }
         ]
@@ -252,17 +252,18 @@
   },
   "active": "8733de1e60b21b7a",
   "lastOpenFiles": [
-    "CCNA/01 - Course Days/Day 01 - Network Devices.md",
     "CCNA/01 - Course Days/Day 05 - Ethernet LAN Switching Part 1.md",
-    "CCNA/01 - Course Days/Attachments/Day 05 - Ethernet LAN Switching Part 1.png",
+    "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md",
     "CCNA/01 - Course Days/Day 04 - Intro to the CLI.md",
+    "CCNA/01 - Course Days/Day 02 - Interfaces and Cables.md",
+    "CCNA/01 - Course Days/Day 01 - Network Devices.md",
+    "CCNA/01 - Course Days/Attachments/Day 05 - Ethernet LAN Switching Part 1.png",
     "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-3.png",
     "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-2.png",
     "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-1.png",
     "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI.png",
     "CCNA/01 - Course Days/Day 03 - How the TCP-IP Model Actually Works.md",
     "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works.png",
-    "CCNA/01 - Course Days/Day 02 - Interfaces and Cables.md",
     "CCNA/01 - Course Days/Attachments/Day 02 - Interfaces and Cables-15.png",
     "CCNA/01 - Course Days/Attachments/Day 02 - Interfaces and Cables-14.png",
     "CCNA/01 - Course Days/Attachments/Day 02 - Interfaces and Cables-13.png",
@@ -295,7 +296,6 @@
     "CCNA/02 - Labs",
     "CCNA/00 - Start Here",
     "CCNA/01 - Course Days/Mega Lab - Complete Network Configuration.md",
-    "CCNA/01 - Course Days/Day 63 - Ansible, Puppet, Chef and Terraform.md",
     "CCNA/01 - Course Days",
     "CCNA",
     "Untitled.canvas"

@@ -1541,6 +1541,30 @@
         "charCountStart": 3598,
         "changes": [],
         "id": 89
+      },
+      {
+        "date": "2026-10-18",
+        "filePath": "CCNA/01 - Course Days/Day 04 - Intro to the CLI.md",
+        "wordCountStart": 1694,
+        "charCountStart": 12529,
+        "changes": [],
+        "id": 90
+      },
+      {
+        "date": "2026-10-18",
+        "filePath": "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md",
+        "wordCountStart": 291,
+        "charCountStart": 1842,
+        "changes": [],
+        "id": 91
+      },
+      {
+        "date": "2026-10-19",
+        "filePath": "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md",
+        "wordCountStart": 291,
+        "charCountStart": 1842,
+        "changes": [],
+        "id": 92
       }
     ]
   }
