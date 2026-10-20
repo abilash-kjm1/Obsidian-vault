@@ -599,7 +599,7 @@
     ]
   },
   "CCNA/01 - Course Days/Day 02 - Interfaces and Cables.md": {
-    "scroll": 83.40017143885295,
+    "scroll": 207.98031542130366,
     "cursor": {
       "from": {
         "line": 9,
@@ -611,7 +611,9 @@
       }
     },
     "expandedKeys": [
-      "item-1-0"
+      "item-1-0",
+      "item-2-9",
+      "item-2-12"
     ]
   },
   "CCNA/01 - Course Days/Day 03 - How the TCP-IP Model Actually Works.md": {
