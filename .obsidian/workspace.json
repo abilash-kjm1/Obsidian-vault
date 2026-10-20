@@ -252,6 +252,9 @@
   },
   "active": "8733de1e60b21b7a",
   "lastOpenFiles": [
+    "CCNA/Concepts/Bits and Bytes.md",
+    "CCNA/Concepts/Hexadecimal.md",
+    "CCNA/Concepts",
     "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md",
     "CCNA/01 - Course Days/Day 05 - Ethernet LAN Switching Part 1.md",
     "CCNA/01 - Course Days/Day 04 - Intro to the CLI.md",
@@ -292,12 +295,9 @@
     "CCNA/03 - Cisco Commands/Command Reference.md",
     "CCNA/03 - Cisco Commands",
     "CCNA/02 - Labs/Lab Template.md",
-    "CCNA/02 - Labs/Lab Index.md",
     "CCNA/02 - Labs",
     "CCNA/00 - Start Here",
-    "CCNA/01 - Course Days/Mega Lab - Complete Network Configuration.md",
     "CCNA/01 - Course Days",
-    "CCNA",
     "Untitled.canvas"
   ]
 }
