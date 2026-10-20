@@ -665,7 +665,7 @@
     ]
   },
   "CCNA/01 - Course Days/Day 05 - Ethernet LAN Switching Part 1.md": {
-    "scroll": 36.3125,
+    "scroll": 93.62352941176471,
     "cursor": {
       "from": {
         "line": 1,
@@ -699,6 +699,22 @@
       "item-1-0",
       "item-3-7",
       "item-2-13"
+    ]
+  },
+  "CCNA/Concepts/Hexadecimal.md": {
+    "scroll": 49.31578947368421,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
     ]
   }
 }
