@@ -532,14 +532,14 @@
     "expandedKeys": []
   },
   "CCNA/00 - Start Here/CCNA Dashboard.md": {
-    "scroll": 20.837239583333332,
+    "scroll": 1.7857142857142858,
     "cursor": {
       "from": {
-        "line": 4,
+        "line": 44,
         "ch": 0
       },
       "to": {
-        "line": 4,
+        "line": 44,
         "ch": 0
       }
     },
@@ -636,7 +636,7 @@
     ]
   },
   "CCNA/01 - Course Days/Day 04 - Intro to the CLI.md": {
-    "scroll": 262.0838123041086,
+    "scroll": 258.921739358159,
     "cursor": {
       "from": {
         "line": 9,
@@ -648,8 +648,7 @@
       }
     },
     "expandedKeys": [
-      "item-1-0",
-      "item-2-7"
+      "item-1-0"
     ]
   },
   "CCNA/01 - Course Days/Day 05 - Ethernet LAN Switching Part 1.md": {
@@ -741,6 +740,22 @@
       },
       "to": {
         "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "CCNA/Concepts/Cisco Password Types.md": {
+    "scroll": 28.149304231007893,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
         "ch": 0
       }
     },

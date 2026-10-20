@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/01 - Course Days/Day 04 - Intro to the CLI.md",
+                "file": "CCNA/00 - Start Here/CCNA Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 04 - Intro to the CLI"
+              "title": "CCNA Dashboard"
             }
           }
         ]
@@ -253,6 +253,8 @@
   "active": "8733de1e60b21b7a",
   "lastOpenFiles": [
     "CCNA/Concepts/Cisco Password Types.md",
+    "CCNA/01 - Course Days/Day 04 - Intro to the CLI.md",
+    "CCNA/Untitled.md",
     "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-23.png",
     "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-22.png",
     "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-21.png",
@@ -274,13 +276,11 @@
     "CCNA/Concepts/Hexadecimal.md",
     "CCNA/Concepts/Bits and Bytes.md",
     "CCNA/Concepts",
-    "CCNA/01 - Course Days/Day 04 - Intro to the CLI.md",
     "CCNA/01 - Course Days/Day 01 - Network Devices.md",
     "CCNA/01 - Course Days/Attachments",
     "CCNA/00 - Start Here/How to Take Notes.md",
     "CCNA/00 - Start Here/Course Roadmap.md",
     "CCNA/00 - Start Here/CCNA Dashboard.md",
-    "CCNA/Untitled.md",
     "CCNA/99 - Templates/Lab Note.md",
     "CCNA/99 - Templates/Daily Course Note.md",
     "CCNA/99 - Templates/Concept Note.md",

@@ -1666,6 +1666,42 @@
           }
         ],
         "id": 101
+      },
+      {
+        "date": "2026-10-20",
+        "filePath": "CCNA/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "01:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 102
+      },
+      {
+        "date": "2026-10-20",
+        "filePath": "CCNA/Concepts/Cisco Password Types.md",
+        "wordCountStart": 360,
+        "charCountStart": 2342,
+        "changes": [],
+        "id": 103
+      },
+      {
+        "date": "2026-10-20",
+        "filePath": "CCNA/00 - Start Here/CCNA Dashboard.md",
+        "wordCountStart": 2118,
+        "charCountStart": 9610,
+        "changes": [
+          {
+            "timeKey": "01:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 104
       }
     ]
   }
