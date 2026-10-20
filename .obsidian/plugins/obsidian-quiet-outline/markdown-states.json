@@ -580,23 +580,18 @@
     ]
   },
   "CCNA/01 - Course Days/Day 01 - Network Devices.md": {
-    "scroll": 19.089192708333332,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 5,
+        "line": 0,
         "ch": 0
       },
       "to": {
-        "line": 5,
+        "line": 0,
         "ch": 0
       }
     },
-    "expandedKeys": [
-      "item-1-0",
-      "item-2-5",
-      "item-2-7",
-      "item-2-9"
-    ]
+    "expandedKeys": []
   },
   "CCNA/01 - Course Days/Day 02 - Interfaces and Cables.md": {
     "scroll": 225.92697553200844,

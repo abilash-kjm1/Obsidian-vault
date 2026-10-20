@@ -61,8 +61,7 @@
       "2026-06-27",
       "2026-07-04",
       "2026-10-11",
-      "2026-10-12",
-      "2026-10-20"
+      "2026-10-12"
     ],
     "dailyActivity": [
       {
@@ -1722,7 +1721,13 @@
         "filePath": "CCNA/01 - Course Days/Day 01 - Network Devices.md",
         "wordCountStart": 488,
         "charCountStart": 3277,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "01:35",
+            "w": -488,
+            "c": -3277
+          }
+        ],
         "id": 106
       }
     ]
