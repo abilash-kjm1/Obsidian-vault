@@ -2,6 +2,7 @@
 tags:
   - ccna/concept
 course_days:
+  - 2
   - 5
 ---
 
@@ -35,6 +36,25 @@ course_days:
 - **Link speeds** use **bits**: 100 **Mbps** = 100 mega**bits** per second (FastEthernet).
 - **File sizes** use **bytes**: 100 **MB** = 100 mega**bytes**.
 - Lowercase **b** = bits, uppercase **B** = bytes.
+
+> [!info]- Why are speeds in bits, not bytes? (click)  
+> A cable carries data **one bit at a time**, as a change in the electrical signal (or a pulse of light). So the natural thing to count is bits per second.
+
+## Speed Units
+
+Each step up = **× 1,000** (add three zeros):
+
+|Unit|Bits|Short|
+|---|---|---|
+|1 kilobit|1,000|Kb|
+|1 megabit|1,000,000|Mb|
+|1 gigabit|1,000,000,000|Gb|
+|1 terabit|1,000,000,000,000|Tb|
+
+Add "ps" for per second: **Kbps, Mbps, Gbps, Tbps**.
+
+**Worked example:** a 1 **GB** file on a 1 **Gbps** link.
+1 GB = 8 Gb, so it takes about **8 seconds**, not 1.
 
 ## Exam Trap
 

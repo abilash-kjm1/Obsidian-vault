@@ -599,24 +599,19 @@
     ]
   },
   "CCNA/01 - Course Days/Day 02 - Interfaces and Cables.md": {
-    "scroll": 112.68763723150359,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 1,
+        "line": 9,
         "ch": 0
       },
       "to": {
-        "line": 1,
+        "line": 9,
         "ch": 0
       }
     },
     "expandedKeys": [
-      "item-1-0",
-      "item-2-1",
-      "item-2-3",
-      "item-2-5",
-      "item-2-8",
-      "item-2-11"
+      "item-1-0"
     ]
   },
   "CCNA/01 - Course Days/Day 03 - How the TCP-IP Model Actually Works.md": {
@@ -682,7 +677,7 @@
     ]
   },
   "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md": {
-    "scroll": 177.25,
+    "scroll": 215.7377049180328,
     "cursor": {
       "from": {
         "line": 0,
