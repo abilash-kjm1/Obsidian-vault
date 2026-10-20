@@ -1702,6 +1702,28 @@
           }
         ],
         "id": 104
+      },
+      {
+        "date": "2026-10-20",
+        "filePath": "Computer Fundamentals/02 - BIOS in a Nutshell.md",
+        "wordCountStart": 1238,
+        "charCountStart": 7690,
+        "changes": [
+          {
+            "timeKey": "01:35",
+            "w": -1238,
+            "c": -7690
+          }
+        ],
+        "id": 105
+      },
+      {
+        "date": "2026-10-20",
+        "filePath": "CCNA/01 - Course Days/Day 01 - Network Devices.md",
+        "wordCountStart": 488,
+        "charCountStart": 3277,
+        "changes": [],
+        "id": 106
       }
     ]
   }

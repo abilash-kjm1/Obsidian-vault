@@ -583,11 +583,11 @@
     "scroll": 19.089192708333332,
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 16,
         "ch": 0
       },
       "to": {
-        "line": 0,
+        "line": 16,
         "ch": 0
       }
     },
@@ -761,6 +761,23 @@
     },
     "expandedKeys": [
       "item-1-0"
+    ]
+  },
+  "Computer Fundamentals/02 - BIOS in a Nutshell.md": {
+    "scroll": 98.34157070493585,
+    "cursor": {
+      "from": {
+        "line": 38,
+        "ch": 31
+      },
+      "to": {
+        "line": 38,
+        "ch": 31
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-3"
     ]
   }
 }

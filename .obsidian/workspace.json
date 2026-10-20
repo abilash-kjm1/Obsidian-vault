@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/00 - Start Here/CCNA Dashboard.md",
+                "file": "CCNA/01 - Course Days/Day 01 - Network Devices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CCNA Dashboard"
+              "title": "Day 01 - Network Devices"
             }
           }
         ]
@@ -252,6 +252,13 @@
   },
   "active": "8733de1e60b21b7a",
   "lastOpenFiles": [
+    "CCNA/00 - Start Here/CCNA Dashboard.md",
+    "Computer Fundamentals/02 - BIOS in a Nutshell.md",
+    "Computer Fundamentals/Attachments/02 - BIOS in a Nutshell-3.png",
+    "Computer Fundamentals/Attachments/02 - BIOS in a Nutshell-2.png",
+    "Computer Fundamentals/Attachments/02 - BIOS in a Nutshell-1.png",
+    "Computer Fundamentals/Attachments",
+    "Computer Fundamentals",
     "CCNA/Concepts/Cisco Password Types.md",
     "CCNA/01 - Course Days/Day 04 - Intro to the CLI.md",
     "CCNA/Untitled.md",
@@ -262,9 +269,6 @@
     "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-19.png",
     "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-18.png",
     "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-17.png",
-    "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-16.png",
-    "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-15.png",
-    "CCNA/01 - Course Days/Attachments/Day 04 - Intro to the CLI-14.png",
     "CCNA/01 - Course Days/Day 03 - How the TCP-IP Model Actually Works.md",
     "CCNA/01 - Course Days/Day 02 - Interfaces and Cables.md",
     "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md",
@@ -280,7 +284,6 @@
     "CCNA/01 - Course Days/Attachments",
     "CCNA/00 - Start Here/How to Take Notes.md",
     "CCNA/00 - Start Here/Course Roadmap.md",
-    "CCNA/00 - Start Here/CCNA Dashboard.md",
     "CCNA/99 - Templates/Lab Note.md",
     "CCNA/99 - Templates/Daily Course Note.md",
     "CCNA/99 - Templates/Concept Note.md",
@@ -293,11 +296,8 @@
     "CCNA/05 - Revision/Revision Dashboard.md",
     "CCNA/05 - Revision/Cheat Sheets.md",
     "CCNA/05 - Revision",
-    "CCNA/04 - Questions and Doubts/Unresolved Questions.md",
     "CCNA/04 - Questions and Doubts",
     "CCNA/03 - Cisco Commands",
-    "CCNA/02 - Labs",
-    "CCNA/00 - Start Here",
     "Untitled.canvas"
   ]
 }
