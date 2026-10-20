@@ -1603,6 +1603,22 @@
         "charCountStart": 1795,
         "changes": [],
         "id": 96
+      },
+      {
+        "date": "2026-10-20",
+        "filePath": "CCNA/Concepts/Unicast and Broadcast.md",
+        "wordCountStart": 361,
+        "charCountStart": 2230,
+        "changes": [],
+        "id": 97
+      },
+      {
+        "date": "2026-10-20",
+        "filePath": "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md",
+        "wordCountStart": 2221,
+        "charCountStart": 12808,
+        "changes": [],
+        "id": 98
       }
     ]
   }

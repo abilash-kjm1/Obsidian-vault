@@ -682,7 +682,7 @@
     ]
   },
   "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md": {
-    "scroll": 24.100719424460433,
+    "scroll": 100.77272727272727,
     "cursor": {
       "from": {
         "line": 0,
@@ -694,7 +694,8 @@
       }
     },
     "expandedKeys": [
-      "item-1-0"
+      "item-1-0",
+      "item-2-3"
     ]
   },
   "CCNA/Concepts/Hexadecimal.md": {
@@ -740,5 +741,21 @@
       }
     },
     "expandedKeys": []
+  },
+  "CCNA/Concepts/Unicast and Broadcast.md": {
+    "scroll": 35.58064516129032,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
   }
 }
