@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/01 - Course Days/Day 01 - Network Devices.md",
+                "file": "CCNA/01 - Course Days/Day 03 - How the TCP-IP Model Actually Works.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 01 - Network Devices"
+              "title": "Day 03 - How the TCP-IP Model Actually Works"
             }
           }
         ]
@@ -252,6 +252,8 @@
   },
   "active": "8733de1e60b21b7a",
   "lastOpenFiles": [
+    "CCNA/01 - Course Days/Day 04 - Intro to the CLI.md",
+    "CCNA/01 - Course Days/Day 01 - Network Devices.md",
     "CCNA/01 - Course Days/Attachments/Day 01 - Network Devices-28.png",
     "CCNA/01 - Course Days/Attachments/Day 01 - Network Devices-27.png",
     "CCNA/01 - Course Days/Attachments/Day 01 - Network Devices-26.png",
@@ -262,9 +264,6 @@
     "CCNA/01 - Course Days/Attachments/Day 01 - Network Devices-21.png",
     "CCNA/01 - Course Days/Attachments/Day 01 - Network Devices-20.png",
     "CCNA/01 - Course Days/Attachments/Day 01 - Network Devices-19.png",
-    "CCNA/01 - Course Days/Attachments/Day 01 - Network Devices-18.png",
-    "CCNA/01 - Course Days/Day 04 - Intro to the CLI.md",
-    "CCNA/01 - Course Days/Day 01 - Network Devices.md",
     "CCNA/00 - Start Here/CCNA Dashboard.md",
     "Computer Fundamentals/02 - BIOS in a Nutshell.md",
     "Computer Fundamentals/Attachments",

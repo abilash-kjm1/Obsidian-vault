@@ -580,7 +580,7 @@
     ]
   },
   "CCNA/01 - Course Days/Day 01 - Network Devices.md": {
-    "scroll": 174.57648385732412,
+    "scroll": 64.822433578249,
     "cursor": {
       "from": {
         "line": 9,
@@ -617,15 +617,15 @@
     ]
   },
   "CCNA/01 - Course Days/Day 03 - How the TCP-IP Model Actually Works.md": {
-    "scroll": 172.04918451837662,
+    "scroll": 156.94294985695973,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 0
+        "line": 1,
+        "ch": 3
       },
       "to": {
-        "line": 0,
-        "ch": 0
+        "line": 207,
+        "ch": 21
       }
     },
     "expandedKeys": [
@@ -636,7 +636,7 @@
     ]
   },
   "CCNA/01 - Course Days/Day 04 - Intro to the CLI.md": {
-    "scroll": 188.81639862060547,
+    "scroll": 194.46354532877604,
     "cursor": {
       "from": {
         "line": 9,
