@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/01 - Course Days/Day 03 - How the TCP-IP Model Actually Works.md",
+                "file": "CCNA/01 - Course Days/Day 04 - Intro to the CLI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 03 - How the TCP-IP Model Actually Works"
+              "title": "Day 04 - Intro to the CLI"
             }
           }
         ]
@@ -252,26 +252,27 @@
   },
   "active": "8733de1e60b21b7a",
   "lastOpenFiles": [
+    "CCNA/Concepts/TCP-IP Model.md",
+    "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works-20.png",
+    "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works-19.png",
+    "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works-18.png",
+    "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works-17.png",
+    "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works-16.png",
+    "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works-15.png",
+    "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works-14.png",
+    "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works-13.png",
+    "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works-12.png",
+    "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works-11.png",
+    "CCNA/01 - Course Days/Day 02 - Interfaces and Cables.md",
+    "CCNA/01 - Course Days/Day 03 - How the TCP-IP Model Actually Works.md",
     "CCNA/01 - Course Days/Day 04 - Intro to the CLI.md",
     "CCNA/01 - Course Days/Day 01 - Network Devices.md",
-    "CCNA/01 - Course Days/Attachments/Day 01 - Network Devices-28.png",
-    "CCNA/01 - Course Days/Attachments/Day 01 - Network Devices-27.png",
-    "CCNA/01 - Course Days/Attachments/Day 01 - Network Devices-26.png",
-    "CCNA/01 - Course Days/Attachments/Day 01 - Network Devices-25.png",
-    "CCNA/01 - Course Days/Attachments/Day 01 - Network Devices-24.png",
-    "CCNA/01 - Course Days/Attachments/Day 01 - Network Devices-23.png",
-    "CCNA/01 - Course Days/Attachments/Day 01 - Network Devices-22.png",
-    "CCNA/01 - Course Days/Attachments/Day 01 - Network Devices-21.png",
-    "CCNA/01 - Course Days/Attachments/Day 01 - Network Devices-20.png",
-    "CCNA/01 - Course Days/Attachments/Day 01 - Network Devices-19.png",
     "CCNA/00 - Start Here/CCNA Dashboard.md",
     "Computer Fundamentals/02 - BIOS in a Nutshell.md",
     "Computer Fundamentals/Attachments",
     "Computer Fundamentals",
     "CCNA/Concepts/Cisco Password Types.md",
     "CCNA/Untitled.md",
-    "CCNA/01 - Course Days/Day 03 - How the TCP-IP Model Actually Works.md",
-    "CCNA/01 - Course Days/Day 02 - Interfaces and Cables.md",
     "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md",
     "CCNA/Concepts/Unicast and Broadcast.md",
     "CCNA/01 - Course Days/Day 07 - IPv4 Addressing Part 1.md",

@@ -599,14 +599,14 @@
     ]
   },
   "CCNA/01 - Course Days/Day 02 - Interfaces and Cables.md": {
-    "scroll": 225.92697553200844,
+    "scroll": 54.560561733335774,
     "cursor": {
       "from": {
-        "line": 9,
+        "line": 80,
         "ch": 0
       },
       "to": {
-        "line": 9,
+        "line": 80,
         "ch": 0
       }
     },
@@ -631,7 +631,7 @@
     "expandedKeys": []
   },
   "CCNA/01 - Course Days/Day 04 - Intro to the CLI.md": {
-    "scroll": 194.46354532877604,
+    "scroll": 128.45935018948958,
     "cursor": {
       "from": {
         "line": 9,
@@ -643,7 +643,8 @@
       }
     },
     "expandedKeys": [
-      "item-1-0"
+      "item-1-0",
+      "item-2-7"
     ]
   },
   "CCNA/01 - Course Days/Day 05 - Ethernet LAN Switching Part 1.md": {
