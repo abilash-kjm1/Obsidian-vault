@@ -620,20 +620,15 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 1,
-        "ch": 3
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 207,
-        "ch": 21
+        "line": 0,
+        "ch": 0
       }
     },
-    "expandedKeys": [
-      "item-1-0",
-      "item-2-1",
-      "item-2-3",
-      "item-2-9"
-    ]
+    "expandedKeys": []
   },
   "CCNA/01 - Course Days/Day 04 - Intro to the CLI.md": {
     "scroll": 194.46354532877604,
