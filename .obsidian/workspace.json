@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/01 - Course Days/Day 02 - Interfaces and Cables.md",
+                "file": "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 02 - Interfaces and Cables"
+              "title": "Day 06 - Ethernet LAN Switching Part 2"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "decimal to hexa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,6 +253,10 @@
   },
   "active": "8733de1e60b21b7a",
   "lastOpenFiles": [
+    "CCNA/01 - Course Days/Day 05 - Ethernet LAN Switching Part 1.md",
+    "CCNA/00 - Start Here/CCNA Dashboard.md",
+    "CCNA/01 - Course Days/Day 02 - Interfaces and Cables.md",
+    "CCNA/Concepts/Hexadecimal.md",
     "CCNA/01 - Course Days/Day 03 - How the TCP-IP Model Actually Works.md",
     "CCNA/01 - Course Days/Day 04 - Intro to the CLI.md",
     "CCNA/Concepts/TCP-IP Model.md",
@@ -265,9 +270,7 @@
     "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works-13.png",
     "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works-12.png",
     "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works-11.png",
-    "CCNA/01 - Course Days/Day 02 - Interfaces and Cables.md",
     "CCNA/01 - Course Days/Day 01 - Network Devices.md",
-    "CCNA/00 - Start Here/CCNA Dashboard.md",
     "Computer Fundamentals/02 - BIOS in a Nutshell.md",
     "Computer Fundamentals/Attachments",
     "Computer Fundamentals",
@@ -278,8 +281,6 @@
     "CCNA/01 - Course Days/Day 07 - IPv4 Addressing Part 1.md",
     "CCNA/01 - Course Days/Day 08 - IPv4 Addressing Part 2.md",
     "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md.tmp.21960.65772bb721ca",
-    "CCNA/01 - Course Days/Day 05 - Ethernet LAN Switching Part 1.md",
-    "CCNA/Concepts/Hexadecimal.md",
     "CCNA/Concepts/Bits and Bytes.md",
     "CCNA/Concepts",
     "CCNA/01 - Course Days/Attachments",

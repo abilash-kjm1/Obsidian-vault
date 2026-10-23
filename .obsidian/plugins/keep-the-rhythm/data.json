@@ -1757,6 +1757,38 @@
         "charCountStart": 13850,
         "changes": [],
         "id": 108
+      },
+      {
+        "date": "2026-10-22",
+        "filePath": "CCNA/Concepts/Hexadecimal.md",
+        "wordCountStart": 574,
+        "charCountStart": 3306,
+        "changes": [],
+        "id": 109
+      },
+      {
+        "date": "2026-10-22",
+        "filePath": "CCNA/00 - Start Here/CCNA Dashboard.md",
+        "wordCountStart": 2118,
+        "charCountStart": 9610,
+        "changes": [],
+        "id": 110
+      },
+      {
+        "date": "2026-10-22",
+        "filePath": "CCNA/01 - Course Days/Day 05 - Ethernet LAN Switching Part 1.md",
+        "wordCountStart": 2053,
+        "charCountStart": 11666,
+        "changes": [],
+        "id": 111
+      },
+      {
+        "date": "2026-10-22",
+        "filePath": "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md",
+        "wordCountStart": 2221,
+        "charCountStart": 12808,
+        "changes": [],
+        "id": 112
       }
     ]
   }

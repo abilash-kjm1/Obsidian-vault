@@ -599,7 +599,7 @@
     ]
   },
   "CCNA/01 - Course Days/Day 02 - Interfaces and Cables.md": {
-    "scroll": 204.22658195243412,
+    "scroll": 215.07646825396824,
     "cursor": {
       "from": {
         "line": 154,
@@ -611,9 +611,7 @@
       }
     },
     "expandedKeys": [
-      "item-1-0",
-      "item-2-9",
-      "item-2-12"
+      "item-1-0"
     ]
   },
   "CCNA/01 - Course Days/Day 03 - How the TCP-IP Model Actually Works.md": {
@@ -651,15 +649,15 @@
     ]
   },
   "CCNA/01 - Course Days/Day 05 - Ethernet LAN Switching Part 1.md": {
-    "scroll": 189.72581778327338,
+    "scroll": 164.79031746031745,
     "cursor": {
       "from": {
-        "line": 240,
-        "ch": 0
+        "line": 109,
+        "ch": 61
       },
       "to": {
-        "line": 240,
-        "ch": 0
+        "line": 109,
+        "ch": 61
       }
     },
     "expandedKeys": [
@@ -668,15 +666,15 @@
     ]
   },
   "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md": {
-    "scroll": 215.7377049180328,
+    "scroll": 254.64107883817428,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 0
+        "line": 212,
+        "ch": 24
       },
       "to": {
-        "line": 0,
-        "ch": 0
+        "line": 212,
+        "ch": 24
       }
     },
     "expandedKeys": [
@@ -687,14 +685,14 @@
     ]
   },
   "CCNA/Concepts/Hexadecimal.md": {
-    "scroll": 70.02208201892745,
+    "scroll": 13.003052917232022,
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 7,
         "ch": 0
       },
       "to": {
-        "line": 0,
+        "line": 7,
         "ch": 0
       }
     },
