@@ -814,7 +814,7 @@
     ]
   },
   "CCNA/Subnetting Master - Network Chuck/EP 1 - What is an IP Address.md": {
-    "scroll": 20.893849206349206,
+    "scroll": 3.700348432055749,
     "cursor": {
       "from": {
         "line": 13,
@@ -822,6 +822,38 @@
       },
       "to": {
         "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "CCNA/Subnetting Master - Network Chuck/EP 2 - We Ran Out of IP Addresses.md": {
+    "scroll": 36.41305555555556,
+    "cursor": {
+      "from": {
+        "line": 32,
+        "ch": 169
+      },
+      "to": {
+        "line": 32,
+        "ch": 169
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "CCNA/Concepts/IPv4 Address Classes.md": {
+    "scroll": 9.563687913472645,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
         "ch": 0
       }
     },

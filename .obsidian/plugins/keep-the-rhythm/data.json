@@ -1808,6 +1808,11 @@
             "timeKey": "22:55",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "23:00",
+            "w": 25,
+            "c": 70
           }
         ],
         "id": 114
@@ -1819,6 +1824,22 @@
         "charCountStart": 1661,
         "changes": [],
         "id": 115
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "CCNA/Subnetting Master - Network Chuck/EP 2 - We Ran Out of IP Addresses.md",
+        "wordCountStart": 1644,
+        "charCountStart": 9335,
+        "changes": [],
+        "id": 116
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "CCNA/Concepts/IPv4 Address Classes.md",
+        "wordCountStart": 585,
+        "charCountStart": 3637,
+        "changes": [],
+        "id": 117
       }
     ]
   }

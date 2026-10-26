@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/Subnetting Master - Network Chuck/EP 1 - What is an IP Address.md",
+                "file": "CCNA/Concepts/IPv4 Address Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EP 1 - What is an IP Address"
+              "title": "IPv4 Address Classes"
             }
           }
         ]
@@ -250,9 +250,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "922e05a679b139af",
+  "active": "8733de1e60b21b7a",
   "lastOpenFiles": [
     "CCNA/Subnetting Master - Network Chuck/EP 2 - We Ran Out of IP Addresses.md",
+    "CCNA/Subnetting Master - Network Chuck/EP 1 - What is an IP Address.md",
     "CCNA/Concepts/IPv4 Address Classes.md",
     "CCNA/Subnetting Master - Network Chuck/Attachments/EP 2 - We Ran Out of IP Addresses-11.png",
     "CCNA/Subnetting Master - Network Chuck/Attachments/EP 2 - We Ran Out of IP Addresses-10.png",
@@ -265,7 +266,6 @@
     "CCNA/Subnetting Master - Network Chuck/Attachments/EP 2 - We Ran Out of IP Addresses-3.png",
     "CCNA/Subnetting Master - Network Chuck/Attachments/EP 2 - We Ran Out of IP Addresses-2.png",
     "CCNA/01 - Course Days/Day 39 - DHCP.md",
-    "CCNA/Subnetting Master - Network Chuck/EP 1 - What is an IP Address.md",
     "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md",
     "CCNA/Subnetting Master - Network Chuck/Attachments",
     "CCNA/Subnetting Master - Network Chuck/What is IP Address",
