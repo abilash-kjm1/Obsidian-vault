@@ -778,14 +778,14 @@
     ]
   },
   "CCNA/Subnetting Master - Network Chuck/What is IP Address/EP 1 - What is an IP Address.md": {
-    "scroll": 58.309244791666664,
+    "scroll": 164.75716145833334,
     "cursor": {
       "from": {
-        "line": 6,
+        "line": 20,
         "ch": 0
       },
       "to": {
-        "line": 6,
+        "line": 20,
         "ch": 0
       }
     },
@@ -811,6 +811,22 @@
       "item-3-2",
       "item-3-7",
       "item-2-13"
+    ]
+  },
+  "CCNA/Subnetting Master - Network Chuck/EP 1 - What is an IP Address.md": {
+    "scroll": 20.893849206349206,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
     ]
   }
 }

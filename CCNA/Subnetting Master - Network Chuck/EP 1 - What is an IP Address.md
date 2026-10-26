@@ -7,9 +7,11 @@ episode: 1
 
 # EP 1 - What is an IP Address?
 
+[EP 2 - We Ran Out of IP Addresses ➡️](EP%202%20-%20We%20Ran%20Out%20of%20IP%20Addresses.md)
+
 **Series:** NetworkChuck · *You SUCK at Subnetting* · Episode 1
 **Video:** [what is an IP Address? // EP 1](https://www.youtube.com/watch?v=5WfiTHiU4x8) · 18:45 (the lesson ends at 15:45; the rest is a sponsor) · ▶ links jump to that moment
-**Basics used here:** [Bits and Bytes](../../Concepts/Bits%20and%20Bytes.md) · [Unicast and Broadcast](../../Concepts/Unicast%20and%20Broadcast.md) · [TCP-IP Model](../../Concepts/TCP-IP%20Model.md) · Course version: [Day 07 - IPv4 Addressing](../../01%20-%20Course%20Days/Day%2007%20-%20IPv4%20Addressing%20Part%201.md)
+**Basics used here:** [Bits and Bytes](../Concepts/Bits%20and%20Bytes.md) · [Unicast and Broadcast](../Concepts/Unicast%20and%20Broadcast.md) · [TCP-IP Model](../Concepts/TCP-IP%20Model.md) · Course version: [Day 07 - IPv4 Addressing](../01%20-%20Course%20Days/Day%2007%20-%20IPv4%20Addressing%20Part%201.md)
 
 > [!abstract] The whole lesson in 3 lines  
 > 1. An **IP address** is a device's "phone number" on a network. Your **router** hands them out automatically (**DHCP**).  
@@ -23,7 +25,7 @@ episode: 1
 **IP** = **I**nternet **P**rotocol. An IP address is like a **phone number** for each device. Without one, a device can't talk to anything else, local or on the Internet.
 
 > [!info]- Where does IP fit in the layers? (click)  
-> IP addresses belong to **Layer 3** (Internet / Network layer): they identify **hosts** end to end across networks, and routers forward using them. → [TCP-IP Model](../../Concepts/TCP-IP%20Model.md)
+> IP addresses belong to **Layer 3** (Internet / Network layer): they identify **hosts** end to end across networks, and routers forward using them. → [TCP-IP Model](../Concepts/TCP-IP%20Model.md)
 
 ## 2. Find Your Own IP Address ▶ [2:17](https://www.youtube.com/watch?v=5WfiTHiU4x8&t=137s)
 
@@ -50,7 +52,7 @@ The "v4" in IPv4 is the version. Ignore it for now (IPv6 is a different format).
 
 ![700](Attachments/EP%201%20-%20What%20is%20an%20IP%20Address-3.png)
 
-Your home **router** does. Every device that joins the network is handed an address automatically ("you get an IP, and you get an IP!" — hence Chuck calls the router **Oprah**). The protocol doing this is **DHCP** (Dynamic Host Configuration Protocol). → Course version: [Day 39 - DHCP](../../01%20-%20Course%20Days/Day%2039%20-%20DHCP.md)
+Your home **router** does. Every device that joins the network is handed an address automatically ("you get an IP, and you get an IP!" — hence Chuck calls the router **Oprah**). The protocol doing this is **DHCP** (Dynamic Host Configuration Protocol). → Course version: [Day 39 - DHCP](../01%20-%20Course%20Days/Day%2039%20-%20DHCP.md)
 
 ## 4. Anatomy: Octets ▶ [4:28](https://www.youtube.com/watch?v=5WfiTHiU4x8&t=268s)
 
@@ -59,7 +61,7 @@ Your home **router** does. Every device that joins the network is handed an addr
 An IPv4 address = **4 numbers separated by 3 dots**. Each number is an **octet** and can be anything from **0 to 255**.
 
 > [!info]- Why "octet", and why exactly 0–255? (click)  
-> Each number is stored as **8 bits** (*octo* = eight). 8 bits can hold 2⁸ = **256** different values: `00000000` = 0 up to `11111111` = **255**. So 4 octets = **32 bits** = one IPv4 address. → [Bits and Bytes](../../Concepts/Bits%20and%20Bytes.md)
+> Each number is stored as **8 bits** (*octo* = eight). 8 bits can hold 2⁸ = **256** different values: `00000000` = 0 up to `11111111` = **255**. So 4 octets = **32 bits** = one IPv4 address. → [Bits and Bytes](../Concepts/Bits%20and%20Bytes.md)
 
 ## 5. The Subnet Mask Hack: 255 = Locked, 0 = Free ▶ [5:17](https://www.youtube.com/watch?v=5WfiTHiU4x8&t=317s)
 
@@ -129,7 +131,7 @@ With `192.168.1.x` and mask `255.255.255.0`, the last octet can be 0–255 = **2
 |Address|Name|Why you can't give it to a device|
 |---|---|---|
 |`192.168.1.0` (first)|**Network address**|Names the network itself (the "street")|
-|`192.168.1.255` (last)|**Broadcast address**|Anything sent here goes to **every** device ("Chatty Kathy"). → [Broadcast](../../Concepts/Unicast%20and%20Broadcast.md)|
+|`192.168.1.255` (last)|**Broadcast address**|Anything sent here goes to **every** device ("Chatty Kathy"). → [Broadcast](../Concepts/Unicast%20and%20Broadcast.md)|
 
 ```
 256 total − 2 reserved = 254 usable host addresses
