@@ -7,7 +7,7 @@ episode: 2
 
 # EP 2 - We Ran Out of IP Addresses
 
-[⬅️ EP 1 - What is an IP Address](EP%201%20-%20What%20is%20an%20IP%20Address.md)
+[⬅️ EP 1 - What is an IP Address](EP%201%20-%20What%20is%20an%20IP%20Address.md) · [EP 3 - Private IP Addresses and NAT ➡️](EP%203%20-%20Private%20IP%20Addresses%20and%20NAT.md)
 
 **Series:** NetworkChuck · *You SUCK at Subnetting* · Episode 2
 **Video:** [we ran OUT of IP Addresses!!](https://www.youtube.com/watch?v=tcae4TSSMo8) · 16:48 (sponsor segments skipped: 1:20–3:00 and from 15:50) · ▶ links jump to that moment

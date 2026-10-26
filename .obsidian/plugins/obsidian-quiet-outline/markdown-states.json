@@ -830,7 +830,7 @@
     ]
   },
   "CCNA/Subnetting Master - Network Chuck/EP 2 - We Ran Out of IP Addresses.md": {
-    "scroll": 108.09677419354838,
+    "scroll": 165.01639344262296,
     "cursor": {
       "from": {
         "line": 32,
@@ -855,6 +855,22 @@
       "to": {
         "line": 77,
         "ch": 69
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "CCNA/Subnetting Master - Network Chuck/EP 3 - Private IP Addresses and NAT.md": {
+    "scroll": 131.9,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": [
