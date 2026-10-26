@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md",
+                "file": "CCNA/Subnetting Master - Network Chuck/What is IP Address/EP 1 - What is an IP Address.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 06 - Ethernet LAN Switching Part 2"
+              "title": "EP 1 - What is an IP Address"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "decimal to hexa",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +76,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,6 +252,22 @@
   },
   "active": "8733de1e60b21b7a",
   "lastOpenFiles": [
+    "CCNA/01 - Course Days/Day 39 - DHCP.md",
+    "CCNA/Subnetting Master - Network Chuck/What is IP Address/EP 1 - What is an IP Address.md",
+    "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md",
+    "CCNA/Subnetting Master - Network Chuck/What is IP Address/Attachments/EP 1 - What is an IP Address-11.png",
+    "CCNA/Subnetting Master - Network Chuck/What is IP Address/Attachments/EP 1 - What is an IP Address-10.png",
+    "CCNA/Subnetting Master - Network Chuck/What is IP Address/Attachments/EP 1 - What is an IP Address-9.png",
+    "CCNA/Subnetting Master - Network Chuck/What is IP Address/Attachments/EP 1 - What is an IP Address-8.png",
+    "CCNA/Subnetting Master - Network Chuck/What is IP Address/Attachments/EP 1 - What is an IP Address-7.png",
+    "CCNA/Subnetting Master - Network Chuck/What is IP Address/Attachments/EP 1 - What is an IP Address-6.png",
+    "CCNA/Subnetting Master - Network Chuck/What is IP Address/Attachments/EP 1 - What is an IP Address-5.png",
+    "CCNA/Subnetting Master - Network Chuck/What is IP Address/Attachments/EP 1 - What is an IP Address-4.png",
+    "CCNA/Subnetting Master - Network Chuck/What is IP Address/Attachments/EP 1 - What is an IP Address-3.png",
+    "CCNA/Subnetting Master - Network Chuck/What is IP Address/Attachments/EP 1 - What is an IP Address-2.png",
+    "CCNA/Subnetting Master - Network Chuck/What is IP Address/Attachments",
+    "CCNA/Subnetting Master - Network Chuck/What is IP Address",
+    "CCNA/Subnetting Master - Network Chuck",
     "CCNA/01 - Course Days/Day 05 - Ethernet LAN Switching Part 1.md",
     "CCNA/00 - Start Here/CCNA Dashboard.md",
     "CCNA/01 - Course Days/Day 02 - Interfaces and Cables.md",
@@ -260,23 +275,12 @@
     "CCNA/01 - Course Days/Day 03 - How the TCP-IP Model Actually Works.md",
     "CCNA/01 - Course Days/Day 04 - Intro to the CLI.md",
     "CCNA/Concepts/TCP-IP Model.md",
-    "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works-20.png",
-    "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works-19.png",
-    "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works-18.png",
-    "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works-17.png",
-    "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works-16.png",
-    "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works-15.png",
-    "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works-14.png",
-    "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works-13.png",
-    "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works-12.png",
-    "CCNA/01 - Course Days/Attachments/Day 03 - How the TCP-IP Model Actually Works-11.png",
     "CCNA/01 - Course Days/Day 01 - Network Devices.md",
     "Computer Fundamentals/02 - BIOS in a Nutshell.md",
     "Computer Fundamentals/Attachments",
     "Computer Fundamentals",
     "CCNA/Concepts/Cisco Password Types.md",
     "CCNA/Untitled.md",
-    "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md",
     "CCNA/Concepts/Unicast and Broadcast.md",
     "CCNA/01 - Course Days/Day 07 - IPv4 Addressing Part 1.md",
     "CCNA/01 - Course Days/Day 08 - IPv4 Addressing Part 2.md",
@@ -294,11 +298,6 @@
     "CCNA/06 - Practice Questions/Question Bank.md",
     "CCNA/06 - Practice Questions/Practice Question Template.md",
     "CCNA/06 - Practice Questions",
-    "CCNA/05 - Revision/Subnetting Practice.md",
-    "CCNA/05 - Revision/Revision Dashboard.md",
-    "CCNA/05 - Revision",
-    "CCNA/04 - Questions and Doubts",
-    "CCNA/03 - Cisco Commands",
     "Untitled.canvas"
   ]
 }

@@ -1797,6 +1797,22 @@
         "charCountStart": 12808,
         "changes": [],
         "id": 113
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "CCNA/Subnetting Master - Network Chuck/What is IP Address/EP 1 - What is an IP Address.md",
+        "wordCountStart": 1670,
+        "charCountStart": 9735,
+        "changes": [],
+        "id": 114
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "CCNA/01 - Course Days/Day 39 - DHCP.md",
+        "wordCountStart": 262,
+        "charCountStart": 1661,
+        "changes": [],
+        "id": 115
       }
     ]
   }
