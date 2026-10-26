@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/Concepts/IPv4 Address Classes.md",
-                "mode": "source",
+                "file": "CCNA/Subnetting Master - Network Chuck/EP 2 - We Ran Out of IP Addresses.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IPv4 Address Classes"
+              "title": "EP 2 - We Ran Out of IP Addresses"
             }
           }
         ]
@@ -252,19 +252,20 @@
   },
   "active": "8733de1e60b21b7a",
   "lastOpenFiles": [
+    "CCNA/Concepts/Private IP Addresses.md",
+    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 3 - Private IP Addresses and NAT-8.png",
+    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 3 - Private IP Addresses and NAT-7.png",
+    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 3 - Private IP Addresses and NAT-6.png",
+    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 3 - Private IP Addresses and NAT-5.png",
+    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 3 - Private IP Addresses and NAT-4.png",
+    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 3 - Private IP Addresses and NAT-3.png",
+    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 3 - Private IP Addresses and NAT-2.png",
+    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 3 - Private IP Addresses and NAT-1.png",
+    "CCNA/Concepts/IPv4 Address Classes.md",
     "CCNA/Subnetting Master - Network Chuck/EP 2 - We Ran Out of IP Addresses.md",
     "CCNA/Subnetting Master - Network Chuck/EP 1 - What is an IP Address.md",
-    "CCNA/Concepts/IPv4 Address Classes.md",
     "CCNA/Subnetting Master - Network Chuck/Attachments/EP 2 - We Ran Out of IP Addresses-11.png",
     "CCNA/Subnetting Master - Network Chuck/Attachments/EP 2 - We Ran Out of IP Addresses-10.png",
-    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 2 - We Ran Out of IP Addresses-9.png",
-    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 2 - We Ran Out of IP Addresses-8.png",
-    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 2 - We Ran Out of IP Addresses-7.png",
-    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 2 - We Ran Out of IP Addresses-6.png",
-    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 2 - We Ran Out of IP Addresses-5.png",
-    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 2 - We Ran Out of IP Addresses-4.png",
-    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 2 - We Ran Out of IP Addresses-3.png",
-    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 2 - We Ran Out of IP Addresses-2.png",
     "CCNA/01 - Course Days/Day 39 - DHCP.md",
     "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md",
     "CCNA/Subnetting Master - Network Chuck/Attachments",
@@ -295,7 +296,6 @@
     "CCNA/99 - Templates/Lab Note.md",
     "CCNA/99 - Templates/Daily Course Note.md",
     "CCNA/99 - Templates/Concept Note.md",
-    "CCNA/99 - Templates/Command Note.md",
     "CCNA/99 - Templates",
     "CCNA/06 - Practice Questions",
     "Untitled.canvas"

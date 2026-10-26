@@ -830,7 +830,7 @@
     ]
   },
   "CCNA/Subnetting Master - Network Chuck/EP 2 - We Ran Out of IP Addresses.md": {
-    "scroll": 36.41305555555556,
+    "scroll": 108.09677419354838,
     "cursor": {
       "from": {
         "line": 32,
@@ -846,15 +846,15 @@
     ]
   },
   "CCNA/Concepts/IPv4 Address Classes.md": {
-    "scroll": 47.49897330595483,
+    "scroll": 43.044270833333336,
     "cursor": {
       "from": {
-        "line": 6,
-        "ch": 0
+        "line": 77,
+        "ch": 69
       },
       "to": {
-        "line": 6,
-        "ch": 0
+        "line": 77,
+        "ch": 69
       }
     },
     "expandedKeys": [
