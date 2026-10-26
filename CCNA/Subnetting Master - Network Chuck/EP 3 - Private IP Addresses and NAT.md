@@ -7,7 +7,7 @@ episode: 3
 
 # EP 3 - Private IP Addresses and NAT
 
-[⬅️ EP 2 - We Ran Out of IP Addresses](EP%202%20-%20We%20Ran%20Out%20of%20IP%20Addresses.md)
+[⬅️ EP 2 - We Ran Out of IP Addresses](EP%202%20-%20We%20Ran%20Out%20of%20IP%20Addresses.md) · [EP 4 - Binary and Decimal Conversion ➡️](EP%204%20-%20Binary%20and%20Decimal%20Conversion.md)
 
 **Series:** NetworkChuck · *You SUCK at Subnetting* · Episode 3
 **Video:** [we're out of IP Addresses….but this saved us (Private IP Addresses)](https://www.youtube.com/watch?v=8bhvn9tQk8o) · 15:02 (sponsor segments skipped: 0:42–2:48 and from 13:47) · ▶ links jump to that moment
