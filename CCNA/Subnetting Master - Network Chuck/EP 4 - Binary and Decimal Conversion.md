@@ -7,7 +7,7 @@ episode: 4
 
 # EP 4 - Binary and Decimal Conversion
 
-[⬅️ EP 3 - Private IP Addresses and NAT](EP%203%20-%20Private%20IP%20Addresses%20and%20NAT.md)
+[⬅️ EP 3 - Private IP Addresses and NAT](EP%203%20-%20Private%20IP%20Addresses%20and%20NAT.md) · [EP 5 - What is a Subnet Mask ➡️](EP%205%20-%20What%20is%20a%20Subnet%20Mask.md)
 
 **Series:** NetworkChuck · *You SUCK at Subnetting* · Episode 4
 **Video:** [i bet you can't do this (because you still suck at subnetting)](https://www.youtube.com/watch?v=2-i5x8KCfII) · 18:45 (sponsor segments skipped: 6:10–8:50 and from 15:55) · ▶ links jump to that moment
