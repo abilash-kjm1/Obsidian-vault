@@ -1848,6 +1848,20 @@
         "charCountStart": 8895,
         "changes": [],
         "id": 118
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "CCNA/Subnetting Master - Network Chuck/EP 4 - Binary and Decimal Conversion.md",
+        "wordCountStart": 1056,
+        "charCountStart": 6102,
+        "changes": [
+          {
+            "timeKey": "22:30",
+            "w": 0,
+            "c": -2
+          }
+        ],
+        "id": 119
       }
     ]
   }

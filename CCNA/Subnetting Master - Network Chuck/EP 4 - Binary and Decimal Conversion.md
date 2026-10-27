@@ -60,7 +60,7 @@ Two ways to build it: 2⁰ up to 2⁷, **or** start at 1 and keep doubling. Eigh
 
 Put each octet under the chart and **add the values where the bit is 1**.
 
-**① `11000000`**
+**① 11000000**
 
 ![700](Attachments/EP%204%20-%20Binary%20and%20Decimal%20Conversion-4.png)
 
