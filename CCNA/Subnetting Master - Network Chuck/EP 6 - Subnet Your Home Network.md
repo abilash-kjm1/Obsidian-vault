@@ -150,6 +150,8 @@ The same 4 steps work for Class A and B too. They just feel different at first. 
 > - Cut it into **8 slices**, and each slice has **32 bites**.  
 > **More slices = smaller slices.** You never get more pizza, you only divide it differently.
 
+![Same pizza, more slices](Attachments/EP%206%20-%20Visual%202%20-%20Pizza%20Slices.svg)
+
 ## B. The One Idea Behind Everything: Moving the Line
 
 An IPv4 address always has **32 bits**. The subnet mask draws a **line** through them:
@@ -157,12 +159,7 @@ An IPv4 address always has **32 bits**. The subnet mask draws a **line** through
 - left of the line (mask **1s**) = **network bits**: *which* network
 - right of the line (mask **0s**) = **host bits**: *which device*
 
-```
-Before  /24:  11111111.11111111.11111111 | 00000000     1 network, 8 host bits
-After   /26:  11111111.11111111.11111111.11 | 000000    4 networks, 6 host bits
-                                         ↑↑
-                          2 host bits "hacked" to the network side
-```
+![Subnetting = moving the line](Attachments/EP%206%20-%20Visual%201%20-%20Moving%20the%20Line.svg)
 
 > [!important] The rule  
 > **Move the line right** (steal host bits) → **more networks, fewer hosts** each.  
@@ -172,10 +169,7 @@ After   /26:  11111111.11111111.11111111.11 | 000000    4 networks, 6 host bits
 
 Write **both** charts on paper, one under the other, before you start.
 
-```
-Nosferatu (bit values):          128   64   32   16    8    4    2    1
-Nosferatu's brother (×2):        256  128   64   32   16    8    4    2
-```
+![Chuck's two charts](Attachments/EP%206%20-%20Visual%203%20-%20Two%20Charts.svg)
 
 |Chart|What it's for|How to read it|
 |---|---|---|
@@ -187,25 +181,17 @@ Nosferatu's brother (×2):        256  128   64   32   16    8    4    2
 
 ## D. The 4 Steps (Ask Yourself These Questions)
 
-```mermaid
-flowchart LR
-  A["① How many bits<br/>do I hack?"] --> B["② Flip them<br/>→ new mask"]
-  B --> C["③ What's the<br/>increment?"]
-  C --> D["④ Count up<br/>→ networks"]
-```
+![The 4 steps](Attachments/EP%206%20-%20Visual%204%20-%20The%204%20Steps.svg)
 
-|Step|Ask yourself|How|Example: 4 networks from 192.168.1.0/24|
-|---|---|---|---|
-|**①**|How many host bits must I hack?|Brother chart: count from the right until you reach **≥** the networks you need|2 → 4 ✅ = **2 bits**|
-|**②**|What's my new mask?|Turn those host bits into 1s, then convert with Nosferatu|`11000000` = 128 + 64 = **192** → **255.255.255.192 /26**|
-|**③**|What's the increment?|The Nosferatu value **above the last 1** in the mask|Last 1 is under **64** → increment **64**|
-|**④**|What are my networks?|Start at 0 and keep adding the increment. Each network ends **1 before** the next one starts.|.0 · .64 · .128 · .192|
-
-**Bonus:** usable hosts per network = 2^(host bits left) − 2 = 2⁶ − 2 = **62**.
+> [!tip] Say it out loud while solving  
+> ① *How many bits do I hack?* → ② *What's my new mask?* → ③ *What's my increment?* → ④ *What are my networks?*  
+> Each network ends **1 before** the next one starts.
 
 ## E. See *Why* the Networks Are .0, .64, .128, .192
 
 The 2 hacked bits can only take 4 values: `00`, `01`, `10`, `11`. Each value is **one network**:
+
+![Your home network, sliced into 4](Attachments/EP%206%20-%20Visual%205%20-%20Network%20Map.svg)
 
 |Hacked bits|Last octet in binary (first address)|Decimal|Network|Range|
 |---|---|---|---|---|
@@ -216,13 +202,7 @@ The 2 hacked bits can only take 4 values: `00`, `01`, `10`, `11`. Each value is 
 
 Inside each network, the **6 remaining host bits** run from `000000` (network address) to `111111` (broadcast):
 
-```
-Network 2:  01|000000 = .64   ← network address (not usable)
-            01|000001 = .65   ← first usable host
-            ...
-            01|111110 = .126  ← last usable host
-            01|111111 = .127  ← broadcast (not usable)
-```
+![Zoom in: network 2 (IoT)](Attachments/EP%206%20-%20Visual%206%20-%20Inside%20One%20Network.svg)
 
 > [!important] That's the whole secret  
 > The networks go up in steps of **64** because 64 is the value of the **last hacked bit**. Changing that bit from 0 to 1 jumps you to the next network. That's why it's called the **increment**.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/Subnetting Master - Network Chuck/EP 4 - Binary and Decimal Conversion.md",
+                "file": "CCNA/Subnetting Master - Network Chuck/EP 6 - Subnet Your Home Network.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EP 4 - Binary and Decimal Conversion"
+              "title": "EP 6 - Subnet Your Home Network"
             }
           }
         ]
@@ -252,21 +252,21 @@
   },
   "active": "8733de1e60b21b7a",
   "lastOpenFiles": [
+    "CCNA/Subnetting Master - Network Chuck/EP 4 - Binary and Decimal Conversion.md",
+    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 6 - Visual 6 - Inside One Network.svg",
+    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 6 - Visual 5 - Network Map.svg",
+    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 6 - Visual 4 - The 4 Steps.svg",
+    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 6 - Visual 3 - Two Charts.svg",
+    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 6 - Visual 2 - Pizza Slices.svg",
+    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 6 - Visual 1 - Moving the Line.svg",
     "CCNA/Subnetting Master - Network Chuck/EP 5 - What is a Subnet Mask.md",
     "CCNA/Subnetting Master - Network Chuck/Attachments/EP 5 - What is a Subnet Mask-7.png",
     "CCNA/Subnetting Master - Network Chuck/Attachments/EP 5 - What is a Subnet Mask-6.png",
     "CCNA/Subnetting Master - Network Chuck/Attachments/EP 5 - What is a Subnet Mask-5.png",
     "CCNA/Subnetting Master - Network Chuck/Attachments/EP 5 - What is a Subnet Mask-4.png",
-    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 5 - What is a Subnet Mask-3.png",
-    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 5 - What is a Subnet Mask-2.png",
-    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 5 - What is a Subnet Mask-1.png",
     "CCNA/Subnetting Master - Network Chuck/EP 6 - Subnet Your Home Network.md",
     "CCNA/Concepts/Subnetting.md",
-    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 6 - Subnet Your Home Network-7.png",
-    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 6 - Subnet Your Home Network-6.png",
-    "CCNA/Subnetting Master - Network Chuck/Attachments/EP 6 - Subnet Your Home Network-5.png",
     "CCNA/Subnetting Master - Network Chuck/EP 3 - Private IP Addresses and NAT.md",
-    "CCNA/Subnetting Master - Network Chuck/EP 4 - Binary and Decimal Conversion.md",
     "CCNA/Concepts/Binary.md",
     "CCNA/Subnetting Master - Network Chuck/EP 2 - We Ran Out of IP Addresses.md",
     "CCNA/Subnetting Master - Network Chuck/EP 3 - Private IP Addresses and NAT.md.tmp.24280.5dc1f0af5342",
@@ -293,7 +293,6 @@
     "CCNA/Untitled.md",
     "CCNA/Concepts/Unicast and Broadcast.md",
     "CCNA/01 - Course Days/Day 07 - IPv4 Addressing Part 1.md",
-    "CCNA/01 - Course Days/Day 08 - IPv4 Addressing Part 2.md",
     "CCNA/01 - Course Days/Day 06 - Ethernet LAN Switching Part 2.md.tmp.21960.65772bb721ca",
     "CCNA/Concepts",
     "CCNA/01 - Course Days/Attachments",
